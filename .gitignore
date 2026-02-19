@@ -1,0 +1,6 @@
+.DS_Store
+.translation_cache.he.json
+.venv/
+hebrew-site_broken_*/
+__pycache__/
+*.pyc

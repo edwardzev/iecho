@@ -1,0 +1,103 @@
+/* Hebrew RTL layout overrides for mirrored UI parity */
+html[lang="he"][dir="rtl"],
+html[lang="he"][dir="rtl"] body {
+  direction: rtl;
+}
+
+html[lang="he"][dir="rtl"] body {
+  text-align: right;
+}
+
+/* Header: mirror desktop top row */
+@media (min-width: 1200px) {
+  html[lang="he"][dir="rtl"] .container-iecho-address > .d-flex {
+    flex-direction: row-reverse;
+  }
+
+  html[lang="he"][dir="rtl"] .logo-with-menu {
+    flex-direction: row-reverse;
+  }
+
+  html[lang="he"][dir="rtl"] .menu-main-ul {
+    flex-direction: row-reverse;
+  }
+
+  html[lang="he"][dir="rtl"] .menu-main-logo {
+    margin-right: 0 !important;
+    margin-left: 1.5rem !important;
+  }
+
+  html[lang="he"][dir="rtl"] .main-contacts-new {
+    margin-left: 0 !important;
+    margin-right: auto !important;
+    text-align: left;
+    direction: ltr;
+  }
+
+  html[lang="he"][dir="rtl"] .call-order {
+    align-items: flex-start;
+  }
+
+  html[lang="he"][dir="rtl"] .menu-img-droppp {
+    margin-left: 0;
+    margin-right: -20px;
+    text-align: right;
+  }
+}
+
+/* Mirror major split sections */
+html[lang="he"][dir="rtl"] .iecho-purpose .row,
+html[lang="he"][dir="rtl"] .container-main-page-products-top,
+html[lang="he"][dir="rtl"] .iecho-top-outer,
+html[lang="he"][dir="rtl"] .iecho-top-main-outer {
+  flex-direction: row-reverse;
+}
+
+/* Keep numbers/phones readable */
+html[lang="he"][dir="rtl"] a[href^="tel:"],
+html[lang="he"][dir="rtl"] .footer-flexer-phone,
+html[lang="he"][dir="rtl"] .footer-main-phone,
+html[lang="he"][dir="rtl"] #desktop-phone {
+  direction: ltr;
+  unicode-bidi: isolate;
+  text-align: left;
+}
+
+/* Right-align text blocks in hero/content areas */
+html[lang="he"][dir="rtl"] .h1-p-iecho,
+html[lang="he"][dir="rtl"] .h1-p-iecho-2,
+html[lang="he"][dir="rtl"] .iecho-purpose-high-p,
+html[lang="he"][dir="rtl"] .iecho-purpose-low-p,
+html[lang="he"][dir="rtl"] .check_mark_block-ul,
+html[lang="he"][dir="rtl"] .column-card,
+html[lang="he"][dir="rtl"] .s-dscr {
+  text-align: right;
+}
+
+/* Lists and bullets */
+html[lang="he"][dir="rtl"] .check_mark_block-ul li,
+html[lang="he"][dir="rtl"] .povtor-cities-ul li {
+  padding-right: 16px;
+  padding-left: 0;
+}
+
+html[lang="he"][dir="rtl"] .check_mark_block-ul li::before,
+html[lang="he"][dir="rtl"] .povtor-cities-ul li::before,
+html[lang="he"][dir="rtl"] .column-card-span::before {
+  left: auto;
+  right: -16px;
+}
+
+/* Contact / popup alignment */
+html[lang="he"][dir="rtl"] .popup-contact,
+html[lang="he"][dir="rtl"] .city-popup,
+html[lang="he"][dir="rtl"] .city-popup-title,
+html[lang="he"][dir="rtl"] .city-option {
+  text-align: right;
+}
+
+/* Keep brand logos/graphics untouched */
+html[lang="he"][dir="rtl"] img,
+html[lang="he"][dir="rtl"] svg {
+  direction: ltr;
+}

@@ -1,0 +1,2860 @@
+{
+  "iecho-bk_tk.php.html": {
+    "title": "Многофункциональные раскройные комплексы iECHO - купить в Смарт-Т",
+    "lang": "ru",
+    "meta_description": "Цифровые автоматические системы iECHO скоростной резки для использования в различных производственных отраслях. С высочайшей точностью осуществляют сквозную резку, надсечку, фрезерование, перфорацию, нанесения маркировки и черчение.",
+    "canonical": "https://iecho.ru/iecho-bk_tk.php",
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "РАСКРОЙНЫЕ КОМПЛЕКСЫ iECHO"
+      },
+      {
+        "tag": "h2",
+        "text": "ОБРАБАТЫВАЕМЫЕ МАТЕРИАЛЫ"
+      },
+      {
+        "tag": "h2",
+        "text": "ИНСТРУМЕНТЫ"
+      },
+      {
+        "tag": "h2",
+        "text": "ИНСТРУМЕНТАЛЬНЫЕ МОДУЛИ"
+      },
+      {
+        "tag": "h2",
+        "text": "ОПЦИИ ПОД ВАШИ ЗАДАЧИ"
+      },
+      {
+        "tag": "h2",
+        "text": "ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ"
+      },
+      {
+        "tag": "h3",
+        "text": "Библиотека материалов"
+      },
+      {
+        "tag": "h3",
+        "text": "Инновационные функции графического редактирования"
+      },
+      {
+        "tag": "h3",
+        "text": "Управление заданиями"
+      },
+      {
+        "tag": "h3",
+        "text": "Дополнительные возможности"
+      },
+      {
+        "tag": "h3",
+        "text": "Облачный сервер"
+      },
+      {
+        "tag": "h3",
+        "text": "Контрольные функции"
+      },
+      {
+        "tag": "h2",
+        "text": "РАБОЧИЙ ПРОЦЕСС"
+      },
+      {
+        "tag": "h2",
+        "text": "ИНСТАЛЛЯЦИИ КОМПЛЕКСОВ iECHOпроведённые компанией \"Смарт-Т\""
+      }
+    ],
+    "stylesheets": [
+      "https://iecho.ru/css/main.iechomin.css?v=1771448715"
+    ],
+    "scripts": [
+      "https://iecho.ru/js/scriptsiecho.min.js",
+      "https://iecho.ru/libs/contact.js",
+      "https://iecho.ru/libs/jquery.lazy.min.js",
+      "https://iecho.ru/libs/jquery/dist/jquery.min.js",
+      "https://iecho.ru/libs/lazyYT-min.js",
+      "https://iecho.ru/libs/magnific_Pop-min.js",
+      "https://iecho.ru/libs/slick-lightbox-min.js",
+      "https://iecho.ru/libs/slick.min.js",
+      "https://iecho.ru/libs/validator.min.js"
+    ],
+    "forms": [
+      {
+        "id": "contact-form",
+        "action": "contact.php",
+        "method": "post"
+      }
+    ],
+    "form_fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "name",
+        "id": "form_name",
+        "placeholder": "Имя",
+        "value": ""
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "surname",
+        "id": "form_lastname",
+        "placeholder": "Телефон",
+        "value": ""
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "form_email",
+        "placeholder": "E-mail",
+        "value": ""
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "value": "Отправить"
+      }
+    ],
+    "anchors_sample": [
+      {
+        "href": "#iechobk1",
+        "text": "iECHO BK1"
+      },
+      {
+        "href": "#iechobk3",
+        "text": "iECHO BK3"
+      },
+      {
+        "href": "#iechobk4",
+        "text": "iECHO BK4"
+      },
+      {
+        "href": "#iechotk4s",
+        "text": "iECHO TK4S"
+      },
+      {
+        "href": "#iechosk2",
+        "text": "iECHO SK2"
+      },
+      {
+        "href": "#tech-character",
+        "text": "Характеристики"
+      },
+      {
+        "href": "#materials",
+        "text": "Материалы"
+      },
+      {
+        "href": "#instruments",
+        "text": "Инструменты"
+      },
+      {
+        "href": "#options",
+        "text": "Опции"
+      },
+      {
+        "href": "#video",
+        "text": "Видео"
+      },
+      {
+        "href": "#demozal",
+        "text": "Демозал"
+      },
+      {
+        "href": "#bk_tk-installations",
+        "text": "Инсталляции"
+      },
+      {
+        "href": "#contacts",
+        "text": "Контакты"
+      },
+      {
+        "href": "index.php",
+        "text": "Компания iECHO"
+      },
+      {
+        "href": "iecho-bk_tk.php",
+        "text": "Универсальныераскройщики"
+      },
+      {
+        "href": "iecho-gls.php",
+        "text": "АНРК дляраскроя настила"
+      },
+      {
+        "href": "iecho-pk.php",
+        "text": "Компактные режущие плоттеры"
+      },
+      {
+        "href": "https://smart-t.ru/catalog/zapchasti/zapchasti_iecho/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "Запчастии инструменты"
+      },
+      {
+        "href": "tel:+74956639111 ",
+        "text": "+7 (495) 663-9111"
+      },
+      {
+        "href": "mailto:info@smart-t.ru",
+        "text": "info@smart-t.ru"
+      },
+      {
+        "href": "tel:+74956639111",
+        "text": "+7 (495) 663-9111"
+      },
+      {
+        "href": "tel:+78123313993",
+        "text": "+7 (812) 331-3993"
+      },
+      {
+        "href": "tel:+79109956147",
+        "text": "+7 (910) 995-6147"
+      },
+      {
+        "href": "tel:+78612343189",
+        "text": "+7 (861) 234-3189"
+      },
+      {
+        "href": "tel:+79280652415",
+        "text": "+7 (928) 065-2415"
+      },
+      {
+        "href": "tel:+78552781055",
+        "text": "+7 (8552) 78-1055"
+      },
+      {
+        "href": "tel:+79270457387",
+        "text": "+7 (927) 045-73-87"
+      },
+      {
+        "href": "tel:+79270430807",
+        "text": "+7 (927) 043-0807"
+      },
+      {
+        "href": "tel:+74732210030",
+        "text": "+7 (473) 221-0030"
+      },
+      {
+        "href": "tel:+73432885901",
+        "text": "+7 (343) 288-5901"
+      },
+      {
+        "href": "tel:+73833636201",
+        "text": "+7 (383) 36-36-201"
+      },
+      {
+        "href": "tel:+73912180086",
+        "text": "+7 (391) 218-00-86"
+      },
+      {
+        "href": "tel:3757407409242",
+        "text": "+375 (740) 740 92 42"
+      },
+      {
+        "href": "tel:+998909664204",
+        "text": "+998 (90) 966-4204"
+      },
+      {
+        "href": "tel:+77273393369",
+        "text": "+7 (727) 339-33-69"
+      },
+      {
+        "href": "tel:+77172652001",
+        "text": "+7 (7172) 65-20-01"
+      },
+      {
+        "href": "tel:+996703463084",
+        "text": "+996 (703) 46-30-84"
+      },
+      {
+        "href": "#magnific-pop-up-contact-form",
+        "text": "Задать вопрос"
+      },
+      {
+        "href": "#magnific-pop-up-contact-form",
+        "text": "Узнать цену"
+      },
+      {
+        "href": "#instalment-popup",
+        "text": "Покупка в рассрочку"
+      },
+      {
+        "href": "#magnific-pop-up-contact-form",
+        "text": "Получить цену на iECHO BK1"
+      },
+      {
+        "href": "#magnific-pop-up-contact-form",
+        "text": "Получить цену на iECHO BK3"
+      },
+      {
+        "href": "#magnific-pop-up-contact-form",
+        "text": "Получить цену на iECHO BK4"
+      },
+      {
+        "href": "#magnific-pop-up-contact-form",
+        "text": "Получить цену на iECHO TK4S"
+      },
+      {
+        "href": "#magnific-pop-up-contact-form",
+        "text": "Получить цену на iECHO SK2"
+      },
+      {
+        "href": "installations.php",
+        "text": "истории успеха в вашей сфере показать кейсы"
+      },
+      {
+        "href": "#magnific-pop-up-contact-form",
+        "text": "Подобрать оборудование"
+      },
+      {
+        "href": "https://rutube.ru/play/embed/16fa2f4a0b74a72e44b3881086353df3/?t=0",
+        "text": "Смотреть видео"
+      },
+      {
+        "href": "tel:+74956639111",
+        "text": "+7 495 663-9111"
+      },
+      {
+        "href": "tel:+79109956147",
+        "text": "+7 (910) 995-61-47"
+      },
+      {
+        "href": "tel:+3757407409242",
+        "text": "+375 (740) 740 92 42"
+      },
+      {
+        "href": "tel:+998909664204",
+        "text": "+998 90 966-42-04"
+      },
+      {
+        "href": "https://www.smart-t.ru/company/blog/uzhe-vtoroy-raskroynyy-kompleks-iecho-tk4s-na-mebelnoy-fabrike-avrora/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "\"Аврора\" (Пермь, мягкая мебель)"
+      },
+      {
+        "href": "https://www.smart-t.ru/company/blog/u-krupnogo-proizvoditelya-meditsinskoy-produktsii-ustanovlen-vtoroy-iecho-bk/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "\"ВладМива\" (Белгород, медицинские расходные материалы)"
+      },
+      {
+        "href": "https://www.smart-t.ru/company/blog/zapushchen-uzhe-vtoroy-raskroynyy-kompleks-iecho-na-mebelnom-proizvodstve-skdesign/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "\"SKDesign\" (Санкт-Петербург, мягкая мебель)"
+      },
+      {
+        "href": "https://www.smart-t.ru/company/blog/uzhe-tretiy-raskroyshchik-iecho-ustanovlen-na-mebelnoy-fabrike-mamadoma/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "\"Mamadoma\" (Ижевск, производство кухонных столов и стульев)"
+      },
+      {
+        "href": "https://www.smart-t.ru/company/blog/uzhe-tretiy-raskroynyy-kompleks-iecho-zapushchen-na-zavode-lodok-fregat/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "\"Фрегат\" (Санкт-Петербург, надувные лодки)"
+      },
+      {
+        "href": "https://www.smart-t.ru/company/blog/na-podmoskovnoy-fabrike-top-produkt-ustanovlen-uzhe-tretiy-raskroyshchik-iecho/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "\"Топ Продукт\" (Раменское, пищевая и упаковочная продукция)"
+      },
+      {
+        "href": "https://www.smart-t.ru/company/blog/uzhe-tretiy-raskroyshchik-iecho-ustanovlen-na-fabrike-meridian/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "\"Меридиан\" (Нижний Новгород, спецодежда, спецобувь, СИЗ)"
+      },
+      {
+        "href": "https://www.smart-t.ru/company/blog/uzhe-tretiy-iecho-bk-i-mimaki-ujv100-ustanovleny-v-krasnoarmeyske/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "\"Пластик Он Лайн\" (Красноармейск, канцелярская и сувенирная продукция)"
+      }
+    ],
+    "ids_sample": [
+      {
+        "tag": "div",
+        "id": "fixed-menu",
+        "class": "fixed-menu p-24"
+      },
+      {
+        "tag": "a",
+        "id": "scroll_to_top",
+        "class": ""
+      },
+      {
+        "tag": "a",
+        "id": "desktop-phone",
+        "class": " "
+      },
+      {
+        "tag": "div",
+        "id": "contacts-info",
+        "class": " relat  footer-offices contacts-mobile-cities-block text-white footer-item "
+      },
+      {
+        "tag": "div",
+        "id": "iechobk1",
+        "class": "col-12 col-lg-6 top-iecho-item-description mt-lg-16"
+      },
+      {
+        "tag": "div",
+        "id": "iechobk3",
+        "class": "complexes-item row row-echo-top d-flex align-items-center z1 "
+      },
+      {
+        "tag": "div",
+        "id": "iechobk4",
+        "class": "complexes-item  row row-echo-top d-flex align-items-center"
+      },
+      {
+        "tag": "div",
+        "id": "iechotk4s",
+        "class": "complexes-item  row row-echo-top d-flex align-items-center z1"
+      },
+      {
+        "tag": "div",
+        "id": "iechosk2",
+        "class": "complexes-item  row row-echo-top d-flex align-items-center z1"
+      },
+      {
+        "tag": "div",
+        "id": "tech-character",
+        "class": "technical-characteristics"
+      },
+      {
+        "tag": "div",
+        "id": "comparative-table",
+        "class": ""
+      },
+      {
+        "tag": "div",
+        "id": "tab-1",
+        "class": "tab-content current"
+      },
+      {
+        "tag": "div",
+        "id": "tab-2",
+        "class": "tab-content"
+      },
+      {
+        "tag": "div",
+        "id": "tab-3",
+        "class": "tab-content"
+      },
+      {
+        "tag": "div",
+        "id": "tab-4",
+        "class": "tab-content"
+      },
+      {
+        "tag": "div",
+        "id": "tab-5",
+        "class": "tab-content"
+      },
+      {
+        "tag": "div",
+        "id": "materials",
+        "class": "materials pt-40 pt-sm-64 pt-xl-40 pb-xl-96 lazy-container "
+      },
+      {
+        "tag": "div",
+        "id": "instruments",
+        "class": "INSTRUMENTS relat"
+      },
+      {
+        "tag": "div",
+        "id": "simple-tabs-top",
+        "class": "col-12 col-xl-7"
+      },
+      {
+        "tag": "div",
+        "id": "simple-tabs-bottom",
+        "class": "col-12 col-xl-5"
+      },
+      {
+        "tag": "section",
+        "id": "first-tab-group",
+        "class": "tabgroup slickslider-tab"
+      },
+      {
+        "tag": "div",
+        "id": "tab1",
+        "class": "simple-tabs-tab-item"
+      },
+      {
+        "tag": "div",
+        "id": "tab2",
+        "class": "simple-tabs-tab-item"
+      },
+      {
+        "tag": "div",
+        "id": "tab3",
+        "class": "simple-tabs-tab-item"
+      },
+      {
+        "tag": "div",
+        "id": "tab4",
+        "class": "simple-tabs-tab-item"
+      },
+      {
+        "tag": "div",
+        "id": "tab5",
+        "class": "simple-tabs-tab-item"
+      },
+      {
+        "tag": "div",
+        "id": "tab6",
+        "class": "simple-tabs-tab-item"
+      },
+      {
+        "tag": "div",
+        "id": "tab7",
+        "class": "simple-tabs-tab-item"
+      },
+      {
+        "tag": "div",
+        "id": "tab8",
+        "class": "simple-tabs-tab-item"
+      },
+      {
+        "tag": "div",
+        "id": "tab9",
+        "class": "simple-tabs-tab-item"
+      },
+      {
+        "tag": "div",
+        "id": "tab10",
+        "class": "simple-tabs-tab-item"
+      },
+      {
+        "tag": "div",
+        "id": "tab12",
+        "class": "simple-tabs-tab-item"
+      },
+      {
+        "tag": "div",
+        "id": "options",
+        "class": "SYSTEM pt-sm-80 pt-md-64 pt-lg-40"
+      },
+      {
+        "tag": "div",
+        "id": "video",
+        "class": "i-video relat pt-xl-120"
+      },
+      {
+        "tag": "div",
+        "id": "mappper",
+        "class": "relat"
+      },
+      {
+        "tag": "div",
+        "id": "demozal",
+        "class": "container relat"
+      },
+      {
+        "tag": "div",
+        "id": "bk_tk-installations",
+        "class": "bk_tk-installations relat"
+      },
+      {
+        "tag": "div",
+        "id": "all-installations",
+        "class": "slickslider-other lazy-container relat z1 mt-24"
+      },
+      {
+        "tag": "span",
+        "id": "pagescrollreach",
+        "class": ""
+      },
+      {
+        "tag": "div",
+        "id": "contacts",
+        "class": "footer-smart"
+      },
+      {
+        "tag": "div",
+        "id": "edger",
+        "class": ""
+      },
+      {
+        "tag": "a",
+        "id": "order-button-footer",
+        "class": "order-button-footer show1 popup-content-without-arrows header-top-button  d-md-none"
+      },
+      {
+        "tag": "div",
+        "id": "contacts-info",
+        "class": " relat  footer-offices contacts-mobile-cities-block text-white footer-item "
+      },
+      {
+        "tag": "div",
+        "id": "magnific-pop-up-contact-form",
+        "class": "white-popup mfp-hide"
+      },
+      {
+        "tag": "form",
+        "id": "contact-form",
+        "class": ""
+      },
+      {
+        "tag": "p",
+        "id": "displayText1",
+        "class": "title"
+      },
+      {
+        "tag": "p",
+        "id": "displayText2",
+        "class": "subtitle"
+      },
+      {
+        "tag": "input",
+        "id": "form_primary",
+        "class": "form-control"
+      },
+      {
+        "tag": "input",
+        "id": "form_goal",
+        "class": "form-control consult-former"
+      },
+      {
+        "tag": "input",
+        "id": "form_name",
+        "class": "form-control"
+      },
+      {
+        "tag": "input",
+        "id": "form_lastname",
+        "class": "form-control"
+      },
+      {
+        "tag": "input",
+        "id": "form_email",
+        "class": "form-control"
+      },
+      {
+        "tag": "div",
+        "id": "instalment-popup",
+        "class": "white-popup mfp-hide py-40 p-4   p-sm-40"
+      },
+      {
+        "tag": "a",
+        "id": "leasing-request",
+        "class": "order-button2 show2 popup-content-without-arrows"
+      }
+    ],
+    "markers": [
+      "yandex",
+      "ym(",
+      "facebook",
+      "vk.com",
+      "schema.org",
+      "application/ld+json"
+    ]
+  },
+  "iecho-gls.php.html": {
+    "title": "Раскройные комплексы для многослойного раскроя настила iECHO GLSA/GLSC",
+    "lang": "ru",
+    "meta_description": "iECHO GLS является прекрасным решением для автоматизации участка раскроя швейного предприятия. Оснащенный высокоскоростным электронным осциллирующим инструментом и интеллектуальными системами управления плоттер GLS раскраивает любые текстильные и мягкие материалы с высокими качеством, точностью и производительностью.",
+    "canonical": "https://iecho.ru/iecho-gls.php",
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "КОМПЛЕКСЫ iECHO GLSA / GLSС для автоматизированного раскроя спрессованного настила"
+      },
+      {
+        "tag": "h1",
+        "text": "iECHO GLSA"
+      },
+      {
+        "tag": "h2",
+        "text": "ОСОБЕННОСТИ iECHO GLSA"
+      },
+      {
+        "tag": "h2",
+        "text": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ iECHO GLSA"
+      },
+      {
+        "tag": "h2",
+        "text": "ПРЕИМУЩЕСТВАтехнологии цифровой резки относительно традиционных способов раскроя"
+      },
+      {
+        "tag": "h1",
+        "text": "РАСКРОЙНЫЙ КОМПЛЕКС iECHO GLSС усовершенствованная модель для раскроя настила"
+      },
+      {
+        "tag": "h2",
+        "text": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ iECHO GLSС"
+      },
+      {
+        "tag": "h2",
+        "text": "РАБОЧИЙ ПРОЦЕСС"
+      },
+      {
+        "tag": "h2",
+        "text": "ИНСТАЛЛЯЦИИ iECHO GLSA/GLSC проведённые компанией \"Смарт-Т\""
+      }
+    ],
+    "stylesheets": [
+      "https://iecho.ru/css/main.iechomin.css?v=1771448715"
+    ],
+    "scripts": [
+      "https://iecho.ru/js/scriptsiecho.min.js",
+      "https://iecho.ru/libs/contact.js",
+      "https://iecho.ru/libs/jquery.lazy.min.js",
+      "https://iecho.ru/libs/jquery/dist/jquery.min.js",
+      "https://iecho.ru/libs/lazyYT-min.js",
+      "https://iecho.ru/libs/magnific_Pop-min.js",
+      "https://iecho.ru/libs/slick-lightbox-min.js",
+      "https://iecho.ru/libs/slick.min.js",
+      "https://iecho.ru/libs/validator.min.js"
+    ],
+    "forms": [
+      {
+        "id": "contact-form",
+        "action": "contact.php",
+        "method": "post"
+      }
+    ],
+    "form_fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "name",
+        "id": "form_name",
+        "placeholder": "Имя",
+        "value": ""
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "surname",
+        "id": "form_lastname",
+        "placeholder": "Телефон",
+        "value": ""
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "form_email",
+        "placeholder": "E-mail",
+        "value": ""
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "value": "Отправить"
+      }
+    ],
+    "anchors_sample": [
+      {
+        "href": "index.php",
+        "text": "Компания iECHO"
+      },
+      {
+        "href": "iecho-bk_tk.php",
+        "text": "Универсальныераскройщики"
+      },
+      {
+        "href": "iecho-gls.php",
+        "text": "АНРК дляраскроя настила"
+      },
+      {
+        "href": "iecho-pk.php",
+        "text": "Компактные режущие плоттеры"
+      },
+      {
+        "href": "https://smart-t.ru/catalog/zapchasti/zapchasti_iecho/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "Запчастии инструменты"
+      },
+      {
+        "href": "tel:+74956639111 ",
+        "text": "+7 (495) 663-9111"
+      },
+      {
+        "href": "mailto:info@smart-t.ru",
+        "text": "info@smart-t.ru"
+      },
+      {
+        "href": "tel:+74956639111",
+        "text": "+7 (495) 663-9111"
+      },
+      {
+        "href": "tel:+78123313993",
+        "text": "+7 (812) 331-3993"
+      },
+      {
+        "href": "tel:+79109956147",
+        "text": "+7 (910) 995-6147"
+      },
+      {
+        "href": "tel:+78612343189",
+        "text": "+7 (861) 234-3189"
+      },
+      {
+        "href": "tel:+79280652415",
+        "text": "+7 (928) 065-2415"
+      },
+      {
+        "href": "tel:+78552781055",
+        "text": "+7 (8552) 78-1055"
+      },
+      {
+        "href": "tel:+79270457387",
+        "text": "+7 (927) 045-73-87"
+      },
+      {
+        "href": "tel:+79270430807",
+        "text": "+7 (927) 043-0807"
+      },
+      {
+        "href": "tel:+74732210030",
+        "text": "+7 (473) 221-0030"
+      },
+      {
+        "href": "tel:+73432885901",
+        "text": "+7 (343) 288-5901"
+      },
+      {
+        "href": "tel:+73833636201",
+        "text": "+7 (383) 36-36-201"
+      },
+      {
+        "href": "tel:+73912180086",
+        "text": "+7 (391) 218-00-86"
+      },
+      {
+        "href": "tel:3757407409242",
+        "text": "+375 (740) 740 92 42"
+      },
+      {
+        "href": "tel:+998909664204",
+        "text": "+998 (90) 966-4204"
+      },
+      {
+        "href": "tel:+77273393369",
+        "text": "+7 (727) 339-33-69"
+      },
+      {
+        "href": "tel:+77172652001",
+        "text": "+7 (7172) 65-20-01"
+      },
+      {
+        "href": "tel:+996703463084",
+        "text": "+996 (703) 46-30-84"
+      },
+      {
+        "href": "#magnific-pop-up-contact-form",
+        "text": "Задать вопрос"
+      },
+      {
+        "href": "#magnific-pop-up-contact-form",
+        "text": "Узнать цену"
+      },
+      {
+        "href": "#instalment-popup",
+        "text": "Покупка в рассрочку"
+      },
+      {
+        "href": "#magnific-pop-up-contact-form",
+        "text": "Подобрать оборудование"
+      },
+      {
+        "href": "tel:+74956639111",
+        "text": "+7 495 663-9111"
+      },
+      {
+        "href": "tel:+79109956147",
+        "text": "+7 (910) 995-61-47"
+      },
+      {
+        "href": "tel:+3757407409242",
+        "text": "+375 (740) 740 92 42"
+      },
+      {
+        "href": "tel:+998909664204",
+        "text": "+998 90 966-42-04"
+      },
+      {
+        "href": "#magnific-pop-up-contact-form",
+        "text": "Обсудить проект"
+      },
+      {
+        "href": "https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "ООО \"Смарт-Т\""
+      },
+      {
+        "href": "https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "www.smart-t.ru"
+      },
+      {
+        "href": "https://www.smart-t.ru/company/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "• О компании"
+      },
+      {
+        "href": "https://www.smart-t.ru/oplata/lizingovye-kompanii/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "• Лизинг"
+      },
+      {
+        "href": "https://www.smart-t.ru/oplata/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "• Оплата и доставка"
+      },
+      {
+        "href": "iecho-bk_tk.php",
+        "text": "Универсальные раскройщики"
+      },
+      {
+        "href": "iecho-gls.php",
+        "text": "АНРК для раскроя настила"
+      },
+      {
+        "href": "https://smart-t.ru/catalog/zapchasti/zapchasti_iecho/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "Запчасти и инструменты"
+      },
+      {
+        "href": "https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "“Смарт-Т” -"
+      },
+      {
+        "href": "policy.pdf",
+        "text": "условия обработки персональных данных"
+      }
+    ],
+    "ids_sample": [
+      {
+        "tag": "a",
+        "id": "scroll_to_top",
+        "class": ""
+      },
+      {
+        "tag": "a",
+        "id": "desktop-phone",
+        "class": " "
+      },
+      {
+        "tag": "div",
+        "id": "contacts-info",
+        "class": " relat  footer-offices contacts-mobile-cities-block text-white footer-item "
+      },
+      {
+        "tag": "div",
+        "id": "comparative-table",
+        "class": "d-inline-block overflow-scroller-problem-parent"
+      },
+      {
+        "tag": "div",
+        "id": "comparative-table",
+        "class": "d-inline-block overflow-scroller-problem-parent"
+      },
+      {
+        "tag": "div",
+        "id": "mappper",
+        "class": "relat"
+      },
+      {
+        "tag": "div",
+        "id": "demozal",
+        "class": "container relat"
+      },
+      {
+        "tag": "span",
+        "id": "pagescrollreach",
+        "class": ""
+      },
+      {
+        "tag": "div",
+        "id": "contacts",
+        "class": "footer-smart"
+      },
+      {
+        "tag": "div",
+        "id": "edger",
+        "class": ""
+      },
+      {
+        "tag": "a",
+        "id": "order-button-footer",
+        "class": "order-button-footer show1 popup-content-without-arrows header-top-button  d-md-none"
+      },
+      {
+        "tag": "div",
+        "id": "contacts-info",
+        "class": " relat  footer-offices contacts-mobile-cities-block text-white footer-item "
+      },
+      {
+        "tag": "div",
+        "id": "magnific-pop-up-contact-form",
+        "class": "white-popup mfp-hide"
+      },
+      {
+        "tag": "form",
+        "id": "contact-form",
+        "class": ""
+      },
+      {
+        "tag": "p",
+        "id": "displayText1",
+        "class": "title"
+      },
+      {
+        "tag": "p",
+        "id": "displayText2",
+        "class": "subtitle"
+      },
+      {
+        "tag": "input",
+        "id": "form_primary",
+        "class": "form-control"
+      },
+      {
+        "tag": "input",
+        "id": "form_goal",
+        "class": "form-control consult-former"
+      },
+      {
+        "tag": "input",
+        "id": "form_name",
+        "class": "form-control"
+      },
+      {
+        "tag": "input",
+        "id": "form_lastname",
+        "class": "form-control"
+      },
+      {
+        "tag": "input",
+        "id": "form_email",
+        "class": "form-control"
+      },
+      {
+        "tag": "div",
+        "id": "instalment-popup",
+        "class": "white-popup mfp-hide py-40 p-4   p-sm-40"
+      },
+      {
+        "tag": "a",
+        "id": "leasing-request",
+        "class": "order-button2 show2 popup-content-without-arrows"
+      }
+    ],
+    "markers": [
+      "yandex",
+      "ym(",
+      "google",
+      "facebook",
+      "vk.com"
+    ]
+  },
+  "iecho-lcks.php.html": {
+    "title": "Раскройный комплекс для кожи iECHO LCKS",
+    "lang": "ru",
+    "meta_description": "iECHO LCKS (4340 х 4100 мм и 11400 х 4100 мм) – уникальное решение для автоматизированного раскроя кожи с максимальной скоростью 1200 мм/сек. Широкие функциональные возможности и интеллектуальные системы управления позволяют контролировать рабочий процесс на каждом этапе и обеспечивать таким образом высокое качество готовой продукции.",
+    "canonical": "https://iecho.ru/iecho-lcks.php",
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "РАСКРОЙНЫЙ КОМПЛЕКС ДЛЯ КОЖИiECHO LCKS"
+      },
+      {
+        "tag": "h2",
+        "text": "ОБЛАСТИ ПРИМЕНЕНИЯ"
+      },
+      {
+        "tag": "h2",
+        "text": "ОСОБЕННОСТИ КОМПЛЕКСА iECHO LCKS"
+      },
+      {
+        "tag": "h2",
+        "text": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ"
+      }
+    ],
+    "stylesheets": [
+      "https://iecho.ru/css/main.iechomin.css?v=1771448715"
+    ],
+    "scripts": [
+      "https://iecho.ru/js/scriptsiecho.min.js",
+      "https://iecho.ru/libs/contact.js",
+      "https://iecho.ru/libs/jquery.lazy.min.js",
+      "https://iecho.ru/libs/jquery/dist/jquery.min.js",
+      "https://iecho.ru/libs/lazyYT-min.js",
+      "https://iecho.ru/libs/magnific_Pop-min.js",
+      "https://iecho.ru/libs/slick-lightbox-min.js",
+      "https://iecho.ru/libs/slick.min.js",
+      "https://iecho.ru/libs/validator.min.js"
+    ],
+    "forms": [
+      {
+        "id": "contact-form",
+        "action": "contact.php",
+        "method": "post"
+      }
+    ],
+    "form_fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "name",
+        "id": "form_name",
+        "placeholder": "Имя",
+        "value": ""
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "surname",
+        "id": "form_lastname",
+        "placeholder": "Телефон",
+        "value": ""
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "form_email",
+        "placeholder": "E-mail",
+        "value": ""
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "value": "Отправить"
+      }
+    ],
+    "anchors_sample": [
+      {
+        "href": "index.php",
+        "text": "Компания iECHO"
+      },
+      {
+        "href": "iecho-bk_tk.php",
+        "text": "Универсальныераскройщики"
+      },
+      {
+        "href": "iecho-gls.php",
+        "text": "АНРК дляраскроя настила"
+      },
+      {
+        "href": "iecho-pk.php",
+        "text": "Компактные режущие плоттеры"
+      },
+      {
+        "href": "https://smart-t.ru/catalog/zapchasti/zapchasti_iecho/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "Запчастии инструменты"
+      },
+      {
+        "href": "tel:+74956639111 ",
+        "text": "+7 (495) 663-9111"
+      },
+      {
+        "href": "mailto:info@smart-t.ru",
+        "text": "info@smart-t.ru"
+      },
+      {
+        "href": "tel:+74956639111",
+        "text": "+7 (495) 663-9111"
+      },
+      {
+        "href": "tel:+78123313993",
+        "text": "+7 (812) 331-3993"
+      },
+      {
+        "href": "tel:+79109956147",
+        "text": "+7 (910) 995-6147"
+      },
+      {
+        "href": "tel:+78612343189",
+        "text": "+7 (861) 234-3189"
+      },
+      {
+        "href": "tel:+79280652415",
+        "text": "+7 (928) 065-2415"
+      },
+      {
+        "href": "tel:+78552781055",
+        "text": "+7 (8552) 78-1055"
+      },
+      {
+        "href": "tel:+79270457387",
+        "text": "+7 (927) 045-73-87"
+      },
+      {
+        "href": "tel:+79270430807",
+        "text": "+7 (927) 043-0807"
+      },
+      {
+        "href": "tel:+74732210030",
+        "text": "+7 (473) 221-0030"
+      },
+      {
+        "href": "tel:+73432885901",
+        "text": "+7 (343) 288-5901"
+      },
+      {
+        "href": "tel:+73833636201",
+        "text": "+7 (383) 36-36-201"
+      },
+      {
+        "href": "tel:+73912180086",
+        "text": "+7 (391) 218-00-86"
+      },
+      {
+        "href": "tel:3757407409242",
+        "text": "+375 (740) 740 92 42"
+      },
+      {
+        "href": "tel:+998909664204",
+        "text": "+998 (90) 966-4204"
+      },
+      {
+        "href": "tel:+77273393369",
+        "text": "+7 (727) 339-33-69"
+      },
+      {
+        "href": "tel:+77172652001",
+        "text": "+7 (7172) 65-20-01"
+      },
+      {
+        "href": "tel:+996703463084",
+        "text": "+996 (703) 46-30-84"
+      },
+      {
+        "href": "#magnific-pop-up-contact-form",
+        "text": "Задать вопрос"
+      },
+      {
+        "href": "#magnific-pop-up-contact-form",
+        "text": "Узнать цену"
+      },
+      {
+        "href": "#magnific-pop-up-contact-form",
+        "text": "Запрос цены"
+      },
+      {
+        "href": "https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "ООО \"Смарт-Т\""
+      },
+      {
+        "href": "https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "www.smart-t.ru"
+      },
+      {
+        "href": "https://www.smart-t.ru/company/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "• О компании"
+      },
+      {
+        "href": "https://www.smart-t.ru/oplata/lizingovye-kompanii/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "• Лизинг"
+      },
+      {
+        "href": "https://www.smart-t.ru/oplata/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "• Оплата и доставка"
+      },
+      {
+        "href": "iecho-bk_tk.php",
+        "text": "Универсальные раскройщики"
+      },
+      {
+        "href": "iecho-gls.php",
+        "text": "АНРК для раскроя настила"
+      },
+      {
+        "href": "https://smart-t.ru/catalog/zapchasti/zapchasti_iecho/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "Запчасти и инструменты"
+      },
+      {
+        "href": "https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "“Смарт-Т” -"
+      },
+      {
+        "href": "policy.pdf",
+        "text": "условия обработки персональных данных"
+      }
+    ],
+    "ids_sample": [
+      {
+        "tag": "a",
+        "id": "scroll_to_top",
+        "class": ""
+      },
+      {
+        "tag": "a",
+        "id": "desktop-phone",
+        "class": " "
+      },
+      {
+        "tag": "div",
+        "id": "contacts-info",
+        "class": " relat  footer-offices contacts-mobile-cities-block text-white footer-item "
+      },
+      {
+        "tag": "div",
+        "id": "comparative-table",
+        "class": "d-inline-block overflow-scroller-problem-parent"
+      },
+      {
+        "tag": "span",
+        "id": "pagescrollreach",
+        "class": ""
+      },
+      {
+        "tag": "div",
+        "id": "contacts",
+        "class": "footer-smart"
+      },
+      {
+        "tag": "div",
+        "id": "edger",
+        "class": ""
+      },
+      {
+        "tag": "a",
+        "id": "order-button-footer",
+        "class": "order-button-footer show1 popup-content-without-arrows header-top-button  d-md-none"
+      },
+      {
+        "tag": "div",
+        "id": "contacts-info",
+        "class": " relat  footer-offices contacts-mobile-cities-block text-white footer-item "
+      },
+      {
+        "tag": "div",
+        "id": "magnific-pop-up-contact-form",
+        "class": "white-popup mfp-hide"
+      },
+      {
+        "tag": "form",
+        "id": "contact-form",
+        "class": ""
+      },
+      {
+        "tag": "p",
+        "id": "displayText1",
+        "class": "title"
+      },
+      {
+        "tag": "p",
+        "id": "displayText2",
+        "class": "subtitle"
+      },
+      {
+        "tag": "input",
+        "id": "form_primary",
+        "class": "form-control"
+      },
+      {
+        "tag": "input",
+        "id": "form_goal",
+        "class": "form-control consult-former"
+      },
+      {
+        "tag": "input",
+        "id": "form_name",
+        "class": "form-control"
+      },
+      {
+        "tag": "input",
+        "id": "form_lastname",
+        "class": "form-control"
+      },
+      {
+        "tag": "input",
+        "id": "form_email",
+        "class": "form-control"
+      }
+    ],
+    "markers": [
+      "yandex",
+      "ym(",
+      "google",
+      "facebook",
+      "vk.com"
+    ]
+  },
+  "iecho-pk.php.html": {
+    "title": "Компактный автоматический планшетный режущий плоттер iECHO PK",
+    "lang": "ru",
+    "meta_description": "Планшетный режущий плоттер iECHO PK - экономичная и полностью автоматизированная система для резки, надсечки и биговки листовых материалов форматом до 1200 х 900 мм и толщиной до 10 мм.",
+    "canonical": "https://iecho.ru/iecho-pk.php",
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "АВТОМАТИЧЕСКИЙ ПЛАНШЕТНЫЙ РЕЖУЩИЙ ПЛОТТЕР iECHO PK / PK4"
+      },
+      {
+        "tag": "h2",
+        "text": "ОБЛАСТИ ПРИМЕНЕНИЯ iECHO PK"
+      },
+      {
+        "tag": "h2",
+        "text": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ"
+      },
+      {
+        "tag": "h2",
+        "text": "ОБРАБАТЫВАЕМЫЕ МАТЕРИАЛЫ"
+      },
+      {
+        "tag": "h2",
+        "text": "РАБОЧИЙ ПРОЦЕСС"
+      },
+      {
+        "tag": "h2",
+        "text": "ИНСТАЛЛЯЦИИ iECHO PK проведенные компанией \"Смарт-Т\""
+      }
+    ],
+    "stylesheets": [
+      "https://iecho.ru/css/main.iechomin.css?v=1771448715"
+    ],
+    "scripts": [
+      "https://iecho.ru/js/scriptsiecho.min.js",
+      "https://iecho.ru/libs/contact.js",
+      "https://iecho.ru/libs/jquery.lazy.min.js",
+      "https://iecho.ru/libs/jquery/dist/jquery.min.js",
+      "https://iecho.ru/libs/lazyYT-min.js",
+      "https://iecho.ru/libs/magnific_Pop-min.js",
+      "https://iecho.ru/libs/slick-lightbox-min.js",
+      "https://iecho.ru/libs/slick.min.js",
+      "https://iecho.ru/libs/validator.min.js"
+    ],
+    "forms": [
+      {
+        "id": "contact-form",
+        "action": "contact.php",
+        "method": "post"
+      }
+    ],
+    "form_fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "name",
+        "id": "form_name",
+        "placeholder": "Имя",
+        "value": ""
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "surname",
+        "id": "form_lastname",
+        "placeholder": "Телефон",
+        "value": ""
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "form_email",
+        "placeholder": "E-mail",
+        "value": ""
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "value": "Отправить"
+      }
+    ],
+    "anchors_sample": [
+      {
+        "href": "#osobennosti",
+        "text": "Особенности"
+      },
+      {
+        "href": "#tech-character",
+        "text": "Характеристики"
+      },
+      {
+        "href": "#materials",
+        "text": "Материалы"
+      },
+      {
+        "href": "#video",
+        "text": "Видео"
+      },
+      {
+        "href": "#distributor",
+        "text": "Дистрибьютор"
+      },
+      {
+        "href": "#demozal",
+        "text": "Демозал"
+      },
+      {
+        "href": "#pk-installations",
+        "text": "Инсталляции"
+      },
+      {
+        "href": "#contacts",
+        "text": "Контакты"
+      },
+      {
+        "href": "index.php",
+        "text": "Компания iECHO"
+      },
+      {
+        "href": "iecho-bk_tk.php",
+        "text": "Универсальныераскройщики"
+      },
+      {
+        "href": "iecho-gls.php",
+        "text": "АНРК дляраскроя настила"
+      },
+      {
+        "href": "iecho-pk.php",
+        "text": "Компактные режущие плоттеры"
+      },
+      {
+        "href": "https://smart-t.ru/catalog/zapchasti/zapchasti_iecho/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "Запчастии инструменты"
+      },
+      {
+        "href": "tel:+74956639111 ",
+        "text": "+7 (495) 663-9111"
+      },
+      {
+        "href": "mailto:info@smart-t.ru",
+        "text": "info@smart-t.ru"
+      },
+      {
+        "href": "tel:+74956639111",
+        "text": "+7 (495) 663-9111"
+      },
+      {
+        "href": "tel:+78123313993",
+        "text": "+7 (812) 331-3993"
+      },
+      {
+        "href": "tel:+79109956147",
+        "text": "+7 (910) 995-6147"
+      },
+      {
+        "href": "tel:+78612343189",
+        "text": "+7 (861) 234-3189"
+      },
+      {
+        "href": "tel:+79280652415",
+        "text": "+7 (928) 065-2415"
+      },
+      {
+        "href": "tel:+78552781055",
+        "text": "+7 (8552) 78-1055"
+      },
+      {
+        "href": "tel:+79270457387",
+        "text": "+7 (927) 045-73-87"
+      },
+      {
+        "href": "tel:+79270430807",
+        "text": "+7 (927) 043-0807"
+      },
+      {
+        "href": "tel:+74732210030",
+        "text": "+7 (473) 221-0030"
+      },
+      {
+        "href": "tel:+73432885901",
+        "text": "+7 (343) 288-5901"
+      },
+      {
+        "href": "tel:+73833636201",
+        "text": "+7 (383) 36-36-201"
+      },
+      {
+        "href": "tel:+73912180086",
+        "text": "+7 (391) 218-00-86"
+      },
+      {
+        "href": "tel:3757407409242",
+        "text": "+375 (740) 740 92 42"
+      },
+      {
+        "href": "tel:+998909664204",
+        "text": "+998 (90) 966-4204"
+      },
+      {
+        "href": "tel:+77273393369",
+        "text": "+7 (727) 339-33-69"
+      },
+      {
+        "href": "tel:+77172652001",
+        "text": "+7 (7172) 65-20-01"
+      },
+      {
+        "href": "tel:+996703463084",
+        "text": "+996 (703) 46-30-84"
+      },
+      {
+        "href": "#magnific-pop-up-contact-form",
+        "text": "Задать вопрос"
+      },
+      {
+        "href": "#magnific-pop-up-contact-form",
+        "text": "Узнать цену"
+      },
+      {
+        "href": "#instalment-popup",
+        "text": "Покупка в рассрочку"
+      },
+      {
+        "href": "#magnific-pop-up-contact-form",
+        "text": "Подобрать оборудование"
+      },
+      {
+        "href": "tel:+74956639111",
+        "text": "+7 495 663-9111"
+      },
+      {
+        "href": "tel:+79109956147",
+        "text": "+7 (910) 995-61-47"
+      },
+      {
+        "href": "tel:+3757407409242",
+        "text": "+375 (740) 740 92 42"
+      },
+      {
+        "href": "tel:+998909664204",
+        "text": "+998 90 966-42-04"
+      },
+      {
+        "href": "https://www.smart-t.ru/company/blog/?product=310",
+        "text": "здесь"
+      },
+      {
+        "href": "#magnific-pop-up-contact-form",
+        "text": "Обсудить проект"
+      },
+      {
+        "href": "https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "ООО \"Смарт-Т\""
+      },
+      {
+        "href": "https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "www.smart-t.ru"
+      },
+      {
+        "href": "https://www.smart-t.ru/company/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "• О компании"
+      },
+      {
+        "href": "https://www.smart-t.ru/oplata/lizingovye-kompanii/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "• Лизинг"
+      },
+      {
+        "href": "https://www.smart-t.ru/oplata/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "• Оплата и доставка"
+      },
+      {
+        "href": "iecho-bk_tk.php",
+        "text": "Универсальные раскройщики"
+      },
+      {
+        "href": "iecho-gls.php",
+        "text": "АНРК для раскроя настила"
+      },
+      {
+        "href": "https://smart-t.ru/catalog/zapchasti/zapchasti_iecho/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "Запчасти и инструменты"
+      },
+      {
+        "href": "https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "“Смарт-Т” -"
+      },
+      {
+        "href": "policy.pdf",
+        "text": "условия обработки персональных данных"
+      }
+    ],
+    "ids_sample": [
+      {
+        "tag": "div",
+        "id": "fixed-menu",
+        "class": "fixed-menu p-24"
+      },
+      {
+        "tag": "a",
+        "id": "scroll_to_top",
+        "class": ""
+      },
+      {
+        "tag": "a",
+        "id": "desktop-phone",
+        "class": " "
+      },
+      {
+        "tag": "div",
+        "id": "contacts-info",
+        "class": " relat  footer-offices contacts-mobile-cities-block text-white footer-item "
+      },
+      {
+        "tag": "div",
+        "id": "osobennosti",
+        "class": "pk-addition"
+      },
+      {
+        "tag": "div",
+        "id": "tech-character",
+        "class": "technical-characteristics-gls relat"
+      },
+      {
+        "tag": "div",
+        "id": "comparative-table",
+        "class": "d-inline-block overflow-scroller-problem-parent"
+      },
+      {
+        "tag": "div",
+        "id": "tab-1",
+        "class": "tab-content current"
+      },
+      {
+        "tag": "div",
+        "id": "tab-2",
+        "class": "tab-content"
+      },
+      {
+        "tag": "div",
+        "id": "materials",
+        "class": "materials_pk lazy-container "
+      },
+      {
+        "tag": "div",
+        "id": "video",
+        "class": "pk-VIDEO relat"
+      },
+      {
+        "tag": "div",
+        "id": "distributor",
+        "class": "container mt-64 mt-lg-120 mb-40 mb-sm-64 mb-xl-96 relat z1"
+      },
+      {
+        "tag": "div",
+        "id": "mappper",
+        "class": "relat"
+      },
+      {
+        "tag": "div",
+        "id": "demozal",
+        "class": "container relat"
+      },
+      {
+        "tag": "div",
+        "id": "pk-installations",
+        "class": "pk-installations relat pt-40 pt-sm-80"
+      },
+      {
+        "tag": "span",
+        "id": "pagescrollreach",
+        "class": ""
+      },
+      {
+        "tag": "div",
+        "id": "contacts",
+        "class": "footer-smart"
+      },
+      {
+        "tag": "div",
+        "id": "edger",
+        "class": ""
+      },
+      {
+        "tag": "a",
+        "id": "order-button-footer",
+        "class": "order-button-footer show1 popup-content-without-arrows header-top-button  d-md-none"
+      },
+      {
+        "tag": "div",
+        "id": "contacts-info",
+        "class": " relat  footer-offices contacts-mobile-cities-block text-white footer-item "
+      },
+      {
+        "tag": "div",
+        "id": "magnific-pop-up-contact-form",
+        "class": "white-popup mfp-hide"
+      },
+      {
+        "tag": "form",
+        "id": "contact-form",
+        "class": ""
+      },
+      {
+        "tag": "p",
+        "id": "displayText1",
+        "class": "title"
+      },
+      {
+        "tag": "p",
+        "id": "displayText2",
+        "class": "subtitle"
+      },
+      {
+        "tag": "input",
+        "id": "form_primary",
+        "class": "form-control"
+      },
+      {
+        "tag": "input",
+        "id": "form_goal",
+        "class": "form-control consult-former"
+      },
+      {
+        "tag": "input",
+        "id": "form_name",
+        "class": "form-control"
+      },
+      {
+        "tag": "input",
+        "id": "form_lastname",
+        "class": "form-control"
+      },
+      {
+        "tag": "input",
+        "id": "form_email",
+        "class": "form-control"
+      },
+      {
+        "tag": "div",
+        "id": "instalment-popup",
+        "class": "white-popup mfp-hide py-40 p-4   p-sm-40"
+      },
+      {
+        "tag": "a",
+        "id": "leasing-request",
+        "class": "order-button2 show2 popup-content-without-arrows"
+      }
+    ],
+    "markers": [
+      "yandex",
+      "ym(",
+      "google",
+      "facebook",
+      "vk.com"
+    ]
+  },
+  "index.php.html": {
+    "title": "iECHO. Раскройные комплексы, АНРК и режущие плоттеры для промышленного производства",
+    "lang": "ru",
+    "meta_description": "Все серии в наличии: iECHO BK, BK3, BK4, TK4S, SK2, PK, PK4, GLSA, GLSC. Инструменты и запчасти. Доставка и установка. Лизинг.",
+    "canonical": "https://iecho.ru/index.php",
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "iECHO раскройные комплексы, АНРК и режущие плоттеры для автоматизации производства"
+      },
+      {
+        "tag": "h2",
+        "text": "ОБЛАСТИ ПРИМЕНЕНИЯ iECHO"
+      }
+    ],
+    "stylesheets": [
+      "https://iecho.ru/css/main.iechomin.css?v=1771448715"
+    ],
+    "scripts": [
+      "https://iecho.ru/js/scriptsiecho.min.js",
+      "https://iecho.ru/libs/contact.js",
+      "https://iecho.ru/libs/jquery.lazy.min.js",
+      "https://iecho.ru/libs/jquery/dist/jquery.min.js",
+      "https://iecho.ru/libs/lazyYT-min.js",
+      "https://iecho.ru/libs/magnific_Pop-min.js",
+      "https://iecho.ru/libs/slick-lightbox-min.js",
+      "https://iecho.ru/libs/slick.min.js",
+      "https://iecho.ru/libs/validator.min.js"
+    ],
+    "forms": [
+      {
+        "id": "contact-form",
+        "action": "contact.php",
+        "method": "post"
+      }
+    ],
+    "form_fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "name",
+        "id": "form_name",
+        "placeholder": "Имя",
+        "value": ""
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "surname",
+        "id": "form_lastname",
+        "placeholder": "Телефон",
+        "value": ""
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "form_email",
+        "placeholder": "E-mail",
+        "value": ""
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "value": "Отправить"
+      }
+    ],
+    "anchors_sample": [
+      {
+        "href": "index.php",
+        "text": "Компания iECHO"
+      },
+      {
+        "href": "iecho-bk_tk.php",
+        "text": "Универсальныераскройщики"
+      },
+      {
+        "href": "iecho-gls.php",
+        "text": "АНРК дляраскроя настила"
+      },
+      {
+        "href": "iecho-pk.php",
+        "text": "Компактные режущие плоттеры"
+      },
+      {
+        "href": "https://smart-t.ru/catalog/zapchasti/zapchasti_iecho/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "Запчастии инструменты"
+      },
+      {
+        "href": "tel:+74956639111 ",
+        "text": "+7 (495) 663-9111"
+      },
+      {
+        "href": "mailto:info@smart-t.ru",
+        "text": "info@smart-t.ru"
+      },
+      {
+        "href": "tel:+74956639111",
+        "text": "+7 (495) 663-9111"
+      },
+      {
+        "href": "tel:+78123313993",
+        "text": "+7 (812) 331-3993"
+      },
+      {
+        "href": "tel:+79109956147",
+        "text": "+7 (910) 995-6147"
+      },
+      {
+        "href": "tel:+78612343189",
+        "text": "+7 (861) 234-3189"
+      },
+      {
+        "href": "tel:+79280652415",
+        "text": "+7 (928) 065-2415"
+      },
+      {
+        "href": "tel:+78552781055",
+        "text": "+7 (8552) 78-1055"
+      },
+      {
+        "href": "tel:+79270457387",
+        "text": "+7 (927) 045-73-87"
+      },
+      {
+        "href": "tel:+79270430807",
+        "text": "+7 (927) 043-0807"
+      },
+      {
+        "href": "tel:+74732210030",
+        "text": "+7 (473) 221-0030"
+      },
+      {
+        "href": "tel:+73432885901",
+        "text": "+7 (343) 288-5901"
+      },
+      {
+        "href": "tel:+73833636201",
+        "text": "+7 (383) 36-36-201"
+      },
+      {
+        "href": "tel:+73912180086",
+        "text": "+7 (391) 218-00-86"
+      },
+      {
+        "href": "tel:3757407409242",
+        "text": "+375 (740) 740 92 42"
+      },
+      {
+        "href": "tel:+998909664204",
+        "text": "+998 (90) 966-4204"
+      },
+      {
+        "href": "tel:+77273393369",
+        "text": "+7 (727) 339-33-69"
+      },
+      {
+        "href": "tel:+77172652001",
+        "text": "+7 (7172) 65-20-01"
+      },
+      {
+        "href": "tel:+996703463084",
+        "text": "+996 (703) 46-30-84"
+      },
+      {
+        "href": "#magnific-pop-up-contact-form",
+        "text": "Задать вопрос"
+      },
+      {
+        "href": "iecho-bk_tk.php",
+        "text": "Подробнее"
+      },
+      {
+        "href": "iecho-gls.php",
+        "text": "Подробнее"
+      },
+      {
+        "href": "iecho-pk.php",
+        "text": "Подробнее"
+      },
+      {
+        "href": "tel:+74956639111",
+        "text": "+7 495 663-9111"
+      },
+      {
+        "href": "tel:+79109956147",
+        "text": "+7 (910) 995-61-47"
+      },
+      {
+        "href": "tel:+3757407409242",
+        "text": "+375 (740) 740 92 42"
+      },
+      {
+        "href": "tel:+998909664204",
+        "text": "+998 90 966-42-04"
+      },
+      {
+        "href": "#magnific-pop-up-contact-form",
+        "text": "Подобрать оборудование"
+      },
+      {
+        "href": "https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "ООО \"Смарт-Т\""
+      },
+      {
+        "href": "https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "www.smart-t.ru"
+      },
+      {
+        "href": "https://www.smart-t.ru/company/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "• О компании"
+      },
+      {
+        "href": "https://www.smart-t.ru/oplata/lizingovye-kompanii/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "• Лизинг"
+      },
+      {
+        "href": "https://www.smart-t.ru/oplata/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "• Оплата и доставка"
+      },
+      {
+        "href": "iecho-bk_tk.php",
+        "text": "Универсальные раскройщики"
+      },
+      {
+        "href": "iecho-gls.php",
+        "text": "АНРК для раскроя настила"
+      },
+      {
+        "href": "https://smart-t.ru/catalog/zapchasti/zapchasti_iecho/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "Запчасти и инструменты"
+      },
+      {
+        "href": "https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "“Смарт-Т” -"
+      },
+      {
+        "href": "policy.pdf",
+        "text": "условия обработки персональных данных"
+      }
+    ],
+    "ids_sample": [
+      {
+        "tag": "a",
+        "id": "scroll_to_top",
+        "class": ""
+      },
+      {
+        "tag": "a",
+        "id": "desktop-phone",
+        "class": " "
+      },
+      {
+        "tag": "div",
+        "id": "contacts-info",
+        "class": " relat  footer-offices contacts-mobile-cities-block text-white footer-item "
+      },
+      {
+        "tag": "div",
+        "id": "mappper",
+        "class": "relat"
+      },
+      {
+        "tag": "div",
+        "id": "demozal",
+        "class": "container relat"
+      },
+      {
+        "tag": "span",
+        "id": "pagescrollreach",
+        "class": ""
+      },
+      {
+        "tag": "div",
+        "id": "contacts",
+        "class": "footer-smart"
+      },
+      {
+        "tag": "div",
+        "id": "edger",
+        "class": ""
+      },
+      {
+        "tag": "a",
+        "id": "order-button-footer",
+        "class": "order-button-footer show1 popup-content-without-arrows header-top-button  d-md-none"
+      },
+      {
+        "tag": "div",
+        "id": "contacts-info",
+        "class": " relat  footer-offices contacts-mobile-cities-block text-white footer-item "
+      },
+      {
+        "tag": "div",
+        "id": "magnific-pop-up-contact-form",
+        "class": "white-popup mfp-hide"
+      },
+      {
+        "tag": "form",
+        "id": "contact-form",
+        "class": ""
+      },
+      {
+        "tag": "p",
+        "id": "displayText1",
+        "class": "title"
+      },
+      {
+        "tag": "p",
+        "id": "displayText2",
+        "class": "subtitle"
+      },
+      {
+        "tag": "input",
+        "id": "form_primary",
+        "class": "form-control"
+      },
+      {
+        "tag": "input",
+        "id": "form_goal",
+        "class": "form-control consult-former"
+      },
+      {
+        "tag": "input",
+        "id": "form_name",
+        "class": "form-control"
+      },
+      {
+        "tag": "input",
+        "id": "form_lastname",
+        "class": "form-control"
+      },
+      {
+        "tag": "input",
+        "id": "form_email",
+        "class": "form-control"
+      }
+    ],
+    "markers": [
+      "yandex",
+      "ym(",
+      "google",
+      "facebook",
+      "vk.com",
+      "schema.org",
+      "application/ld+json"
+    ]
+  },
+  "installations.php.html": {
+    "title": "Инсталляции раскройных комплексов iECHO",
+    "lang": "ru",
+    "meta_description": "Отчёты о запусках раскройщиков iECHO.",
+    "canonical": "",
+    "headings": [],
+    "stylesheets": [
+      "https://iecho.ru/css/main.iechomin.css?v=1771448715",
+      "https://iecho.ru/installations.css"
+    ],
+    "scripts": [
+      "https://iecho.ru/gallery-optimized.js",
+      "https://iecho.ru/js/scriptsiecho.min.js",
+      "https://iecho.ru/libs/contact.js",
+      "https://iecho.ru/libs/jquery.lazy.min.js",
+      "https://iecho.ru/libs/jquery/dist/jquery.min.js",
+      "https://iecho.ru/libs/lazyYT-min.js",
+      "https://iecho.ru/libs/magnific_Pop-min.js",
+      "https://iecho.ru/libs/slick-lightbox-min.js",
+      "https://iecho.ru/libs/slick.min.js",
+      "https://iecho.ru/libs/validator.min.js"
+    ],
+    "forms": [
+      {
+        "id": "contact-form",
+        "action": "contact.php",
+        "method": "post"
+      }
+    ],
+    "form_fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "name",
+        "id": "form_name",
+        "placeholder": "Имя",
+        "value": ""
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "surname",
+        "id": "form_lastname",
+        "placeholder": "Телефон",
+        "value": ""
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "form_email",
+        "placeholder": "E-mail",
+        "value": ""
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "value": "Отправить"
+      }
+    ],
+    "anchors_sample": [
+      {
+        "href": "index.php",
+        "text": "Компания iECHO"
+      },
+      {
+        "href": "iecho-bk_tk.php",
+        "text": "Универсальныераскройщики"
+      },
+      {
+        "href": "iecho-gls.php",
+        "text": "АНРК дляраскроя настила"
+      },
+      {
+        "href": "iecho-pk.php",
+        "text": "Компактные режущие плоттеры"
+      },
+      {
+        "href": "https://smart-t.ru/catalog/zapchasti/zapchasti_iecho/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "Запчастии инструменты"
+      },
+      {
+        "href": "tel:+74956639111 ",
+        "text": "+7 (495) 663-9111"
+      },
+      {
+        "href": "mailto:info@smart-t.ru",
+        "text": "info@smart-t.ru"
+      },
+      {
+        "href": "tel:+74956639111",
+        "text": "+7 (495) 663-9111"
+      },
+      {
+        "href": "tel:+78123313993",
+        "text": "+7 (812) 331-3993"
+      },
+      {
+        "href": "tel:+79109956147",
+        "text": "+7 (910) 995-6147"
+      },
+      {
+        "href": "tel:+78612343189",
+        "text": "+7 (861) 234-3189"
+      },
+      {
+        "href": "tel:+79280652415",
+        "text": "+7 (928) 065-2415"
+      },
+      {
+        "href": "tel:+78552781055",
+        "text": "+7 (8552) 78-1055"
+      },
+      {
+        "href": "tel:+79270457387",
+        "text": "+7 (927) 045-73-87"
+      },
+      {
+        "href": "tel:+79270430807",
+        "text": "+7 (927) 043-0807"
+      },
+      {
+        "href": "tel:+74732210030",
+        "text": "+7 (473) 221-0030"
+      },
+      {
+        "href": "tel:+73432885901",
+        "text": "+7 (343) 288-5901"
+      },
+      {
+        "href": "tel:+73833636201",
+        "text": "+7 (383) 36-36-201"
+      },
+      {
+        "href": "tel:+73912180086",
+        "text": "+7 (391) 218-00-86"
+      },
+      {
+        "href": "tel:3757407409242",
+        "text": "+375 (740) 740 92 42"
+      },
+      {
+        "href": "tel:+998909664204",
+        "text": "+998 (90) 966-4204"
+      },
+      {
+        "href": "tel:+77273393369",
+        "text": "+7 (727) 339-33-69"
+      },
+      {
+        "href": "tel:+77172652001",
+        "text": "+7 (7172) 65-20-01"
+      },
+      {
+        "href": "tel:+996703463084",
+        "text": "+996 (703) 46-30-84"
+      },
+      {
+        "href": "#magnific-pop-up-contact-form",
+        "text": "Задать вопрос"
+      },
+      {
+        "href": "https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "ООО \"Смарт-Т\""
+      },
+      {
+        "href": "https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "www.smart-t.ru"
+      },
+      {
+        "href": "https://www.smart-t.ru/company/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "• О компании"
+      },
+      {
+        "href": "https://www.smart-t.ru/oplata/lizingovye-kompanii/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "• Лизинг"
+      },
+      {
+        "href": "https://www.smart-t.ru/oplata/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "• Оплата и доставка"
+      },
+      {
+        "href": "iecho-bk_tk.php",
+        "text": "Универсальные раскройщики"
+      },
+      {
+        "href": "iecho-gls.php",
+        "text": "АНРК для раскроя настила"
+      },
+      {
+        "href": "https://smart-t.ru/catalog/zapchasti/zapchasti_iecho/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "Запчасти и инструменты"
+      },
+      {
+        "href": "https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "“Смарт-Т” -"
+      },
+      {
+        "href": "policy.pdf",
+        "text": "условия обработки персональных данных"
+      }
+    ],
+    "ids_sample": [
+      {
+        "tag": "a",
+        "id": "scroll_to_top",
+        "class": ""
+      },
+      {
+        "tag": "a",
+        "id": "desktop-phone",
+        "class": " "
+      },
+      {
+        "tag": "div",
+        "id": "contacts-info",
+        "class": " relat  footer-offices contacts-mobile-cities-block text-white footer-item "
+      },
+      {
+        "tag": "span",
+        "id": "top-anchor",
+        "class": ""
+      },
+      {
+        "tag": "span",
+        "id": "city-filter",
+        "class": "filter_button"
+      },
+      {
+        "tag": "span",
+        "id": "sphere-filter",
+        "class": "filter_button ml-96"
+      },
+      {
+        "tag": "div",
+        "id": "all-installations-container",
+        "class": "container-fluid d-flex flex-wrap justify-content-center"
+      },
+      {
+        "tag": "span",
+        "id": "pagescrollreach",
+        "class": ""
+      },
+      {
+        "tag": "div",
+        "id": "contacts",
+        "class": "footer-smart"
+      },
+      {
+        "tag": "div",
+        "id": "edger",
+        "class": ""
+      },
+      {
+        "tag": "a",
+        "id": "order-button-footer",
+        "class": "order-button-footer show1 popup-content-without-arrows header-top-button  d-md-none"
+      },
+      {
+        "tag": "div",
+        "id": "contacts-info",
+        "class": " relat  footer-offices contacts-mobile-cities-block text-white footer-item "
+      },
+      {
+        "tag": "div",
+        "id": "magnific-pop-up-contact-form",
+        "class": "white-popup mfp-hide"
+      },
+      {
+        "tag": "form",
+        "id": "contact-form",
+        "class": ""
+      },
+      {
+        "tag": "p",
+        "id": "displayText1",
+        "class": "title"
+      },
+      {
+        "tag": "p",
+        "id": "displayText2",
+        "class": "subtitle"
+      },
+      {
+        "tag": "input",
+        "id": "form_primary",
+        "class": "form-control"
+      },
+      {
+        "tag": "input",
+        "id": "form_goal",
+        "class": "form-control consult-former"
+      },
+      {
+        "tag": "input",
+        "id": "form_name",
+        "class": "form-control"
+      },
+      {
+        "tag": "input",
+        "id": "form_lastname",
+        "class": "form-control"
+      },
+      {
+        "tag": "input",
+        "id": "form_email",
+        "class": "form-control"
+      },
+      {
+        "tag": "div",
+        "id": "instalment-popup",
+        "class": "white-popup mfp-hide py-40 p-4   p-sm-40"
+      },
+      {
+        "tag": "a",
+        "id": "leasing-request",
+        "class": "order-button2 show2 popup-content-without-arrows"
+      }
+    ],
+    "markers": [
+      "yandex",
+      "ym(",
+      "facebook",
+      "vk.com"
+    ]
+  },
+  "root.html": {
+    "title": "iECHO. Раскройные комплексы, АНРК и режущие плоттеры для промышленного производства",
+    "lang": "ru",
+    "meta_description": "Все серии в наличии: iECHO BK, BK3, BK4, TK4S, SK2, PK, PK4, GLSA, GLSC. Инструменты и запчасти. Доставка и установка. Лизинг.",
+    "canonical": "https://iecho.ru/index.php",
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "iECHO раскройные комплексы, АНРК и режущие плоттеры для автоматизации производства"
+      },
+      {
+        "tag": "h2",
+        "text": "ОБЛАСТИ ПРИМЕНЕНИЯ iECHO"
+      }
+    ],
+    "stylesheets": [
+      "https://iecho.ru/css/main.iechomin.css?v=1771448715"
+    ],
+    "scripts": [
+      "https://iecho.ru/js/scriptsiecho.min.js",
+      "https://iecho.ru/libs/contact.js",
+      "https://iecho.ru/libs/jquery.lazy.min.js",
+      "https://iecho.ru/libs/jquery/dist/jquery.min.js",
+      "https://iecho.ru/libs/lazyYT-min.js",
+      "https://iecho.ru/libs/magnific_Pop-min.js",
+      "https://iecho.ru/libs/slick-lightbox-min.js",
+      "https://iecho.ru/libs/slick.min.js",
+      "https://iecho.ru/libs/validator.min.js"
+    ],
+    "forms": [
+      {
+        "id": "contact-form",
+        "action": "contact.php",
+        "method": "post"
+      }
+    ],
+    "form_fields": [
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "name",
+        "id": "form_name",
+        "placeholder": "Имя",
+        "value": ""
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "surname",
+        "id": "form_lastname",
+        "placeholder": "Телефон",
+        "value": ""
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "email",
+        "id": "form_email",
+        "placeholder": "E-mail",
+        "value": ""
+      },
+      {
+        "tag": "input",
+        "type": "submit",
+        "name": "",
+        "id": "",
+        "placeholder": "",
+        "value": "Отправить"
+      }
+    ],
+    "anchors_sample": [
+      {
+        "href": "index.php",
+        "text": "Компания iECHO"
+      },
+      {
+        "href": "iecho-bk_tk.php",
+        "text": "Универсальныераскройщики"
+      },
+      {
+        "href": "iecho-gls.php",
+        "text": "АНРК дляраскроя настила"
+      },
+      {
+        "href": "iecho-pk.php",
+        "text": "Компактные режущие плоттеры"
+      },
+      {
+        "href": "https://smart-t.ru/catalog/zapchasti/zapchasti_iecho/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "Запчастии инструменты"
+      },
+      {
+        "href": "tel:+74956639111 ",
+        "text": "+7 (495) 663-9111"
+      },
+      {
+        "href": "mailto:info@smart-t.ru",
+        "text": "info@smart-t.ru"
+      },
+      {
+        "href": "tel:+74956639111",
+        "text": "+7 (495) 663-9111"
+      },
+      {
+        "href": "tel:+78123313993",
+        "text": "+7 (812) 331-3993"
+      },
+      {
+        "href": "tel:+79109956147",
+        "text": "+7 (910) 995-6147"
+      },
+      {
+        "href": "tel:+78612343189",
+        "text": "+7 (861) 234-3189"
+      },
+      {
+        "href": "tel:+79280652415",
+        "text": "+7 (928) 065-2415"
+      },
+      {
+        "href": "tel:+78552781055",
+        "text": "+7 (8552) 78-1055"
+      },
+      {
+        "href": "tel:+79270457387",
+        "text": "+7 (927) 045-73-87"
+      },
+      {
+        "href": "tel:+79270430807",
+        "text": "+7 (927) 043-0807"
+      },
+      {
+        "href": "tel:+74732210030",
+        "text": "+7 (473) 221-0030"
+      },
+      {
+        "href": "tel:+73432885901",
+        "text": "+7 (343) 288-5901"
+      },
+      {
+        "href": "tel:+73833636201",
+        "text": "+7 (383) 36-36-201"
+      },
+      {
+        "href": "tel:+73912180086",
+        "text": "+7 (391) 218-00-86"
+      },
+      {
+        "href": "tel:3757407409242",
+        "text": "+375 (740) 740 92 42"
+      },
+      {
+        "href": "tel:+998909664204",
+        "text": "+998 (90) 966-4204"
+      },
+      {
+        "href": "tel:+77273393369",
+        "text": "+7 (727) 339-33-69"
+      },
+      {
+        "href": "tel:+77172652001",
+        "text": "+7 (7172) 65-20-01"
+      },
+      {
+        "href": "tel:+996703463084",
+        "text": "+996 (703) 46-30-84"
+      },
+      {
+        "href": "#magnific-pop-up-contact-form",
+        "text": "Задать вопрос"
+      },
+      {
+        "href": "iecho-bk_tk.php",
+        "text": "Подробнее"
+      },
+      {
+        "href": "iecho-gls.php",
+        "text": "Подробнее"
+      },
+      {
+        "href": "iecho-pk.php",
+        "text": "Подробнее"
+      },
+      {
+        "href": "tel:+74956639111",
+        "text": "+7 495 663-9111"
+      },
+      {
+        "href": "tel:+79109956147",
+        "text": "+7 (910) 995-61-47"
+      },
+      {
+        "href": "tel:+3757407409242",
+        "text": "+375 (740) 740 92 42"
+      },
+      {
+        "href": "tel:+998909664204",
+        "text": "+998 90 966-42-04"
+      },
+      {
+        "href": "#magnific-pop-up-contact-form",
+        "text": "Подобрать оборудование"
+      },
+      {
+        "href": "https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "ООО \"Смарт-Т\""
+      },
+      {
+        "href": "https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "www.smart-t.ru"
+      },
+      {
+        "href": "https://www.smart-t.ru/company/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "• О компании"
+      },
+      {
+        "href": "https://www.smart-t.ru/oplata/lizingovye-kompanii/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "• Лизинг"
+      },
+      {
+        "href": "https://www.smart-t.ru/oplata/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "• Оплата и доставка"
+      },
+      {
+        "href": "iecho-bk_tk.php",
+        "text": "Универсальные раскройщики"
+      },
+      {
+        "href": "iecho-gls.php",
+        "text": "АНРК для раскроя настила"
+      },
+      {
+        "href": "https://smart-t.ru/catalog/zapchasti/zapchasti_iecho/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "Запчасти и инструменты"
+      },
+      {
+        "href": "https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru",
+        "text": "“Смарт-Т” -"
+      },
+      {
+        "href": "policy.pdf",
+        "text": "условия обработки персональных данных"
+      }
+    ],
+    "ids_sample": [
+      {
+        "tag": "a",
+        "id": "scroll_to_top",
+        "class": ""
+      },
+      {
+        "tag": "a",
+        "id": "desktop-phone",
+        "class": " "
+      },
+      {
+        "tag": "div",
+        "id": "contacts-info",
+        "class": " relat  footer-offices contacts-mobile-cities-block text-white footer-item "
+      },
+      {
+        "tag": "div",
+        "id": "mappper",
+        "class": "relat"
+      },
+      {
+        "tag": "div",
+        "id": "demozal",
+        "class": "container relat"
+      },
+      {
+        "tag": "span",
+        "id": "pagescrollreach",
+        "class": ""
+      },
+      {
+        "tag": "div",
+        "id": "contacts",
+        "class": "footer-smart"
+      },
+      {
+        "tag": "div",
+        "id": "edger",
+        "class": ""
+      },
+      {
+        "tag": "a",
+        "id": "order-button-footer",
+        "class": "order-button-footer show1 popup-content-without-arrows header-top-button  d-md-none"
+      },
+      {
+        "tag": "div",
+        "id": "contacts-info",
+        "class": " relat  footer-offices contacts-mobile-cities-block text-white footer-item "
+      },
+      {
+        "tag": "div",
+        "id": "magnific-pop-up-contact-form",
+        "class": "white-popup mfp-hide"
+      },
+      {
+        "tag": "form",
+        "id": "contact-form",
+        "class": ""
+      },
+      {
+        "tag": "p",
+        "id": "displayText1",
+        "class": "title"
+      },
+      {
+        "tag": "p",
+        "id": "displayText2",
+        "class": "subtitle"
+      },
+      {
+        "tag": "input",
+        "id": "form_primary",
+        "class": "form-control"
+      },
+      {
+        "tag": "input",
+        "id": "form_goal",
+        "class": "form-control consult-former"
+      },
+      {
+        "tag": "input",
+        "id": "form_name",
+        "class": "form-control"
+      },
+      {
+        "tag": "input",
+        "id": "form_lastname",
+        "class": "form-control"
+      },
+      {
+        "tag": "input",
+        "id": "form_email",
+        "class": "form-control"
+      }
+    ],
+    "markers": [
+      "yandex",
+      "ym(",
+      "google",
+      "facebook",
+      "vk.com",
+      "schema.org",
+      "application/ld+json"
+    ]
+  }
+}

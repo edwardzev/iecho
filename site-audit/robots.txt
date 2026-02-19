@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /sass/
+Disallow: /scss/
+Disallow: /libs/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /iecho-textile.php
+Disallow: /*?smart_analytics=
+Disallow: *?
+Clean-param: promo&promo_id&utm&rs&sub_id&erid&etext&utm&utm_source&utm_medium&utm_campaign&utm_term&utm_content&pm_source&pm_block&pm_position&clid&ycylid&gclid&yclid&ymclid&fbclid&ybaip&utm_referer&utm_ya_campaign&yabizcmpgn&utm_candidate&openstat&cpc&frommarket&crcy&brand
+
+Clean-param: etext
+
+Sitemap: https://iecho.ru/sitemap.xml
+
+
+
