@@ -4,7 +4,7 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
 <title>מכונת חיתוך עור iECHO LCKS</title>
-<meta content="iECHO LCKS (4340 х 4100 мм и 11400 х 4100 мм) – уникальное решение для автоматизированного раскроя кожи с максимальной скоростью 1200 мм/сек. Широкие функциональные возможности и интеллектуальные системы управления позволяют контролировать рабочий процесс на каждом этапе и обеспечивать таким образом высокое качество готовой продукции." name="description"/>
+<meta content='iECHO LCKS (4340 x 4100 מ"מ ו-11400 x 4100 מ"מ) הוא פתרון ייחודי לחיתוך אוטומטי של עור במהירות מרבית של 1200 מ"מ לשנייה. פונקציונליות רחבה ומערכות בקרה חכמות מאפשרות לשלוט בתהליך העבודה בכל שלב ובכך להבטיח איכות גבוהה של המוצר המוגמר.' name="description"/>
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
 <!-- Template Basic Images Start -->
@@ -62,17 +62,7 @@
 </p><p>הזנת גיליון אוטומטית.
     <img class="lazzzy mt-12" data-src="img/menu-mini-img/pk-mini.jpg"/>
 </p></div></li>
-<li class="li-divider">
-</li>
-<li><a class="menu-scroll lastli relat" href="https://smart-t.ru/catalog/zapchasti/zapchasti_iecho/?utm_content=perehod_s_saita_iecho.ru" target="_blank">חלקי חילוף<br/>וכלים</a>
-<div class="menu-img-droppp">
-<p class="mt-6 fw700 mb-8">זמין במלאי<br/>
-</p><p>סכינים, משאבות, לוחות, חגורות, כבלים, חיישנים, בקרים, מחברים וכו'. <br/>
-<img class="lazzzy mt-12" data-src="img/menu-mini-img/spare-parts-mini.jpg"/>
-</p></div>
-<!-- <li class="li-divider"></li> -->
-<!--  <li><a class="popup-content-without-arrows lastli relat" href="#comparative-table">Компания <br>iECHO</a></li> -->
-</li></ul>
+</ul>
 <div class="iecho-contacts-mobile relat fw500 d-block d-lg-none">
 <a class="iecho-contacts-mobile-info" href="tel:+74956639111 ">+7 (495) 663-9111 </a><br/>
 <a class="iecho-contacts-mobile-info" href="mailto:info@smart-t.ru">info@smart-t.ru</a>
@@ -206,8 +196,8 @@
 <div class="lcks-circle-top d-none d-xl-block"></div>
 <img alt="פלוטר חיתוך iECHO LCKS לחיתוך עור" class="img-fluid relat z3 mt-lg-48 mb-24 mb-sm-0" src="img/iECHO_LCKS.png"/>
 </div>
-<p class="h1-p-iecho-2 align-self-start relat ml-lg-40">iECHO LCKS (4340 х 4100 мм и 11400 х 4100 мм) – уникальное решение для автоматизированного раскроя кожи с максимальной скоростью 1200 мм/сек. <span class="d-block mt-12">Широкие функциональные возможности и интеллектуальные системы управления позволяют контролировать рабочий процесс на каждом этапе и обеспечивать таким образом высокое качество готовой продукции.</span>
-<span class="d-block mt-12">В производстве кожаных изделий сырье составляет более половины общей стоимости готовой продукции. Функция автоматической компактной раскладки деталей на виртуальном рабочем поле позволяет наиболее рационально использовать кожу и максимально экономно расходовать дорогостоящий натуральный материал. 
+<p class="h1-p-iecho-2 align-self-start relat ml-lg-40">iECHO LCKS (4340 x 4100 מ"מ ו-11400 x 4100 מ"מ) הוא פתרון ייחודי לחיתוך אוטומטי של עור במהירות מרבית של 1200 מ"מ לשנייה. <span class="d-block mt-12">פונקציונליות רחבה ומערכות בקרה חכמות מאפשרות לשלוט בתהליך העבודה בכל שלב ובכך להבטיח איכות גבוהה של המוצר המוגמר.</span>
+<span class="d-block mt-12">בתעשיית מוצרי העור, חומרי הגלם מהווים יותר ממחצית מהעלות הכוללת של המוצר המוגמר. הפונקציה של פריסה קומפקטית אוטומטית של חלקים בשדה עבודה וירטואלי מאפשרת את השימוש היעיל ביותר בעור ואת השימוש החסכוני ביותר בחומר טבעי יקר. 
 </span>
 <a class="top-form order-button2 show2 popup-content-without-arrows mt-20" href="#magnific-pop-up-contact-form">גלה את המחיר</a>
 </p>
@@ -262,12 +252,12 @@
 <li>ביצועים גבוהים ודיוק ללא דופי.</li>
 <li>קצוות באיכות גבוהה של חלקים חתוכים.</li>
 <li>מצלמה דיגיטלית לזיהוי קווי מתאר העור.</li>
-<li>Система автоматической компьютерной раскладки кроя.</li>
-<li>Система обработки важных параметров кожаного полотна.</li>
+<li>מערכת חיתוך מחשב אוטומטית.</li>
+<li>מערכת לעיבוד פרמטרים חשובים של בד עור.</li>
 <li>מערכת חכמה לניהול הזמנות.</li>
 <li>זמינות של ספרייה של קווי מתאר ריפוד רהיטים.</li>
 <li>קל לתפעול ולתחזוקה.</li>
-<li>Высокая надежность и длительный эксплуатационный ресурс</li>
+<li>אמינות גבוהה וחיי שירות ארוכים</li>
 </ul>
 </div>
 <div class="col-12 col-lg-6 mb-40 mb-lg-64">
@@ -276,14 +266,14 @@
 <div class="col-12 col-lg-6 lcks-features-item">
 <div class="lcks-features-item-511">
 <p><span>כלי חיתוך</span></p>
- Раскройщик iECHO LCKS оснащен высокочастотным осциллирующим ножом нового поколения, разработанным компанией ECHO, частота хода которого составляет 25000 циклов в минуту. Высочайшая частота хода ножа позволяет резать кожу с высокой скоростью и исключительной точностью.
+ חותך iECHO LCKS מצויד בסכין מתנודדת בתדר גבוה מהדור החדש, שפותחה על ידי ECHO, בתדירות מהלכים של 25,000 מחזורים לדקה. התדירות הגבוהה ביותר של מהלך הסכין מאפשרת לך לחתוך עור במהירות גבוהה ובדיוק יוצא דופן.
 <img alt="iECHO LCKS כלי חיתוך" class="mt-24 img-fluid d-flex lazzzy" data-src="img/Cutting tool.jpg"/>
 </div>
 </div>
 <div class="col-12 col-lg-6 lcks-features-item d-flex justify-content-between flex-column relat">
 <div class="lcks-features-item-511">
 <p><span>נתונים מהותיים</span></p>
-Специальная система позволяет учесть все важные параметры обрабатываемой кожи, к которым относятся: площадь кожи, окружности, участки с дефектами, неровности поверхности и т. д. Дефекты, присутствующие на полотне кожи, распознаются автоматически и могут классифицироваться по степени значимости в соответствии с установками самого пользователя.
+מערכת מיוחדת מאפשרת לקחת בחשבון את כל הפרמטרים החשובים של העור המעובד, הכוללים: שטח העור, היקף, אזורים עם פגמים, אי אחידות פני השטח וכו'. פגמים המצויים על יריעת העור מזוהים אוטומטית וניתן לסווג אותם לפי מידת המשמעות בהתאם להגדרות המשתמש.
 <img alt="iECHO LCKS - נתונים מהותיים" class="mt-24 img-fluid d-flex lazzzy" data-src="img/Material data.jpg"/>
 </div>
 </div>
@@ -291,22 +281,22 @@
 <div class="lcks_circle d-none d-xl-block"></div>
 <div class="lcks-features-item-511">
 <p><span>מערכת קינון אוטומטית</span></p>
-      Раскладка целых кусков кожи с минимальными зазорами производится за 30-60 секунд. Благодаря рациональному расположению материала коэффициент использования кожи повышается на 2-5 %, что было зафиксировано практическими измерениями. 
+      פריסת פיסות עור שלמות עם פערים מינימליים מתבצעת תוך 30-60 שניות. הודות לסידור הרציונלי של החומר, שיעור ניצול העור עולה ב-2-5%, שנרשם במדידות מעשיות. 
           <span class="d-block mt-12">
-          Раскладка производится автоматически с учетом размеров и контуров кусков кожи. Также раскладка может быть выполнена по существующим образцам. Дефекты оцениваются в широком диапазоне в соответствии с требованиями пользователя/заказчика, что позволяет использовать материал наиболее эффективно. 
+          הפריסה מתבצעת באופן אוטומטי, תוך התחשבות בגדלים וקווי המתאר של פיסות העור. הפריסה יכולה להתבצע גם על פי דוגמאות קיימות. ליקויים מוערכים על פני מגוון רחב בהתאם לדרישות המשתמש/לקוח, מה שמאפשר להשתמש בחומר בצורה היעילה ביותר. 
            <img alt="מערכת הנחה אוטומטית iECHO LCKS" class="mt-24 img-fluid max-xl-552 lazzzy" data-src="img/Automatic layout system.jpg"/>
 </span></div>
 </div>
 <div class="col-12 col-lg-6 col-xl-6 lcks-features-item">
 <div class="lcks-features-item-511">
 <p><span>קו ייצור</span></p>
-Производственная линия LCKS включает следующие этапы – проверку качества кожи, сканирование, раскладку, резку и сборку кроя. Автоматизация всех рабочих процессов и наличие интеллектуальных систем управления полностью исключают ручные операции и максимально повышают эффективность производства.
+קו הייצור של LCKS כולל את השלבים הבאים: בדיקת איכות עור, סריקה, הנחה, חיתוך וחיתוך. אוטומציה של כל תהליכי העבודה והנוכחות של מערכות בקרה חכמות מבטלות לחלוטין את הפעולות הידניות וממקסמות את יעילות הייצור.
    <img alt="iECHO LCKS - קו ייצור" class="mt-24 img-fluid max-xl-552 lazzzy" data-src="img/Production line.jpg"/>
 <p class="mt-64"><span>מערכת ניהול הזמנות</span></p>
-Система управления заказами режущего плоттера iECHO LCKS охватывает каждое звено цифрового производства. Эта гибкая и удобная система дает возможность непрерывно контролировать всю производственную цепочку, причем параметры контроля могут меняться непосредственно в процессе работы. Эта удобная, интеллектуальная и эффективная система существенно экономит время, не требуя обработки заказов вручную.
+מערכת ניהול ההזמנות של פלוטר החיתוך iECHO LCKS מכסה כל קישור של ייצור דיגיטלי. מערכת גמישה ונוחה זו מאפשרת ניטור רציף של כל שרשרת הייצור, וניתן לשנות פרמטרי בקרה ישירות במהלך הפעולה. מערכת נוחה, חכמה ויעילה זו חוסכת זמן משמעותי על ידי ביטול הצורך בעיבוד הזמנות באופן ידני.
  </div>
 </div>
-<div class="lcks-addition">В условиях повышения спроса на стильные и практичные кожаные изделия (в особенности на те, которые изготавливаются по индивидуальному заказу), а также при возрастающих требованиях потребителей к срокам поставки раскройщик iECHO LCKS становится наилучшим решением, позволяющим в короткие сроки изготавливать изделия высочайшего качества.
+<div class="lcks-addition">עם ביקוש הולך וגובר למוצרי עור מסוגננים ופרקטיים (במיוחד כאלה המיוצרים בהזמנה אישית), כמו גם עם דרישות צרכנים גדלות בזמני אספקה, חותך iECHO LCKS הוא הפתרון הטוב ביותר לייצור מוצרים באיכות הגבוהה ביותר בזמן קצר.
  </div>
 </div>
 <p class="text-center">
@@ -389,148 +379,18 @@
 </div>
 </div>
 <!-- footer -->
-<span id="pagescrollreach"></span> <!-- передача scroll to  Я Метрика - цель  pagescrollreach 340113272 -->
-<div class="footer-smart" id="contacts">
-<div id="edger"></div>
-<a class="order-button-footer show1 popup-content-without-arrows header-top-button d-md-none" href="#magnific-pop-up-contact-form" id="order-button-footer" onclick="ym(66079705,'reachGoal','form_iecho_mobile-button-form-click'); return true;">שאל שאלה</a>
-<div class="container container-footer">
+<span id="pagescrollreach"></span><footer class="footer-smart footer-placeholder" id="contacts">
+<div class="container container-footer py-24">
 <div class="row">
-<div class="col-12 col-md-6 col-lg-3 text-white footer-item">
-<div class="d-flex footer-logo">
-<a href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru"><img class="footer-logo-class mb-16" src="img/smart-t_logo.svg"/></a>
-</div>
-<div class="footer-main-phone fw500">
-<a href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru">LLC "Smart-T"</a> <br/>
-<a class="mb-12 d-block" href="tel:+74956639111">+7 (495) 663-9111</a>
-<p class="moscow-line mb-12">
-                        מוסקבה,<br/> 
-                        רח' שריקופודשיפניקובסקאיה,<br/> 13, עמ' 46
-                     </p>
-<a href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru">www.smart-t.ru</a> <br/>
-<a href="mailto:info@smart-t.ru">info@smart-t.ru</a>
-</div>
-</div>
-<!--  footer-offices -->
-<div class="col-12 col-md-6 col-lg-6 relat footer-offices text-white footer-item">
-<div class="d-flex footer-flexer justify-content-between">
-<p> מוסקבה
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+74956639111">+7 (495) 663-9111</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> סנט פטרבורג
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+78123313993">+7 (812) 331-3993</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> איבנובו
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+79109956147">+7 (910) 995-6147</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> קרסנודר
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+78612343189">+7 (861) 234-3189</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> ולדיקאבקז
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+79280652415">+7 (928) 065-2415</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> נברז'ניה צ'לני
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+78552781055">+7 (8552) 78-1055</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> קאזאן
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+79270457387">+7 (927) 045-73-87</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> אופא
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+79270430807">+7 (927) 043-0807</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> וורונז'
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+74732210030">+7 (473) 221-0030</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> יקטרינבורג
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+73432885901">+7 (343) 288-5901</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> נובוסיבירסק
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+73833636201">+7 (383) 36-36-201</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> קרסנויארסק
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+73912180086">+7 (391) 218-00-86</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> מינסק
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:3757407409242">+375 (740) 740 92 42</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p class="mt-6"> טשקנט
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+998909664204">+998 (90) 966-4204</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p class="mt-6"> אלמטי
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+77273393369">+7 (727) 339-33-69</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p class="mt-6"> אסטנה
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+77172652001">+7 (7172) 65-20-01</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p class="mt-6"> בישקק
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+996703463084">+996 (703) 46-30-84</a>
-</p></div>
-</div>
-</div>
-<!--  footer-offices -->
-<div class="col-12 col-lg-auto col-lg-2 relat footer-social-icons text-white offset-xl-1">
-<a href="https://t.me/smart_mimaki" target="_blank"><img class="social-bottom" height="32px;" src="img/social/colorful/telegram.svg" width="32px"/></a>
-<a href="https://www.youtube.com/c/SmartTchannel" target="_blank"><img class="social-bottom" height="32px;" src="img/social/colorful/youtube.svg" width="32px"/></a>
-<a href="https://rutube.ru/channel/25855989/videos/" target="_blank"><img class="social-bottom" height="32px;" src="img/social/colorful/RUTUBE_white_color_circle.svg" width="32px"/></a>
-<a href="https://www.facebook.com/smart.mimaki" target="_blank"><img class="social-bottom" height="32px;" src="img/social/colorful/facebook.svg" width="32px"/></a>
-<a href="https://www.instagram.com/smart.mimaki/" target="_blank"><img class="social-bottom" height="32px;" src="img/social/colorful/instagram.svg" width="32px"/></a>
-<a href="https://vk.com/smart.mimaki" target="_blank"><img class="social-bottom" height="32px;" src="img/social/colorful/vk.svg" width="32px"/></a>
-<p class="exclusive-small">חברת Smart-T היא המפיצה הבלעדית של iECHO בשטח<br class="d-none d-lg-block"/> רוסיה ובלארוס</p>
-<a class="footer-small-link d-inline-block mt-12" href="https://www.smart-t.ru/company/?utm_content=perehod_s_saita_iecho.ru" target="_blank">• על החברה</a> <br/>
-<a class="footer-small-link d-inline-block" href="https://www.smart-t.ru/oplata/lizingovye-kompanii/?utm_content=perehod_s_saita_iecho.ru" target="_blank">• ליסינג</a> <br/>
-<a class="footer-small-link d-inline-block" href="https://www.smart-t.ru/oplata/?utm_content=perehod_s_saita_iecho.ru" target="_blank">• תשלום ומשלוח</a>
+<div class="col-12 text-white footer-item text-center">
+<p class="mb-12">© iECHO</p>
+<a class="footer-small-link mx-12" href="#">תנאי שימוש</a>
+<a class="footer-small-link mx-12" href="#">מדיניות פרטיות</a>
+<a class="footer-small-link mx-12" href="#">נגישות</a>
 </div>
 </div>
 </div>
-</div>
+</footer> <!-- передача scroll to  Я Метрика - цель  pagescrollreach 340113272 -->
 <!-- ЭТОТ СКРИПТ БЫЛ ЗАТЁРТ 29.03.22 ИЗ-ЗА СИЛЬНЫХ ТОРМОЗОВ ПОСЛЕ БЛОКИРОВКА FACEBOOK -->
 <!-- Facebook Pixel Code -->
 <!-- Meta Pixel Code -->
@@ -604,7 +464,6 @@ src="https://www.facebook.com/tr?id=172722577400621&ev=PageView&noscript=1"
 <li class="small-mobile-menu-font"><a href="iecho-gls.php">ANRK לחיתוך ריצוף</a></li>
 <!--  <li class="small-mobile-menu-font"><a href="iecho-lcks.php">Комплексы для раскроя кожи</a></li> -->
 <li class="small-mobile-menu-font"><a href="iecho-pk.php">פלוטר חיתוך קומפקטי</a></li>
-<li class="small-mobile-menu-font"><a href="https://smart-t.ru/catalog/zapchasti/zapchasti_iecho/?utm_content=perehod_s_saita_iecho.ru">חלקי חילוף וכלי עבודה</a></li>
 </ul>
 <div class="contacts-mobile">
 <p class="fw500">חברה <a class="fw500" href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru" style="color: #0cb0fa!important;" target="_blank">"Smart-T" - </a> <br/>מפיץ בלעדי של iECHO ברוסיה ובבלרוס

@@ -64,17 +64,7 @@
 </p><p>הזנת גיליון אוטומטית.
     <img class="lazzzy mt-12" data-src="img/menu-mini-img/pk-mini.jpg"/>
 </p></div></li>
-<li class="li-divider">
-</li>
-<li><a class="menu-scroll lastli relat" href="https://smart-t.ru/catalog/zapchasti/zapchasti_iecho/?utm_content=perehod_s_saita_iecho.ru" target="_blank">חלקי חילוף<br/>וכלים</a>
-<div class="menu-img-droppp">
-<p class="mt-6 fw700 mb-8">זמין במלאי<br/>
-</p><p>סכינים, משאבות, לוחות, חגורות, כבלים, חיישנים, בקרים, מחברים וכו'. <br/>
-<img class="lazzzy mt-12" data-src="img/menu-mini-img/spare-parts-mini.jpg"/>
-</p></div>
-<!-- <li class="li-divider"></li> -->
-<!--  <li><a class="popup-content-without-arrows lastli relat" href="#comparative-table">Компания <br>iECHO</a></li> -->
-</li></ul>
+</ul>
 <div class="iecho-contacts-mobile relat fw500 d-block d-lg-none">
 <a class="iecho-contacts-mobile-info" href="tel:+74956639111 ">+7 (495) 663-9111 </a><br/>
 <a class="iecho-contacts-mobile-info" href="mailto:info@smart-t.ru">info@smart-t.ru</a>
@@ -202,7 +192,7 @@
 </div>
 <div class="bgblack">
 <div class="container pt-80 pt-sm-120">
-<h1 class="h1-iecho-not-main-page h1-gls f-xl-72 no-before text-lg-center w-100 text-white mt-xl-20">קומפלקסים iECHO GLSA / GLСС <span class="definer orange-definer d-inline-block relat f-xl-40 px-12 py-4 mt-12 mb-lg-12">לחיתוך אוטומטי של ריצוף דחוס</span></h1>
+<h1 class="h1-iecho-not-main-page h1-gls f-xl-72 no-before text-lg-center w-100 text-white mt-xl-20">iECHO GLSA / GLSC <span class="definer orange-definer d-inline-block relat f-xl-40 px-12 py-4 mt-12 mb-lg-12">לחיתוך אוטומטי של ריצוף דחוס</span></h1>
 <p class="f24-18 text-lg-center text-white">מבטל גורם אנושי וטעויות חיתוך, <br class="d-none d-lg-block"/> להבטיח דיוק מושלם בעת חיתוך רב שכבות <br class="d-none d-lg-block"/> טקסטיל ולא ארוגים.</p>
 <div class="container px-0 mt-24 mb-24 mb-xl-64 gls-topper relat"> <img class="img-fluid" src="img/gls/gls-top-image.jpg"/></div>
 <div class="row d-flex flex-column flex-lg-row justify-content-between f16" style="color: #e7e7e7;">
@@ -518,9 +508,9 @@ GLSA-3225<br/>
 <div class="row row-gls-top mt-40 mt-lg-96 mb-0 mb-lg-64 d-flex">
 <div class="col-12 col-xl-auto text-center">
 <div class="glsc-circle-simple-dot d-none d-xl-block"></div>
-<img alt="קומפלקס חיתוך iECHO GLСС לחיתוך אוטומטי של ריצוף" class="img-fluid lazzzy relat z3 glcs-main-img" data-src="img/iECHO-GLSC-MODEL (1).png"/>
+<img alt="iECHO GLCC iECHO GLCC iECHO GLCC" class="img-fluid lazzzy relat z3 glcs-main-img" data-src="img/iECHO-GLSC-MODEL (1).png"/>
 </div>
-<p class="h1-p-iecho-2 align-self-start mb-32 mb-md-64 mb-lg-0">iECHO GLСС נבדל על ידי עובי סיפון מוגבר עד 90 מ"מ, מהירות חיתוך מוגברת משמעותית ופונקציונליות מורחבת. <br/>
+<p class="h1-p-iecho-2 align-self-start mb-32 mb-md-64 mb-lg-0">iECHO GLSC נבדל על ידי עובי סיפון מוגבר עד 90 מ"מ, מהירות חיתוך מוגברת ופונקציונליות מורחבת. <br/>
 <span class="d-block mt-12">מערכת בקרת תנועת כלי החיתוך העדכנית ביותר: מצב חיתוך אופטימלי בהתאם למאפייני החומר המעובד.<br/>
 <span class="d-block mt-12">פונקציית פיצוי אוטומטית להשחזת להב כדי להבטיח דיוק חיתוך עקבי.<br/>
 <a class="top-form order-button2 show2 popup-content-without-arrows mt-20" href="#magnific-pop-up-contact-form">גלה את המחיר</a>
@@ -937,7 +927,7 @@ GLSA-3225<br/>
 <!-- company-facts-right-side -->
 <div class="container mb-80 mb-md-120 mt-80" style="background-color: #333;">
 <div class="row">
-<div class="relat d-flex col-12 col-xl-5 col-xxl-4 relat align-items-center mb-0 p-24 pr-md-120 pr-lg-64 pl-lg-40 modules-right-block-outer-extendede-before ml-xxl-80"><p class="modules-right-block f18"> 11 נציגויות <br class="d-none d-xl-block"/>ברוסיה. משרדי נציגות בבלארוס, קזחסטן, אוזבקיסטן וקירגיזסטן <span class="d-block mt-12 mt-sm-24">Оперативно решаем все вопросы, связанные с сервисным обслуживанием и поставкой запасных частей.</span>
+<div class="relat d-flex col-12 col-xl-5 col-xxl-4 relat align-items-center mb-0 p-24 pr-md-120 pr-lg-64 pl-lg-40 modules-right-block-outer-extendede-before ml-xxl-80"><p class="modules-right-block f18"> 11 נציגויות <br class="d-none d-xl-block"/>ברוסיה. משרדי נציגות בבלארוס, קזחסטן, אוזבקיסטן וקירגיזסטן <span class="d-block mt-12 mt-sm-24">אנו פותרים באופן מיידי את כל הבעיות הקשורות לתחזוקת שירות ואספקת חלקי חילוף.</span>
 </p>
 </div>
 <div class="col-12 col-xl-6 relat d-flex flex-wrap justify-content-center d-xl-block relat z2">
@@ -1121,7 +1111,7 @@ GLSA-3225<br/>
 <div class="slickslider-other relat z1 mt-24">
 <div class="slick-install-item"><p class="s-dscr">ז'לזנוגורסק</p><img alt="התקנה של ANRK iECHO GLSA-2520 בז'לזנוגורסק" class="img-fluid" data-lazy="img/installations/GLS/iECHO-GLSA-2520-Железногорск___.jpg"/></div>
 <div class="slick-install-item"><p class="s-dscr">סרטוב</p><img alt="התקנת ANRK iECHO GLSA בסראטוב" class="img-fluid" data-lazy="img/installations/GLS/Персона.jpg"/></div>
-<div class="slick-install-item"><p class="s-dscr">וולוגדה</p><img alt="התקנה של ANRK iECHO GLСС בוולוגדה" class="img-fluid" data-lazy="img/installations/GLS/Вологда_iECHO-GLSС-small.jpg"/></div>
+<div class="slick-install-item"><p class="s-dscr">וולוגדה</p><img alt="התקנה של ANRK iECHO GLSS בולוגדה" class="img-fluid" data-lazy="img/installations/GLS/Вологда_iECHO-GLSС-small.jpg"/></div>
 <div class="slick-install-item"><p class="s-dscr">נשר</p><img alt="התקנת פלוטר חיתוך iECHO GLSC באוראל" class="img-fluid" data-lazy="img/installations/GLS/iECHO GLSC Орёл  BIGGER.jpg"/></div>
 <div class="slick-install-item"><p class="s-dscr">Ijevan</p><img alt="התקנה של פלוטר חיתוך iECHO GLSC באייבאן" class="img-fluid" data-lazy="img/installations/GLS/Иджеван_GLSA.jpg"/></div>
 <div class="slick-install-item"><p class="s-dscr">יקטרינבורג</p><img alt="השקת iECHO GLSA-2516 ביקטרינבורג" class="img-fluid" data-lazy="img/installations/GLS/Аристокрафт.jpg"/></div>
@@ -1139,10 +1129,10 @@ GLSA-3225<br/>
 <div class="slick-install-item"><p class="s-dscr">נובוצ'בוקסארסק</p><img alt="התקנה של פלוטר חיתוך iECHO gls" class="img-fluid" data-lazy="img/installations/GLS/gls6.jpg"/></div>
 <div class="slick-install-item"><p class="s-dscr">בריאנסק</p><img alt="התקנת המתחם לחיתוך אוטומטי של ריצוף iECHO GLSC" class="img-fluid" data-lazy="img/installations/GLS/Царь-Мебель Брянск  iECHO GLSC-1818 .jpg"/></div>
 <div class="slick-install-item"><p class="s-dscr">ג'ורג'ייבסק</p><img alt="התקנת המתחם לחיתוך אוטומטי של ריצוף iECHO GLSC" class="img-fluid" data-lazy="img/installations/GLS/iECHO-GLSС-GLSC-в-Георгиевске-(4).jpg"/></div>
-<div class="slick-install-item"><p class="s-dscr">איזבסק</p><img alt="התקנת קומפלקס לחיתוך ריצוף iECHO GLСС-1818 באיז'בסק" class="img-fluid" data-lazy="img/installations/GLS/iECHO-GLSС-1818-Ижевск-(1)__.jpg"/></div>
-<div class="slick-install-item"><p class="s-dscr">סרנסק</p><img alt="התקנת מתחם לחיתוך ריצוף iECHO GLСС-1818 בסרנסק" class="img-fluid" data-lazy="img/installations/GLS/iECHO-GLSC-1818--Саранск--big.jpg"/></div>
-<div class="slick-install-item"><p class="s-dscr">איבנובו</p><img alt="התקנת קומפלקס לחיתוך ריצוף iECHO GLСС-1818 באיבנובו" class="img-fluid" data-lazy="img/installations/GLS/iECHO-GLSA---Иваново__.jpg"/></div>
-<div class="slick-install-item"><p class="s-dscr">אזור ירוסלב</p><img alt="התקנת מתחם לחיתוך ריצוף iECHO GLСС באזור ירוסלב" class="img-fluid" data-lazy="img/installations/GLS/iECHO-GLSC-1820--Ярославская-область____.jpg"/></div>
+<div class="slick-install-item"><p class="s-dscr">איזבסק</p><img alt="iECHO GLCC-1818 באיז'בסק" class="img-fluid" data-lazy="img/installations/GLS/iECHO-GLSС-1818-Ижевск-(1)__.jpg"/></div>
+<div class="slick-install-item"><p class="s-dscr">סרנסק</p><img alt="קוד מוצר iECHO GLCC-1818 קוד מוצר: iECHO GLCC-1818" class="img-fluid" data-lazy="img/installations/GLS/iECHO-GLSC-1818--Саранск--big.jpg"/></div>
+<div class="slick-install-item"><p class="s-dscr">איבנובו</p><img alt="iECHO GLCC-1818 באיבנובו" class="img-fluid" data-lazy="img/installations/GLS/iECHO-GLSA---Иваново__.jpg"/></div>
+<div class="slick-install-item"><p class="s-dscr">אזור ירוסלב</p><img alt="iECHO GLSאזור ירוסלב" class="img-fluid" data-lazy="img/installations/GLS/iECHO-GLSC-1820--Ярославская-область____.jpg"/></div>
 <div class="slick-install-item"><p class="s-dscr">וישני וולוצ'יוק</p><img alt="התקנה של ANRK iECHO GLSC - Vyshny-Volochyok" class="img-fluid" data-lazy="img/installations/GLS/Вышний-Волочёк.jpg"/></div>
 <div class="slick-install-item"><p class="s-dscr">סיזרן</p><img alt="התקנת ANRK iECHO GLS בסיזראן" class="img-fluid" data-lazy="img/installations/GLS/iECHO-GLSC-1820-Сызрань-3__.jpg"/></div>
 <div class="slick-install-item"><p class="s-dscr">בלאשיכא</p><img alt="התקנת ANRK iECHO GLS בבלאשיקה" class="img-fluid" data-lazy="img/installations/GLS/iECHO-GLS-Y--Балашиха.jpg"/></div>
@@ -1177,7 +1167,7 @@ GLSA-3225<br/>
 <div class="slick-install-item"><p class="s-dscr">מוסקבה</p><img alt="התקנה של פלוטר חיתוך iECHO GLSA במוסקבה" class="img-fluid" data-lazy="img/installations/GLS/iECHO-GLSA--МОСКВА__.jpg"/></div>
 <!-- 
 <div class="slick-install-item"><p class="s-dscr">Брянск</p><img class="img-fluid" data-lazy="img/installations/GLS/iECHO-GLSC-1818---в-Брянске-2_.jpg" alt="Инсталляция режущего плоттера iECHO GLSС в Брянске"></div>  -->
-<div class="slick-install-item"><p class="s-dscr">בריאנסק</p><img alt="התקנה של פלוטר חיתוך iECHO GLСС בבריאנסק" class="img-fluid" data-lazy="img/installations/GLS/iECHO-GLSC-1818---в-Брянске__.jpg"/></div>
+<div class="slick-install-item"><p class="s-dscr">בריאנסק</p><img alt="התקנה של פלוטר חיתוך iECHO GLCC בבריאנסק" class="img-fluid" data-lazy="img/installations/GLS/iECHO-GLSC-1818---в-Брянске__.jpg"/></div>
 <div class="slick-install-item"><p class="s-dscr">נארו-פומינסק</p><img alt="התקנה של ANRK GLSA 2520 בנארו-פומינסק" class="img-fluid" data-lazy="img/installations/GLS/iECHO-GLSA-2520-Наро-Фоминск-(1)__
 .jpg"/></div>
 <div class="slick-install-item"><p class="s-dscr">בריאנסק</p><img alt="התקנת ANRK iECHO GLS בבריאנסק" class="img-fluid" data-lazy="img/installations/GLS/iECHO-GLS-БРЯНСК.jpg"/></div>
@@ -1212,148 +1202,18 @@ GLSA-3225<br/>
 </div>
 <!-- МЕСТО ДЛЯ ИНСТАЛЛЯЦИЙ - ПРОВЕРИТЬ КОНФЛИКТ С ВЕРХНИМ СЛАЙДЕРОМ - ПЕРЕХОД ПО КНОПКАМ!! -->
 <!-- footer -->
-<span id="pagescrollreach"></span> <!-- передача scroll to  Я Метрика - цель  pagescrollreach 340113272 -->
-<div class="footer-smart" id="contacts">
-<div id="edger"></div>
-<a class="order-button-footer show1 popup-content-without-arrows header-top-button d-md-none" href="#magnific-pop-up-contact-form" id="order-button-footer" onclick="ym(66079705,'reachGoal','form_iecho_mobile-button-form-click'); return true;">שאל שאלה</a>
-<div class="container container-footer">
+<span id="pagescrollreach"></span><footer class="footer-smart footer-placeholder" id="contacts">
+<div class="container container-footer py-24">
 <div class="row">
-<div class="col-12 col-md-6 col-lg-3 text-white footer-item">
-<div class="d-flex footer-logo">
-<a href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru"><img class="footer-logo-class mb-16" src="img/smart-t_logo.svg"/></a>
-</div>
-<div class="footer-main-phone fw500">
-<a href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru">LLC "Smart-T"</a> <br/>
-<a class="mb-12 d-block" href="tel:+74956639111">+7 (495) 663-9111</a>
-<p class="moscow-line mb-12">
-                        מוסקבה,<br/> 
-                        רח' שריקופודשיפניקובסקאיה,<br/> 13, עמ' 46
-                     </p>
-<a href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru">www.smart-t.ru</a> <br/>
-<a href="mailto:info@smart-t.ru">info@smart-t.ru</a>
-</div>
-</div>
-<!--  footer-offices -->
-<div class="col-12 col-md-6 col-lg-6 relat footer-offices text-white footer-item">
-<div class="d-flex footer-flexer justify-content-between">
-<p> מוסקבה
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+74956639111">+7 (495) 663-9111</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> סנט פטרבורג
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+78123313993">+7 (812) 331-3993</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> איבנובו
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+79109956147">+7 (910) 995-6147</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> קרסנודר
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+78612343189">+7 (861) 234-3189</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> ולדיקאבקז
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+79280652415">+7 (928) 065-2415</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> נברז'ניה צ'לני
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+78552781055">+7 (8552) 78-1055</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> קאזאן
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+79270457387">+7 (927) 045-73-87</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> אופא
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+79270430807">+7 (927) 043-0807</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> וורונז'
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+74732210030">+7 (473) 221-0030</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> יקטרינבורג
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+73432885901">+7 (343) 288-5901</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> נובוסיבירסק
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+73833636201">+7 (383) 36-36-201</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> קרסנויארסק
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+73912180086">+7 (391) 218-00-86</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> מינסק
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:3757407409242">+375 (740) 740 92 42</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p class="mt-6"> טשקנט
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+998909664204">+998 (90) 966-4204</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p class="mt-6"> אלמטי
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+77273393369">+7 (727) 339-33-69</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p class="mt-6"> אסטנה
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+77172652001">+7 (7172) 65-20-01</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p class="mt-6"> בישקק
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+996703463084">+996 (703) 46-30-84</a>
-</p></div>
-</div>
-</div>
-<!--  footer-offices -->
-<div class="col-12 col-lg-auto col-lg-2 relat footer-social-icons text-white offset-xl-1">
-<a href="https://t.me/smart_mimaki" target="_blank"><img class="social-bottom" height="32px;" src="img/social/colorful/telegram.svg" width="32px"/></a>
-<a href="https://www.youtube.com/c/SmartTchannel" target="_blank"><img class="social-bottom" height="32px;" src="img/social/colorful/youtube.svg" width="32px"/></a>
-<a href="https://rutube.ru/channel/25855989/videos/" target="_blank"><img class="social-bottom" height="32px;" src="img/social/colorful/RUTUBE_white_color_circle.svg" width="32px"/></a>
-<a href="https://www.facebook.com/smart.mimaki" target="_blank"><img class="social-bottom" height="32px;" src="img/social/colorful/facebook.svg" width="32px"/></a>
-<a href="https://www.instagram.com/smart.mimaki/" target="_blank"><img class="social-bottom" height="32px;" src="img/social/colorful/instagram.svg" width="32px"/></a>
-<a href="https://vk.com/smart.mimaki" target="_blank"><img class="social-bottom" height="32px;" src="img/social/colorful/vk.svg" width="32px"/></a>
-<p class="exclusive-small">חברת Smart-T היא המפיצה הבלעדית של iECHO בשטח<br class="d-none d-lg-block"/> רוסיה ובלארוס</p>
-<a class="footer-small-link d-inline-block mt-12" href="https://www.smart-t.ru/company/?utm_content=perehod_s_saita_iecho.ru" target="_blank">• על החברה</a> <br/>
-<a class="footer-small-link d-inline-block" href="https://www.smart-t.ru/oplata/lizingovye-kompanii/?utm_content=perehod_s_saita_iecho.ru" target="_blank">• ליסינג</a> <br/>
-<a class="footer-small-link d-inline-block" href="https://www.smart-t.ru/oplata/?utm_content=perehod_s_saita_iecho.ru" target="_blank">• תשלום ומשלוח</a>
+<div class="col-12 text-white footer-item text-center">
+<p class="mb-12">© iECHO</p>
+<a class="footer-small-link mx-12" href="#">תנאי שימוש</a>
+<a class="footer-small-link mx-12" href="#">מדיניות פרטיות</a>
+<a class="footer-small-link mx-12" href="#">נגישות</a>
 </div>
 </div>
 </div>
-</div>
+</footer> <!-- передача scroll to  Я Метрика - цель  pagescrollreach 340113272 -->
 <!-- ЭТОТ СКРИПТ БЫЛ ЗАТЁРТ 29.03.22 ИЗ-ЗА СИЛЬНЫХ ТОРМОЗОВ ПОСЛЕ БЛОКИРОВКА FACEBOOK -->
 <!-- Facebook Pixel Code -->
 <!-- Meta Pixel Code -->
@@ -1427,7 +1287,6 @@ src="https://www.facebook.com/tr?id=172722577400621&ev=PageView&noscript=1"
 <li class="small-mobile-menu-font"><a href="iecho-gls.php">ANRK לחיתוך ריצוף</a></li>
 <!--  <li class="small-mobile-menu-font"><a href="iecho-lcks.php">Комплексы для раскроя кожи</a></li> -->
 <li class="small-mobile-menu-font"><a href="iecho-pk.php">פלוטר חיתוך קומפקטי</a></li>
-<li class="small-mobile-menu-font"><a href="https://smart-t.ru/catalog/zapchasti/zapchasti_iecho/?utm_content=perehod_s_saita_iecho.ru">חלקי חילוף וכלי עבודה</a></li>
 </ul>
 <div class="contacts-mobile">
 <p class="fw500">חברה <a class="fw500" href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru" style="color: #0cb0fa!important;" target="_blank">"Smart-T" - </a> <br/>מפיץ בלעדי של iECHO ברוסיה ובבלרוס

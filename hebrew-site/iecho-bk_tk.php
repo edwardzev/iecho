@@ -163,17 +163,7 @@
 </p><p>הזנת גיליון אוטומטית.
     <img class="lazzzy mt-12" data-src="img/menu-mini-img/pk-mini.jpg"/>
 </p></div></li>
-<li class="li-divider">
-</li>
-<li><a class="menu-scroll lastli relat" href="https://smart-t.ru/catalog/zapchasti/zapchasti_iecho/?utm_content=perehod_s_saita_iecho.ru" target="_blank">חלקי חילוף<br/>וכלים</a>
-<div class="menu-img-droppp">
-<p class="mt-6 fw700 mb-8">זמין במלאי<br/>
-</p><p>סכינים, משאבות, לוחות, חגורות, כבלים, חיישנים, בקרים, מחברים וכו'. <br/>
-<img class="lazzzy mt-12" data-src="img/menu-mini-img/spare-parts-mini.jpg"/>
-</p></div>
-<!-- <li class="li-divider"></li> -->
-<!--  <li><a class="popup-content-without-arrows lastli relat" href="#comparative-table">Компания <br>iECHO</a></li> -->
-</li></ul>
+</ul>
 <div class="iecho-contacts-mobile relat fw500 d-block d-lg-none">
 <a class="iecho-contacts-mobile-info" href="tel:+74956639111 ">+7 (495) 663-9111 </a><br/>
 <a class="iecho-contacts-mobile-info" href="mailto:info@smart-t.ru">info@smart-t.ru</a>
@@ -427,12 +417,12 @@
 <!--  <span class="top-iecho-item-description-titler-price">от 19 300$</span> -->
 <img alt="iECHO BK" class="bk-img img-fluid top-iecho-img d-block d-lg-none" src="img/iECHO-BK-1.png"/>
 <ul class="basic-ul">
-<li class="model-highlighter">Самые доступные профессиональные раскройные комплексы iECHO. Закрывают 90% потребностей многопрофильной РПК.</li>
+<li class="model-highlighter">מערכות החיתוך המקצועיות הזולות ביותר iECHO. מכסה 90% מהצרכים של PKK הרב תחומי.</li>
 <li>מהירות החיתוך היא עד 1.5 מ' לשנייה, שזה יותר מפי ארבע יותר מאשר חיתוך ידני.</li>
 <li>שטח עבודה: מ-1.3 על 1.1 מ' ועד 2.5 על 1.6 מ' </li>
 <li>מערכת מסועים כסטנדרט.</li>
 <li>כלי אחד עד שניים לכל כרכרה.</li>
-<li>Ремни продолжительного срока службы имеют карбоновой корд, не растягиваются при значительных нагрузках, перемещают инструмент с высокой точностью и с минимальным уровнем шума. </li>
+<li>החגורות ארוכות החיים בעלות חוט פחמן, אינן נמתחות בעומסים משמעותיים ומניעות את הכלי בדיוק גבוה ובמינימום רעש. </li>
 </ul>
 <a class="top-form order-button2 order-button-inverted-white big-price-link show-bk popup-content-without-arrows mt-8 mt-sm-16 d-inline-block" href="#magnific-pop-up-contact-form">קבל מחיר עבור iECHO BK1</a>
 </div>
@@ -453,7 +443,7 @@
 <li>שטח עבודה: מ-1.7 על 1.3 מ' ועד 2.5 על 1.7 מ' </li>
 <li>אחד עד שלושה כלים לכל כרכרה.</li>
 <li>לפוטרים מסדרת BK3 יש את המספר הגדול ביותר של אזורי ואקום הניתנים לשליטה.</li>
-<li>Возможность резки листовых, рулонных материалов, подетальная резка крупногабаритных материалов.</li>
+<li>אפשרות לחיתוך חומרי גיליון וגליל, חיתוך מפורט של חומרים גדולים.</li>
 <li>שולחן דיוק עשוי מאלומיניום בעל חוזק גבוה למטוסים.</li>
 <li>משאבת ואקום עוצמתית עם כוח הידוק מתכוונן.</li>
 </ul>
@@ -473,10 +463,10 @@
 <ul class="basic-ul">
 <li class="model-highlighter">הפרודוקטיביות הגבוהה ביותר: מהירות חיתוך של עד 1.8 מ' לשנייה.</li>
 <li>שטח עבודה: מ-1.3 על 1.1 מ' ועד 2.5 על 1.6 מ' </li>
-<li>Усовершенствованная система вакуумного прижима — производительность вакуумной системы увеличена на 25 %.</li>
-<li>Высокопрочная конструкция — несущая рама станков выполнена из стального профиля толщиной 12 мм.</li>
-<li>Интеллектуальная система управления вакуумными зонами — настройка силы всасывания в каждой зоне осуществляется в зависимости от характеристик обрабатываемого материала.</li>
-<li>Износостойкие электрические кабели — тест на 1 млн сгибаний, а также испытание на усталость не привели к повреждению электропроводов.</li>
+<li>מערכת הידוק ואקום משופרת - ביצועי מערכת הוואקום עלו ב-25%.</li>
+<li>עיצוב חוזק גבוה - המסגרת התומכת של המכונות עשויה מפרופיל פלדה בעובי 12 מ"מ.</li>
+<li>מערכת בקרה חכמה לאזורי ואקום - כוח היניקה בכל אזור מותאם בהתאם למאפייני החומר המעובד.</li>
+<li>כבלי חשמל עמידים בפני שחיקה - בדיקת 1 מיליון כיפוף ובדיקת עייפות לא הביאו לפגיעה בכבלי החשמל.</li>
 </ul>
 <a class="top-form order-button2 order-button-inverted-white big-price-link show--bk4 popup-content-without-arrows mt-8 mt-sm-16 d-inline-block" href="#magnific-pop-up-contact-form">קבל מחיר עבור iECHO BK4</a>
 </div>
@@ -492,18 +482,18 @@
 <!--  <span class="top-iecho-item-description-titler-price">от 33 500$</span> -->
 <img alt="iECHO TK4S" class="img-fluid top-iecho-img d-block d-lg-none mb-12" src="img/iECHO TK4S.png"/>
 <ul class="basic-ul">
-<li class="model-highlighter">Широкий модельный ряд: по желанию заказчика может быть изготовлен комплекс с нестандартными размерами рабочей области.</li>
+<li class="model-highlighter">מגוון רחב של דגמים: לבקשת הלקוח, ניתן לייצר מתחם בעל מידות לא סטנדרטיות של אזור העבודה.</li>
 <li>יותר מ-280 התקנות.<a class="abs ml-4" href="https://www.smart-t.ru/baza-znaniy/stati/bolee-280-installyatsiy-raskroynykh-kompleksov-iecho-tk4s-vnushitelnyy-rezultat-avtomatizatsii-rossi/?utm_content=perehod_s_saita_iecho.ru" target="_blank"><img class="social-bottom d-flex ml-4 align-self-center" height="20px;" src="img/go-to.svg" width="20px"/></a></li>
 <li>אחד עד שלושה כלים לכל כרכרה.</li>
 <li>מהירות חיתוך עד 1.5 מ' לשנייה.</li>
 <li>שטח עבודה: מ-2.5 על 1.6 מ' ועד 3.5 על 2.1 מ' </li>
 <li> מחזיק שיא למידות - iECHO TK4S-7543 עם שולחן עבודה 7.5 על 4.3 מ' (Dolgoprudny) <a class="abs ml-4" href="https://www.smart-t.ru/company/blog/gigantskiy-raskroyshchik-s-ploshchadyu-stola-bolee-32-kv-m-ustanovlen-v-podmoskove/?utm_content=perehod_s_saita_iecho.ru" target="_blank"><img class="social-bottom d-flex ml-4 align-self-center" height="20px;" src="img/go-to.svg" width="20px"/></a></li>
-<li>Возможность резки листовых,  рулонных материалов, подетальная резка крупногабаритных материалов.</li>
+<li>אפשרות לחיתוך חומרי גיליון וגליל, חיתוך מפורט של חומרים גדולים.</li>
 <li>עיצוב שולחן מתקפל.</li>
 <li>המספר הגדול ביותר של אפשרויות וכלים זמין.</li>
 <!--   <li>Мощная вакуумная помпа с возможностью регулировки силы прижима.</li> -->
-<li>Направляющие THK — прецизионные направляющие обеспечивают отличную геометрическую точность,
- отсутствие люфтов и плавность хода портала.</li>
+<li>מדריכי THK - מדריכים מדויקים מספקים דיוק גיאומטרי מעולה,
+ היעדר תגובה נגדית ותנועה חלקה של הפורטל.</li>
 </ul>
 <a class="top-form order-button2 order-button-inverted-white big-price-link showTK4S popup-content-without-arrows mt-8 mt-sm-16 d-inline-block" href="#magnific-pop-up-contact-form">קבל מחיר עבור iECHO TK4S</a>
 </div>
@@ -522,10 +512,10 @@
 <li class="model-highlighter">חותך ההייטק, המהיר והמדויק ביותר ממגוון דגמי iECHO.</li>
 <li>מהירות החיתוך יכולה להגיע ל-2 מ' לשנייה. </li>
 <li>שטח עבודה: מ-2.5 על 1.6 מ' ועד 3.5 על 3.2 מ' </li>
-<li>Вместо обычных систем линейного перемещения в iECHO SK2 используется линейный электродвигатель, в том числе отвечающий за перемещение портала.</li>
-<li>Быстрый отклик системы прямого привода позволяет существенно сократить время разгона и торможения, что способствует заметному повышению производительности станка.</li>
-<li>Исключительная точность позиционирования, повышенная скорость перемещения, высокая точность на длинных ходах</li>
-<li>Точность механического перемещения ± 0,025 мм, а точность механической повторяемости составляет 0,015 мм. </li>
+<li>במקום מערכות תנועה ליניאריות קונבנציונליות, ה-iECHO SK2 משתמש במנוע חשמלי ליניארי, שאחראי גם על הזזת השער.</li>
+<li>התגובה המהירה של מערכת ההנעה הישירה מפחיתה משמעותית את זמני האצה והאטה, מה שתורם לעלייה ניכרת בתפוקת המכונה.</li>
+<li>דיוק מיקום יוצא דופן, מהירות נסיעה מוגברת, דיוק גבוה בתנועות ארוכות</li>
+<li>דיוק התנועה המכאני הוא ±0.025 מ"מ, ודיוק החזרה המכני הוא 0.015 מ"מ. </li>
 <li>מסגרת דיור עשויה פלדת מבנה פחמן באיכות גבוהה.</li>
 </ul>
 <a class="top-form order-button2 order-button-inverted-white big-price-link showSK2 popup-content-without-arrows mt-8 mt-sm-16 d-inline-block" href="#magnific-pop-up-contact-form">קבל מחיר עבור iECHO SK2</a>
@@ -554,7 +544,7 @@
 <img alt="שולחן ואקום רב אזורי iECHO" class="iecho-slick-img img-fluid" src="img\construct\vacuum.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
 <div class="iecho-slick-description-small">
-  לכל הדגמים, למעט סדרת BK, יש שולחן ואקום רב אזורי.<p> Зонирование позволяет не маскировать незадействованную площадь прижима, тем самым повышается эффективность прижима и снижаются энергозатраты.
+  לכל הדגמים, למעט סדרת BK, יש שולחן ואקום רב אזורי.<p> אזור ההידוק מאפשר לא להסוות את אזור ההידוק שאינו בשימוש, ובכך להגדיל את יעילות ההידוק ולהפחית את עלויות האנרגיה.
  </p></div>
 </div>
 <div class="iecho-slick1-item relat no-slick-at-mobile">
@@ -562,7 +552,7 @@
 <img alt="התקן בטיחות iECHO" class="iecho-slick-img img-fluid" src="img\construct\safety-device.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
 <div class="iecho-slick-description-small">
- Плоттеры всех серий оснащены специальной системой с датчиком контакта, которая обеспечивает полную безопасность оператора в процессе высокоскоростной резки. 
+ פלוטרים מכל הסדרות מצוידים במערכת מיוחדת עם חיישן מגע, המבטיחה בטיחות מפעיל מלאה במהלך חיתוך מהיר. 
  </div>
 </div>
 <div class="iecho-slick1-item relat no-slick-at-mobile">
@@ -570,7 +560,7 @@
 <img alt="מערכת אתחול כלי אוטומטי מכאני AKI iECHO" class="iecho-slick-img img-fluid" src="img\construct\AKI.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
 <div class="iecho-slick-description-small">
-Глубина погружения режущего инструмента может контролироваться с высокой точностью благодаря автоматической системе инициализации инструмента с механическим датчиком (AKI). 
+ניתן לשלוט על עומק ההחדרה של כלי החיתוך בדיוק גבוה הודות למערכת אתחול הכלים האוטומטית עם חיישן מכני (AKI). 
 
   <ul class="povtor-cities-ul mt-12">
 <li style="color: #333;">חיתוך מלא של החומר</li>
@@ -586,7 +576,7 @@
 <img alt="מערכת מסועים iECHO" class="iecho-slick-img img-fluid" src="img\construct\c.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
 <div class="iecho-slick-description-small">
- Все модели режущих плоттеров могут оснащаться интеллектуальной функцией непрерывной резки на конвейере.  
+ כל דגמי פלוטרי החיתוך יכולים להיות מצוידים בפונקציה חכמה לחיתוך רציף על מסוע.  
  
   <ul class="povtor-cities-ul mt-12">
 <li style="color: #333;">העמסת חומרים באופן רציף</li>
@@ -602,7 +592,7 @@
 <img alt="שני פורטלים בדגם TK4S iECHO" class="iecho-slick-img img-fluid" src="img\construct\portals.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
 <div class="iecho-slick-description-small">
-В модели TK4S предусмотрена возможность установки сразу двух порталов, что позволяет выполнять раскрой на всей площади стола. <p class="d-none d-sm-block">Система из двух одновременно работающих модулей дает возможность существенно ускорить процесс резки и наиболее эффективно управлять всем рабочим процессом. 
+דגם ה-TK4S מספק את היכולת להתקין שני פורטלים בבת אחת, מה שמאפשר לבצע חיתוך על כל שטח השולחן. <p class="d-none d-sm-block">מערכת של שני מודולים הפועלים בו זמנית מאפשרת להאיץ משמעותית את תהליך החיתוך ולנהל בצורה היעילה ביותר את כל תהליך העבודה. 
   </p></div>
 </div>
 <div class="iecho-slick1-item relat no-slick-at-mobile">
@@ -610,7 +600,7 @@
 <img alt="מערכת מיקום אופטית iECHO" class="iecho-slick-img img-fluid" src="img\construct\Система--оптического-позиционирования.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
 <div class="iecho-slick-description-small">
- Во всех моделях раскройных комплексов iECHO предусмотрена установка системы высокоточного автоматического позиционирования. С помощью встроенной CCD-камеры обеспечивается точное положение инструмента и возможность контурной резки по реперным меткам. <p class="d-none d-sm-block">Благодаря этому можно избежать погрешностей, которые обычно сопровождают ручные операции, и учесть все особенности вырезаемого изображения.
+ כל הדגמים של מתחמי חיתוך iECHO מצוידים במערכת מיקום אוטומטית בעלת דיוק גבוה. מצלמת ה-CCD המובנית מבטיחה מיקום מדויק של הכלי ואפשרות לחיתוך קווי מתאר לפי סימני ייחוס. <p class="d-none d-sm-block">הודות לכך, אתה יכול למנוע שגיאות המלוות בדרך כלל פעולות ידניות ולקחת בחשבון את כל התכונות של התמונה החתוכה.
  </p></div>
 </div>
 <div class="iecho-slick1-item relat no-slick-at-mobile">
@@ -618,7 +608,7 @@
 <img alt="כונן גאנטרי iECHO" class="iecho-slick-img img-fluid" src="img\construct\drive.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
 <div class="iecho-slick-description-small">
- В модели TK4S привод портала представляет собой зубчатую рейку с шестерней (зубчатая передача), которая обеспечивает высокую скорость, долговечность, точность повторения и прекрасную динамику при резке плотных материалов с экстремальной рабочей нагрузкой. <p class="d-none d-sm-block">לדגמים אחרים של חותכים יש הנעה של רצועת גאנטרי, המתאפיינת בפעולה שקטה, פעולה חלקה, היעדר רעידות טפיליות ורגישות נמוכה לעומסי יתר.
+ ב-TK4S, כונן הגאנטרי הוא עיצוב מתלים (הנעת הילוכים) המספק מהירות גבוהה, עמידות, חזרתיות ודינמיקה מצוינת בעת חיתוך חומרים צפופים בעומסי עבודה קיצוניים. <p class="d-none d-sm-block">לדגמים אחרים של חותכים יש הנעה של רצועת גאנטרי, המתאפיינת בפעולה שקטה, פעולה חלקה, היעדר רעידות טפיליות ורגישות נמוכה לעומסי יתר.
  </p></div>
 </div>
 </div>
@@ -1159,20 +1149,20 @@
 <section class="tabgroup slickslider-tab" id="first-tab-group">
 <div class="simple-tabs-tab-item" id="tab1">
 <p>UCT</p>
-Предназначен для высокоскоростного раскроя материалов широкого спектра толщиной до 5 мм. 
-Для данного инструмента поставляются лезвия толщиной 0,63 мм, 1 мм и 1,5 мм.
+מיועד לחיתוך מהיר של מגוון רחב של חומרים בעובי של עד 5 מ"מ. 
+כלי זה זמין בעובי להב של 0.63 מ"מ, 1 מ"מ ו-1.5 מ"מ.
 <p>
 בהשוואה לכלים אחרים, הסכין המשיקית של UCT היא החסכונית ביותר מכיוון שהיא מספקת את מהירות החיתוך הגבוהה ביותר ועלויות תחזוקה נמוכות. </p>
 <img class="img-fluid" src="img/instruments/UCT.jpg"/>
 </div>
 <div class="simple-tabs-tab-item" id="tab2">
 <p>RZ</p>
-ציר החותך מספק מהירות סיבוב גבוהה - עד 60,000 סל"ד. הספק ציר - 350 W. חותך ההנעה בתדר גבוה יכול לשמש לחיתוך חומרים קשים בעובי של עד 20 מ"מ.<p> Специальная система пылеудаления позволяет производить работы с максимальной эффективностью и минимальным количеством сопутствующих отходов. </p><p>Система воздушного охлаждения способствует увеличению срока службы фрезы. Инструмент iECHO RZ способен работать 24 часа, 7 дней в неделю.</p>
+ציר החותך מספק מהירות סיבוב גבוהה - עד 60,000 סל"ד. הספק ציר - 350 W. חותך ההנעה בתדר גבוה יכול לשמש לחיתוך חומרים קשים בעובי של עד 20 מ"מ.<p> מערכת מיוחדת להסרת אבק מאפשרת ביצוע עבודה ביעילות מירבית ובמינימום כמות פסולת נלווית. </p><p>מערכת קירור האוויר עוזרת להאריך את חיי השירות של החותך. ה-iECHO RZ מסוגל לפעול 24 שעות, 7 ימים בשבוע.</p>
 <img class="img-fluid" src="img/instruments/RZ.jpg"/>
 </div>
 <div class="simple-tabs-tab-item" id="tab3">
 <p>UDT ו-PEN </p>
-Инструменты для нанесения графической информации, маркировки изделий. Используемые чернила серого цвета хорошо видны на поверхностях любого цвета.
+כלים להחלת מידע גרפי ותיוג מוצרים. הדיו האפור בו נעשה שימוש נראה בבירור על משטחים מכל צבע.
 <img class="img-fluid" src="img/instruments/UDT-и-PEN.jpg"/>
 </div>
 <div class="simple-tabs-tab-item" id="tab4">
@@ -1182,22 +1172,22 @@
 </div>
 <div class="simple-tabs-tab-item" id="tab5">
 <p>EOT</p>
-Электрический осциллирующий инструмент прекрасно подходит для сквозной резки материалов средней плотности. <p> כלי זה מונע על ידי מנוע חשמלי, המספק מהירות חיתוך גבוהה ומניע את הסכין למעלה ולמטה במכה של 1 מ"מ ותדירות של 18,000 רעידות לדקה.</p><p>  כלי iECHO EOT מגיע עם מספר סוגים של להבים.</p>
+כלי הנדנוד החשמלי אידיאלי לחיתוך דרך של חומרים בצפיפות בינונית. <p> כלי זה מונע על ידי מנוע חשמלי, המספק מהירות חיתוך גבוהה ומניע את הסכין למעלה ולמטה במכה של 1 מ"מ ותדירות של 18,000 רעידות לדקה.</p><p>  כלי iECHO EOT מגיע עם מספר סוגים של להבים.</p>
 <img class="img-fluid" src="img/instruments/EOT.jpg"/>
 </div>
 <div class="simple-tabs-tab-item" id="tab6">
 <p>POT </p>
-Пневматический осциллирующий инструмент iECHO POT приводится в действие сжатым воздухом и перемещает лезвие вверх–вниз с частотой 12000 колебаний в минуту и с амплитудой хода 8 мм.<p>  Прочная конструкция инструмента специально адаптирована для резки жестких и прочных материалов. Благодаря нескольким видам лезвий, можно добиваться различных результатов обработки. </p><p> באמצעות להב מיוחד ניתן לחתוך חומרים בעובי של עד 110 מ"מ.</p>
+כלי התנודה הפנאומטי iECHO POT מופעל על ידי אוויר דחוס ומניע את הלהב למעלה ולמטה בתדירות של 12,000 רעידות לדקה ובמהלך של 8 מ"מ.<p>  העיצוב החזק של הכלי מותאם במיוחד לחיתוך חומרים קשים ועמידים. הודות למספר סוגים של להבים, ניתן להגיע לתוצאות עיבוד שונות. </p><p> באמצעות להב מיוחד ניתן לחתוך חומרים בעובי של עד 110 מ"מ.</p>
 <img class="img-fluid" src="img/instruments/POT.jpg"/>
 </div>
 <div class="simple-tabs-tab-item" id="tab7">
 <p>PT </p>
-כלי לניקוב חורים וחריצים בסידור ליניארי ליישום מהיר של קווי קיפול על קרטון וקרטון גלי להיווצרות לאחר מכן של מוצר תלת מימדי ולהפרדה קלה של חלקים מהבד התומך. <p> Для перфоратора предусмотрены восемь зубчатых лезвий с разным шагом и размером зубьев прямоугольного профиля.</p>
+כלי לניקוב חורים וחריצים בסידור ליניארי ליישום מהיר של קווי קיפול על קרטון וקרטון גלי להיווצרות לאחר מכן של מוצר תלת מימדי ולהפרדה קלה של חלקים מהבד התומך. <p> מקדחה הפטיש מצוידת בשמונה להבים משוננים בעלי צלעות וגדלים שונים של שיניים מלבניות.</p>
 <img class="img-fluid" src="img/instruments/PT.jpg"/>
 </div>
 <div class="simple-tabs-tab-item" id="tab8">
 <p>PRT</p>
-מיועד לחיתוך מהיר של בדים, סריגים וחומרים לא ארוגים. <p> Идеально подходит для резки технических тканей – препрегов, материалов на основе углеродного, пара-арамидного, мета-арамидного и стекловолокна. </p><p> Раскрой осуществляется вращающимися с большой скоростью дисковыми лезвиями разного диаметра, имеющими форму круга или многогранника.</p>
+מיועד לחיתוך מהיר של בדים, סריגים וחומרים לא ארוגים. <p> אידיאלי לחיתוך בדים טכניים - חומרי פרפרגס, פחמן, פארא-ארמיד, מטה-ארמיד ופיברגלס. </p><p> החיתוך מתבצע על ידי להבי דיסק בקטרים ​​שונים המסתובבים במהירות גבוהה, בצורת עיגול או פולידרון.</p>
 <img class="img-fluid" src="img/instruments/PRT.jpg"/>
 </div>
 <div class="simple-tabs-tab-item" id="tab9">
@@ -1207,14 +1197,14 @@
 </div>
 <div class="simple-tabs-tab-item" id="tab10">
 <p>STT</p>
-Биговальный инструмент для нанесения прямолинейных бороздок для последующего складывания плоской заготовки в объемное изделие.<p>  מיועד לקרטון, פלסטיק גמיש דק וחומרים אחרים הניתנים ללחיצה בקלות. </p><p>  Скоординированный с программным обеспечением для резки в целях достижения наилучшего результата обработки инструмент может осуществлять биговку гофрированного материала вдоль или поперек его структуры без каких-либо повреждений его поверхности.</p>
+כלי ניקוד ליישום חריצים ישרים לקיפול לאחר מכן של חומר עבודה שטוח למוצר תלת מימדי.<p>  מיועד לקרטון, פלסטיק גמיש דק וחומרים אחרים הניתנים ללחיצה בקלות. </p><p>  בתיאום עם תוכנת חיתוך להשגת תוצאות החיתוך הטובות ביותר, הכלי יכול לקמט חומר גלי לאורך או לרוחב המבנה שלו ללא כל נזק לפני השטח שלו.</p>
 <img class="img-fluid" src="img/instruments/СТТ.jpg"/>
 </div>
 <div class="simple-tabs-tab-item" id="tab12">
 <p>PCT</p>
-Пресс-нож предназначен для деликатной резки гофро- и микрогофрокартона, сотового и гофрированного полипропилена, а также других материалов толщиной до 7 мм. <p class="d-none d-sm-block">אלמנט לחיצה בולט בעל משטח חלק דוחס בעדינות שכבות של קרטון גלי, מפחית את עוביו, ולהב הבולט מאלמנט הלחיצה חותך בקלות שכבות חומר דחוסות.
+סכין העיתונות מיועדת לחיתוך עדין של קרטון גלי ומיקרו גלי, חלת דבש ופוליפרופילן גלי, וכן חומרים נוספים בעובי של עד 7 מ"מ. <p class="d-none d-sm-block">אלמנט לחיצה בולט בעל משטח חלק דוחס בעדינות שכבות של קרטון גלי, מפחית את עוביו, ולהב הבולט מאלמנט הלחיצה חותך בקלות שכבות חומר דחוסות.
 
-</p><p>Таким образом, скорость раскроя значительно повышается, т.к. не ограничивается частотой вибрации лезвия, как в случае с осциллирущим инструментом. Глубина реза и усилие прижима регулируется специальным механизмом, что позволяет использовать широкий спектр различных по толщине материалов.
+</p><p>לפיכך, מהירות החיתוך עולה באופן משמעותי, מכיוון שאינה מוגבלת על ידי תדירות הרטט של הלהב, כפי שקורה בכלי מתנודד. עומק החיתוך וכוח ההידוק מותאמים על ידי מנגנון מיוחד, המאפשר שימוש במגוון רחב של חומרים בעוביים שונים.
 
 </p>
 <img class="img-fluid" src="img/instruments/PCT.jpg"/>
@@ -1237,7 +1227,7 @@
 <p class="module-item-title"><span>מודול אוניברסלי</span> </p>
 <img alt="מודול iECHO אוניברסלי" class="img-fluid lazzzy mt-12 mt-xl-24 mb-12 d-block mx-auto" data-src="img/universal-module-iecho.png"/>
 </div>
-<p>Предназначен для управления инструментом и устанавливается на станцию. Одна станция и один универсальный модуль предусмотрены в базовой комплектации каждого плоттера.</p>
+<p>נועד לשלוט בכלי ומותקן על התחנה. תחנה אחת ומודול אוניברסלי אחד כלולים בתצורה הבסיסית של כל פלוטר.</p>
 </div>
 </div>
 <div class="col-12 col-xl-3 d-flex module-item-outer">
@@ -1246,7 +1236,7 @@
 <p class="module-item-title"><span>אגרוף חורים</span><br/>Punch/Notch module</p>
 <img alt="ניקוב חורים מודול אגרוף/חריץ iECHO" class="img-fluid lazzzy module-item-title-1 mb-8 d-block mx-auto" data-src="img/Punch.png"/>
 </div>
-<p>Высокоскоростной пробойник. Комплектуется насадками для вырубки сквозных отверстий или надсечки диаметром от 1 до 4 мм, отверстий прямоугольной и V-образной формы. </p><p>משמש לניקוב בד, עור, חומרים מרוכבים וכו'. 
+<p>אגרוף במהירות גבוהה. הוא מצויד בחרירים לחיתוך חורים או חריצים בקוטר של 1 עד 4 מ"מ, חורים מלבניים וצורת V. </p><p>משמש לניקוב בד, עור, חומרים מרוכבים וכו'. 
  </p></div>
 </div>
 <div class="col-12 col-xl-3 d-flex module-item-outer">
@@ -1263,7 +1253,7 @@
 <div class="">
 <p class="module-item-title"><span>כרסום מודולים</span></p>
 <img alt="מודולי כרסום iECHO" class="img-fluid lazzzy mb-12 mb-xl-24 d-block mx-auto" data-src="img/other/mill-module-iecho-small.png"/>
-<p>Оснащаются мощным шпинделем с частотой вращения 60 000 об./мин. Фрезерный инструмент позволяет обрабатывать такие материалы, как дерево, МДФ, ДСП, цветной металл, пластики и т. д. <br/>
+<p>מצויד בציר חזק עם מהירות סיבוב של 60,000 סל"ד. כלי הכרסום מאפשר לעבד חומרים כמו עץ, MDF, סיבית, מתכת לא ברזלית, פלסטיק וכו'. <br/>
 </p></div>
 <a class="special-price-discount-link popup-video-rutube" href="https://rutube.ru/play/embed/16fa2f4a0b74a72e44b3881086353df3/?t=0"><span class="special-price-discount">צפה בסרטון</span></a>
 </div>
@@ -1275,7 +1265,7 @@
 <!-- MODULES SLIDER -->
 <div class="container mt-64 mt-lg-80 mb-64 mb-sm-12 mb-lg-120 relat z1 modules-main-outer py-48 py-lg-0">
 <div class="row mb-lg-56">
-<div class="relat d-flex col-12 col-lg-4 align-items-center mb-0 p-24 pr-md-120 pr-lg-64 pl-lg-40 modules-right-block-outer ml-lg-56"><p class="modules-right-block"> В нашем демозале вы сможете протестировать инструменты iECHO для раскроя интересующих вас материалов. <span class="d-block mt-12 mt-sm-24">Тест-драйв на самых разных гибких и жёстких, тонких и толстых материалах и с использованием ваших файлов.
+<div class="relat d-flex col-12 col-lg-4 align-items-center mb-0 p-24 pr-md-120 pr-lg-64 pl-lg-40 modules-right-block-outer ml-lg-56"><p class="modules-right-block"> בחדר ההדגמה שלנו תוכלו לבדוק כלי iECHO לחיתוך חומרים שמעניינים אתכם. <span class="d-block mt-12 mt-sm-24">נסיעת מבחן על מגוון רחב של חומרים גמישים ונוקשים, דקים ועבים ושימוש בקבצים שלך.
 </span>
 </p></div>
 <div class="col-12 col-lg-7 popup-gallery mb-24 mb-lg-0 d-sm-flex">
@@ -1308,7 +1298,7 @@
 <div class="container tabzzz d-flex">
 <dl class="responsive-tabs">
 <dt class="tab-titler firstt">מערכת הקרנה לחתוך</dt>
-<dd><p>С помощью системы из нескольких проекторов, установленных над раскройщиком, на поверхность рабочего стола отображается раскладка кроя, созданная в макете.</p><p>זה מאפשר לך לבדוק את מיקום החלקים לפני תחילת החיתוך ובמידת הצורך לבצע התאמות בפריסה לשימוש רציונלי בחומר ולמזעור בזבוז.  </p>
+<dd><p>באמצעות מערכת של מקרנים מרובים המותקנים מעל החותך, פריסת החתך שנוצרה בפריסה מוצגת על משטח שולחן העבודה.</p><p>זה מאפשר לך לבדוק את מיקום החלקים לפני תחילת החיתוך ובמידת הצורך לבצע התאמות בפריסה לשימוש רציונלי בחומר ולמזעור בזבוז.  </p>
 <!-- <a class="special-price-discount-link popup-video-rutube" href="https://rutube.ru/play/embed/16fa2f4a0b74a72e44b3881086353df3/?t=0"><span class="special-price-discount ">Смотреть видео</span></a> -->
 <div class="tab-item-img"><img alt="מערכת הקרנה iECHO" class="img-fluid" src="img/tab-features/система-проецирования.jpg"/></div>
 </dd>
@@ -1324,7 +1314,7 @@
 <div class="tab-item-img"><img alt="מזיני חומרים iECHO" class="img-fluid lazzzy" src="img/tab-features/Устройства-подачи-материалов.jpg"/></div>
 </dd>
 <dt class="tab-titler">מערכת זיהוי iECHO I KNOW</dt>
-<dd><p>Система считывает с поверхности отпечатанного материала специальный код и на основании полученных данных автоматически выбирает сохраненный на компьютере файл резки. С помощью CCD-камеры высокой точности система самостоятельно находит начальную реперную метку для контурной резки и запускает процесс обработки в автоматическом режиме. </p><p>המערכת כוללת גם את פונקציית החיתוך החזותי I PICTURE, המייצרת את קווי המתאר של השרטוטים ומשתמשת בהם ליצירת קו חיתוך - אין צורך ליצור תחילה קבצי חיתוך. </p>
+<dd><p>המערכת קוראת קוד מיוחד ממשטח החומר המודפס ועל סמך הנתונים המתקבלים בוחרת אוטומטית קובץ חיתוך המאוחסן במחשב. באמצעות מצלמת CCD בעלת דיוק גבוה, המערכת מוצאת באופן עצמאי את סימן ההתייחסות ההתחלתי לחיתוך קווי המתאר ומתחילה את תהליך העיבוד באופן אוטומטי. </p><p>המערכת כוללת גם את פונקציית החיתוך החזותי I PICTURE, המייצרת את קווי המתאר של השרטוטים ומשתמשת בהם ליצירת קו חיתוך - אין צורך ליצור תחילה קבצי חיתוך. </p>
 <div class="tab-item-img"><img alt="מערכת זיהוי iECHO I KNOW" class="img-fluid lazzzy" data-src="img/tab-features/iknow.jpg"/></div>
 </dd>
 <!--   <dt class="tab-titler">Система сканирования для раскроя кожи IECHO LEATHER SCAN SYSTEM</dt>
@@ -1332,15 +1322,15 @@
 <div class="tab-item-img "><img class="img-fluid lazzzy" data-src="img/tab-features/Система сканирования для раскроя кожи.jpg" alt="Система сканирования для раскроя кожи IECHO LEATHER SCAN SYSTEM iECHO"></div>
 </dd> -->
 <dt class="tab-titler">מערכת סריקה אוטומטית</dt>
-<dd><p>Для удовлетворения требований клиентов к скорости и точности раскроя запечатанных материалов компания iECHO разработала автоматическую систему сканирования для цифровых раскройщиков – Automatic Vision Scan Cutting System – для текстильных предприятий, производств по изготовлению ковровых покрытий и для рекламных компаний. </p><p>В системе используется высокоточная камера линейного сканирования, сканирование производится со скоростью 0,3 м/сек. и точностью 1 мм. </p>
+<dd><p>כדי לענות על דרישות הלקוחות למהירות ודיוק בחיתוך חומרים מודפסים, פיתחה iECHO מערכת סריקה אוטומטית לחותכים דיגיטליים - מערכת החיתוך Automatic Vision Scan Cutting System - עבור חברות טקסטיל, שטיחים ופרסום. </p><p>המערכת משתמשת במצלמת סריקה לינארית בעלת דיוק גבוה; הסריקה מתבצעת במהירות של 0.3 מ' לשנייה. ודיוק של 1 מ"מ. </p>
 <div class="tab-item-img"><img alt="מערכת סריקה אוטומטית iECHO" class="img-fluid lazzzy" data-src="img/tab-features/Автоматическая система сканирования.jpg"/></div>
 </dd>
 <dt class="tab-titler">מערכות לטעינה/פריקה אוטומטית של חומרי גיליון</dt>
-<dd><p>Автонакладчик является эффективным средством оптимизации резки, которое позволяет свести к минимуму участие оператора в рабочем процессе, исключить ошибки, обусловленные человеческим фактором, и обеспечить увеличение производительности на 25 % по сравнению с ручной загрузкой. </p><p>המיקום המדויק של היריעות שמספק מכשיר זה וסנכרון תנועת המסוע והפורטל מאפשרים ביצוע חיתוך רציף ובדיוק יוצא דופן.
+<dd><p>הטוען האוטומטי הוא כלי אופטימיזציית חיתוך יעיל שממזער את מעורבות המפעיל, מבטל טעויות אנוש ומספק עלייה של 25% בפריון בהשוואה לטעינה ידנית. </p><p>המיקום המדויק של היריעות שמספק מכשיר זה וסנכרון תנועת המסוע והפורטל מאפשרים ביצוע חיתוך רציף ובדיוק יוצא דופן.
 </p><div class="tab-item-img"><img alt="מערכות טעינה/פריקה אוטומטיות לחומרי גיליון iECHO" class="img-fluid lazzzy" data-src="img/tab-features/Системы загрузки-выгрузки.jpg"/></div>
 </dd>
 <dt class="tab-titler">שולחן נוסף</dt>
-<dd><p>Площадь рабочей поверхности может быть увеличена за счет дополнительного рабочего стола, который составляет вместе с раскройщиком единое целое. Он предназначен для приема раскроенного материала, который по конвейерной ленте перемещается из зоны обработки в свободную зону, и существенно упрощает сбор готовой продукции и отходов без прерывания процесса резки.  </p>
+<dd><p>ניתן להגדיל את שטח משטח העבודה הודות לשולחן עבודה נוסף, אשר יחד עם החותך יוצר שלם אחד. הוא מיועד לקליטת חומר חתוך, שנע לאורך מסוע מאזור העיבוד לאזור החופשי, ומפשט משמעותית את איסוף המוצרים המוגמרים והפסולת מבלי להפריע לתהליך החיתוך.  </p>
 <div class="tab-item-img"><img alt="טבלה נוספת iECHO" class="img-fluid lazzzy" data-src="img/tab-features/Дополнительный стол.jpg"/></div>
 </dd>
 </dl>
@@ -1360,7 +1350,7 @@
 <div class="col-12 col-xl-5">
 <div class="iBrightCut_description">
 <p>iBrightCut</p>
-<p>Мощное программное обеспечение iBrightCut, входящее в комплект поставки,  имеет все необходимые функции для эффективной работы. К ним относятся: разработка шаблонов, преобразование данных, автоматическая маркировка и редактирование выходных изображений. <!-- Система Powermarker позволяет оптимизировать использование материала и сократить нерациональные отходы. -->
+<p>לתוכנת iBrightCut החזקה הכלולה בחבילה יש את כל הפונקציות הדרושות לתפעול יעיל. אלה כוללים: פיתוח תבניות, שינוי נתונים, תיוג אוטומטי ועריכה של תמונות פלט. <!-- Система Powermarker позволяет оптимизировать использование материала и сократить нерациональные отходы. -->
 </p></div>
 <img class="img-fluid d-xl-none mt-12" src="img/iBrightCut.jpg"/>
 <!-- MY-ACCORDION----------------------------------------------- -->
@@ -1382,7 +1372,7 @@
 </li>
 <li class="my_accordion-item">
 <h3 class="my_accordion-thumb">תכונות נוספות</h3>
-<p class="my_accordion-panel">Для обеспечения максимального удобства пользователю предоставляется возможность самостоятельно устанавливать вспомогательные иконки быстрого доступа. Он может после завершения задания установить режущую головку в необходимое ему положение. Также можно задать режим, при котором по окончании работы компрессор будет закрываться автоматически.</p>
+<p class="my_accordion-panel">כדי להבטיח נוחות מרבית, ניתנת למשתמש ההזדמנות להתקין באופן עצמאי סמלי עזר גישה מהירה. לאחר סיום העבודה, הוא יכול לכוון את ראש החיתוך למצב שהוא צריך. ניתן גם להגדיר מצב בו המדחס ייסגר אוטומטית בסיום הפעולה.</p>
 </li>
 <li class="my_accordion-item">
 <h3 class="my_accordion-thumb">שרת ענן</h3>
@@ -1392,7 +1382,7 @@
 </li>
 <li class="my_accordion-item">
 <h3 class="my_accordion-thumb">פונקציות בקרה</h3>
-<p class="my_accordion-panel">Пользователи могут отслеживать траекторию резания, оценивать время процесса, обновлять ход выполнения задания.</p>
+<p class="my_accordion-panel">משתמשים יכולים לעקוב אחר נתיב החיתוך, להעריך את זמן התהליך ולעדכן את התקדמות העבודה.</p>
 </li>
 </ul>
 <!-- MY-ACCORDION END----------------------------------------------- -->
@@ -1512,7 +1502,7 @@
 <!-- company-facts-right-side -->
 <div class="container mb-80 mb-md-120 mt-80" style="background-color: #333;">
 <div class="row">
-<div class="relat d-flex col-12 col-xl-5 col-xxl-4 relat align-items-center mb-0 p-24 pr-md-120 pr-lg-64 pl-lg-40 modules-right-block-outer-extendede-before ml-xxl-80"><p class="modules-right-block f18"> 11 נציגויות <br class="d-none d-xl-block"/>ברוסיה. משרדי נציגות בבלארוס, קזחסטן, אוזבקיסטן וקירגיזסטן <span class="d-block mt-12 mt-sm-24">Оперативно решаем все вопросы, связанные с сервисным обслуживанием и поставкой запасных частей.</span>
+<div class="relat d-flex col-12 col-xl-5 col-xxl-4 relat align-items-center mb-0 p-24 pr-md-120 pr-lg-64 pl-lg-40 modules-right-block-outer-extendede-before ml-xxl-80"><p class="modules-right-block f18"> 11 נציגויות <br class="d-none d-xl-block"/>ברוסיה. משרדי נציגות בבלארוס, קזחסטן, אוזבקיסטן וקירגיזסטן <span class="d-block mt-12 mt-sm-24">אנו פותרים באופן מיידי את כל הבעיות הקשורות לתחזוקת שירות ואספקת חלקי חילוף.</span>
 </p>
 </div>
 <div class="col-12 col-xl-6 relat d-flex flex-wrap justify-content-center d-xl-block relat z2">
@@ -1852,8 +1842,8 @@
 <div class="d-flex flex-column flex-sm-row justify-content-between">
 <a class="youmaylikeit-outer-link" href="iecho-gls.php">
 <div class="youmaylikeit-inner-item p-24">
-<p class="youmaylikeit-inner-item-p text-white">מתחמים לחיתוך ריצוף<br/>iECHO GLSA/GLСС</p>
-<p class="youmaylikeit-inner-item-p-description mt-4">Настилочно-раскройные комплексы. Раскрой настила текстильных и мягких материалов толщиной до 90 мм. Для швейных фабрик.</p>
+<p class="youmaylikeit-inner-item-p text-white">מתחמים לחיתוך ריצוף<br/>iECHO GLSA/GLCC</p>
+<p class="youmaylikeit-inner-item-p-description mt-4">הנחה וחיתוך מתחמים. חיתוך ריצוף של טקסטיל וחומרים רכים בעובי של עד 90 מ"מ. למפעלי בגדים.</p>
 <a class="special-price-discount-link" href="iecho-gls.php"><span class="special-price-discount mt-8">פרטים נוספים</span></a>
 <img alt="חותך רצפת בד iECHO GLSC" class="img-fluid lazzzy mt-16" data-src="img/small-additional-images/iECHO-GLSC-additional.jpg"/>
 </div>
@@ -1861,7 +1851,7 @@
 <a class="youmaylikeit-outer-link" href="iecho-pk.php">
 <div class="youmaylikeit-inner-item p-24">
 <p class="youmaylikeit-inner-item-p text-white">פלוטר חיתוך אוטומטי<br/>iECHO PK</p>
-<p class="youmaylikeit-inner-item-p-description mt-4">Для листовых материалов форматом до 1200 х 900 мм и толщиной до 10 мм. Автоподача листов. Резка по QR-коду.</p>
+<p class="youmaylikeit-inner-item-p-description mt-4">לחומרי יריעות בפורמטים של עד 1200 על 900 מ"מ ועובי עד 10 מ"מ. הזנת גיליון אוטומטית. חיתוך באמצעות קוד QR.</p>
 <a class="special-price-discount-link" href="iecho-pk.php"><span class="special-price-discount mt-8">פרטים נוספים</span></a>
 <img alt="פלוטר חיתוך iECHO PK" class="img-fluid lazzzy mt-16" data-src="img/small-additional-images/iECHO-PK-additional.jpg"/>
 </div>
@@ -1873,148 +1863,18 @@
 <!-- youmaylikeit END -->
 </div>
 <!-- footer -->
-<span id="pagescrollreach"></span> <!-- передача scroll to  Я Метрика - цель  pagescrollreach 340113272 -->
-<div class="footer-smart" id="contacts">
-<div id="edger"></div>
-<a class="order-button-footer show1 popup-content-without-arrows header-top-button d-md-none" href="#magnific-pop-up-contact-form" id="order-button-footer" onclick="ym(66079705,'reachGoal','form_iecho_mobile-button-form-click'); return true;">שאל שאלה</a>
-<div class="container container-footer">
+<span id="pagescrollreach"></span><footer class="footer-smart footer-placeholder" id="contacts">
+<div class="container container-footer py-24">
 <div class="row">
-<div class="col-12 col-md-6 col-lg-3 text-white footer-item">
-<div class="d-flex footer-logo">
-<a href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru"><img class="footer-logo-class mb-16" src="img/smart-t_logo.svg"/></a>
-</div>
-<div class="footer-main-phone fw500">
-<a href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru">LLC "Smart-T"</a> <br/>
-<a class="mb-12 d-block" href="tel:+74956639111">+7 (495) 663-9111</a>
-<p class="moscow-line mb-12">
-                        מוסקבה,<br/> 
-                        רח' שריקופודשיפניקובסקאיה,<br/> 13, עמ' 46
-                     </p>
-<a href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru">www.smart-t.ru</a> <br/>
-<a href="mailto:info@smart-t.ru">info@smart-t.ru</a>
-</div>
-</div>
-<!--  footer-offices -->
-<div class="col-12 col-md-6 col-lg-6 relat footer-offices text-white footer-item">
-<div class="d-flex footer-flexer justify-content-between">
-<p> מוסקבה
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+74956639111">+7 (495) 663-9111</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> סנט פטרבורג
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+78123313993">+7 (812) 331-3993</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> איבנובו
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+79109956147">+7 (910) 995-6147</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> קרסנודר
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+78612343189">+7 (861) 234-3189</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> ולדיקאבקז
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+79280652415">+7 (928) 065-2415</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> נברז'ניה צ'לני
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+78552781055">+7 (8552) 78-1055</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> קאזאן
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+79270457387">+7 (927) 045-73-87</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> אופא
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+79270430807">+7 (927) 043-0807</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> וורונז'
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+74732210030">+7 (473) 221-0030</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> יקטרינבורג
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+73432885901">+7 (343) 288-5901</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> נובוסיבירסק
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+73833636201">+7 (383) 36-36-201</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> קרסנויארסק
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+73912180086">+7 (391) 218-00-86</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p> מינסק
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:3757407409242">+375 (740) 740 92 42</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p class="mt-6"> טשקנט
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+998909664204">+998 (90) 966-4204</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p class="mt-6"> אלמטי
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+77273393369">+7 (727) 339-33-69</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p class="mt-6"> אסטנה
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+77172652001">+7 (7172) 65-20-01</a>
-</p></div>
-</div>
-<div class="d-flex footer-flexer justify-content-between">
-<p class="mt-6"> בישקק
-                        </p><div class="footer-flexer-phone">
-<p> <a href="tel:+996703463084">+996 (703) 46-30-84</a>
-</p></div>
-</div>
-</div>
-<!--  footer-offices -->
-<div class="col-12 col-lg-auto col-lg-2 relat footer-social-icons text-white offset-xl-1">
-<a href="https://t.me/smart_mimaki" target="_blank"><img class="social-bottom" height="32px;" src="img/social/colorful/telegram.svg" width="32px"/></a>
-<a href="https://www.youtube.com/c/SmartTchannel" target="_blank"><img class="social-bottom" height="32px;" src="img/social/colorful/youtube.svg" width="32px"/></a>
-<a href="https://rutube.ru/channel/25855989/videos/" target="_blank"><img class="social-bottom" height="32px;" src="img/social/colorful/RUTUBE_white_color_circle.svg" width="32px"/></a>
-<a href="https://www.facebook.com/smart.mimaki" target="_blank"><img class="social-bottom" height="32px;" src="img/social/colorful/facebook.svg" width="32px"/></a>
-<a href="https://www.instagram.com/smart.mimaki/" target="_blank"><img class="social-bottom" height="32px;" src="img/social/colorful/instagram.svg" width="32px"/></a>
-<a href="https://vk.com/smart.mimaki" target="_blank"><img class="social-bottom" height="32px;" src="img/social/colorful/vk.svg" width="32px"/></a>
-<p class="exclusive-small">חברת Smart-T היא המפיצה הבלעדית של iECHO בשטח<br class="d-none d-lg-block"/> רוסיה ובלארוס</p>
-<a class="footer-small-link d-inline-block mt-12" href="https://www.smart-t.ru/company/?utm_content=perehod_s_saita_iecho.ru" target="_blank">• על החברה</a> <br/>
-<a class="footer-small-link d-inline-block" href="https://www.smart-t.ru/oplata/lizingovye-kompanii/?utm_content=perehod_s_saita_iecho.ru" target="_blank">• ליסינג</a> <br/>
-<a class="footer-small-link d-inline-block" href="https://www.smart-t.ru/oplata/?utm_content=perehod_s_saita_iecho.ru" target="_blank">• תשלום ומשלוח</a>
+<div class="col-12 text-white footer-item text-center">
+<p class="mb-12">© iECHO</p>
+<a class="footer-small-link mx-12" href="#">תנאי שימוש</a>
+<a class="footer-small-link mx-12" href="#">מדיניות פרטיות</a>
+<a class="footer-small-link mx-12" href="#">נגישות</a>
 </div>
 </div>
 </div>
-</div>
+</footer> <!-- передача scroll to  Я Метрика - цель  pagescrollreach 340113272 -->
 <!-- ЭТОТ СКРИПТ БЫЛ ЗАТЁРТ 29.03.22 ИЗ-ЗА СИЛЬНЫХ ТОРМОЗОВ ПОСЛЕ БЛОКИРОВКА FACEBOOK -->
 <!-- Facebook Pixel Code -->
 <!-- Meta Pixel Code -->
@@ -2087,7 +1947,6 @@ src="https://www.facebook.com/tr?id=172722577400621&ev=PageView&noscript=1"
 <li class="small-mobile-menu-font"><a href="iecho-gls.php">ANRK לחיתוך ריצוף</a></li>
 <!--  <li class="small-mobile-menu-font"><a href="iecho-lcks.php">Комплексы для раскроя кожи</a></li> -->
 <li class="small-mobile-menu-font"><a href="iecho-pk.php">פלוטר חיתוך קומפקטי</a></li>
-<li class="small-mobile-menu-font"><a href="https://smart-t.ru/catalog/zapchasti/zapchasti_iecho/?utm_content=perehod_s_saita_iecho.ru">חלקי חילוף וכלי עבודה</a></li>
 </ul>
 <div class="contacts-mobile">
 <p class="fw500">חברה <a class="fw500" href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru" style="color: #0cb0fa!important;" target="_blank">"Smart-T" - </a> <br/>מפיץ בלעדי של iECHO ברוסיה ובבלרוס
