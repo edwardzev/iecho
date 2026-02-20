@@ -41,7 +41,7 @@
 <li><a class="menu-scroll" href="iecho-gls.php">חיתוך ריצוף<br/>ANRK</a>
 <div class="menu-img-droppp">
 <p class="mt-6 fw700 mb-8">iECHO GLSA/GLSC<br/>
-</p><p>מתחם חיתוך ופיזור עבור טקסטיל וחומרים רכים.<br/>
+</p><p>מערכת חיתוך ופריסה לטקסטיל ולחומרים רכים.<br/>
 <img class="lazzzy mt-12" data-src="img/menu-mini-img/glsc-mini.jpg"/>
 </p></div>
 </li>
@@ -182,7 +182,7 @@
 <div class="call-order d-none d-md-flex flex-column">
 <div class="schedule">
 <!--   <p class="">пн–пт  9:00–18:00</p>  -->
-<a class="order-button show1 popup-content-without-arrows header-top-button px-xl-20" href="#magnific-pop-up-contact-form">שאל שאלה</a>
+<a class="order-button show1 popup-content-without-arrows header-top-button px-xl-20" href="#magnific-pop-up-contact-form">השאירו פרטים</a>
 </div>
 </div>
 <div class="mobile-menu-switcher d-block d-xl-none ml-24"><img src="img/social/mobile-menu-switcher.svg"/> </div>
@@ -192,7 +192,7 @@
 <div class="container">
 <span id="top-anchor">
 <span class="filter_button" id="city-filter">ערים</span>
-<span class="filter_button ml-96" id="sphere-filter">ספירות</span>
+<span class="filter_button ml-96" id="sphere-filter">תחומים</span>
 </span></div>
 <div class="container-fluid d-flex flex-wrap justify-content-center" id="all-installations-container" style="background-color: #333;">
 <!--   <button id="btnShowMore">Показать ещё</button> -->
@@ -278,7 +278,7 @@ src="https://www.facebook.com/tr?id=172722577400621&ev=PageView&noscript=1"
 <div class="container">
 <div class="container-popper">
 <a href="index.php"><img src="img/logo.png" style="width: 150px; margin-bottom: 12px; "/></a>
-<p class="titler-mobiler fw700">חיתוך מתחמי וחיתוך פלוטרים iECHO </p>
+<p class="titler-mobiler fw700">מערכות חיתוך ופלוטרים של iECHO </p>
 <ul>
 <li class="small-mobile-menu-font"><a href="index.php">חברת iECHO</a></li>
 <li class="small-mobile-menu-font"><a href="iecho-bk_tk.php">חותכים אוניברסליים</a></li>
@@ -288,11 +288,11 @@ src="https://www.facebook.com/tr?id=172722577400621&ev=PageView&noscript=1"
 
 </ul>
 <div class="contacts-mobile">
-<p class="fw500">חברה <a class="fw500" href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru" style="color: #0cb0fa!important;" target="_blank">"Smart-T" - </a> <br/>מפיץ בלעדי של iECHO ברוסיה ובבלרוס
+<p class="fw500">חברה <a class="fw500" href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru" style="color: #0cb0fa!important;" target="_blank">"Smart-T" - </a> <br/>הנציגות הרשמית של iECHO בישראל
 </p><p><a href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru" target="_blank">www.smart-t.ru</a><br/>
 </p><p><a href="tel:+972505911818">050-591-1818</a><br/>
 </p><p><a href="mailto:info@reklamis.co.il">info@reklamis.co.il</a>
-</p><p class="fw500">משרד מרכזי: מוסקבה, רחוב Sharikopodshipnikovskaya, 13, בניין 46 </p>
+</p><p class="fw500">משרד ראשי: ישראל</p>
 </div>
 </div>
 <div class="menu-close"><img alt="" src="img/social/cancel-menu.svg"/></div>

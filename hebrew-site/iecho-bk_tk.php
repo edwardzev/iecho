@@ -142,7 +142,7 @@
 <li><a class="menu-scroll" href="iecho-gls.php">חיתוך ריצוף<br/>ANRK</a>
 <div class="menu-img-droppp">
 <p class="mt-6 fw700 mb-8">iECHO GLSA/GLSC<br/>
-</p><p>מתחם חיתוך ופיזור עבור טקסטיל וחומרים רכים.<br/>
+</p><p>מערכת חיתוך ופריסה לטקסטיל ולחומרים רכים.<br/>
 <img class="lazzzy mt-12" data-src="img/menu-mini-img/glsc-mini.jpg"/>
 </p></div>
 </li>
@@ -282,7 +282,7 @@
 <div class="call-order d-none d-md-flex flex-column">
 <div class="schedule">
 <!--   <p class="">пн–пт  9:00–18:00</p>  -->
-<a class="order-button show1 popup-content-without-arrows header-top-button px-xl-20" href="#magnific-pop-up-contact-form">שאל שאלה</a>
+<a class="order-button show1 popup-content-without-arrows header-top-button px-xl-20" href="#magnific-pop-up-contact-form">השאירו פרטים</a>
 </div>
 </div>
 <div class="mobile-menu-switcher d-block d-xl-none ml-24"><img src="img/social/mobile-menu-switcher.svg"/> </div>
@@ -291,13 +291,13 @@
 </div>
 <div class="container iecho-top-outer relat d-flex flex-column flex-lg-row align-items-start align-items-sm-start mb-40 mb-xxl-0 pl-lg-0">
 <div class="d-flex flex-column mr-lg-20 mr-xl-40">
-<h1 class="h1-iecho h1-iecho-huge"> חיתוך<br/> סיבוכים<br class="d-none d-lg-block d-xl-none"/>  iECHO</h1>
+<h1 class="h1-iecho h1-iecho-huge"> מערכות<br/> חיתוך<br class="d-none d-lg-block d-xl-none"/> iECHO</h1>
 <img class="img-fluid relat mt-12 d-md-none" src="img/complexes-collage.jpg"/>
 <div class="h1-p-iecho no-before relat ml-0" style="max-width: 1000px;">
-<p class="d-inline-block f20-18 mb-16 mt-16 mt-sm-24 mt-lg-0"> <span class="d-block f26-20">חיתוך מדויק אוטומטי<br class="d-none d-lg-block"/> במקום עבודת כפיים - לתעשייה <br class="d-none d-lg-block"/>מפעלים, מפעלים, PKK ובתי דפוס </span>
+<p class="d-inline-block f20-18 mb-16 mt-16 mt-sm-24 mt-lg-0"> <span class="d-block f26-20">חיתוך מדויק ואוטומטי<br class="d-none d-lg-block"/> כחלופה לעבודה ידנית בתעשייה <br class="d-none d-lg-block"/>במפעלים, בקווי ייצור ובבתי דפוס </span>
 </p><div class="check_mark_block relat pl-4 pl-sm-20 pl-xl-0 mb-24">
 <ul class="check_mark_block-ul pl-xl-16">
-<li>באמצעות חיתוך, חריצים, כרסום, ניקוב, סימון, שרטוט.</li>
+<li>לביצוע חיתוך, חריצה, כרסום, ניקוב, סימון ושרטוט.</li>
 <li>עובי חיתוך חומר עד 50 מ"מ • מהירות חיתוך עד 2 מ' לשנייה.</li>
 <li>כולל אספקה, התקנה והדרכה • הדגמה מעשית • ליסינג.</li>
 </ul>
@@ -337,7 +337,7 @@
 </div>
  -->
 <a class="top-form order-button2 order-button-inverted2 big-price-link show2 popup-content-without-arrows mt-24 mt-lg-0 mr-lg-12 d-flex" href="#magnific-pop-up-contact-form">גלה את המחיר</a>
-<a class="top-form order-button2 order-button-sub order-button-inverted2 big-price-link show3 popup-content-without-arrows mt-24 mt-lg-0 d-flex" href="#instalment-popup">רכישה <br class="d-none d-lg-block"/>  בתשלומים</a>
+<a class="top-form order-button2 order-button-sub order-button-inverted2 big-price-link show3 popup-content-without-arrows mt-24 mt-lg-0 d-flex" href="#instalment-popup">רכישה <br class="d-none d-lg-block"/> בתשלומים</a>
 </div>
 </div>
 </div>
@@ -345,7 +345,7 @@
 </div>
 <div class="container">
 <div class="row">
-<p class="d-inline-block f20-18 mb-16 mt-16 mt-sm-24 mt-lg-12 pl-16 pl-lg-0"><span class="d-block f26-20">יצרני אריזות קרטון, רהיטים מרופדים, <br class="d-none d-lg-block"/> ביגוד, מבני פרסום וחומרי קופה, <br class="d-none d-lg-block"/>כיסויים לרכב, אטמי גומי, חלקי מכשיר. </span>
+<p class="d-inline-block f20-18 mb-16 mt-16 mt-sm-24 mt-lg-12 pl-16 pl-lg-0"><span class="d-block f26-20">מיועד ליצרני אריזות, ריהוט מרופד, <br class="d-none d-lg-block"/>ביגוד, שילוט וחומרי נקודת מכירה, <br class="d-none d-lg-block"/>כיסויי רכב, אטמי גומי ורכיבים תעשייתיים. </span>
 </p></div>
 </div>
 <div class="container-fluid">
@@ -417,7 +417,7 @@
 <!--  <span class="top-iecho-item-description-titler-price">от 19 300$</span> -->
 <img alt="iECHO BK" class="bk-img img-fluid top-iecho-img d-block d-lg-none" src="img/iECHO-BK-1.png"/>
 <ul class="basic-ul">
-<li class="model-highlighter">מערכות החיתוך המקצועיות הזולות ביותר iECHO. מכסה 90% מהצרכים של PKK הרב תחומי.</li>
+<li class="model-highlighter">מערכת החיתוך המקצועית המשתלמת ביותר של iECHO. מתאימה לרוב צורכי הייצור הרב-תחומי.</li>
 <li>מהירות החיתוך היא עד 1.5 מ' לשנייה, שזה יותר מפי ארבע יותר מאשר חיתוך ידני.</li>
 <li>שטח עבודה: מ-1.3 על 1.1 מ' ועד 2.5 על 1.6 מ' </li>
 <li>מערכת מסועים כסטנדרט.</li>
@@ -532,14 +532,14 @@
 <!-- construct-features START -->
 <div class="construct-features">
 <div class="container">
-<h2 class="text-white d-inline-block"> <span>קונסטרוקטיבי</span> <span>תכונות</span>
+<h2 class="text-white d-inline-block"> <span>תכונות</span> <span>מבניות</span>
 <div class="slick-arrows-outer d-none d-sm-flex justify-content-center">
 <div class="slick-leftt mr-12"><img src="img/arrrower.svg"/></div>
 <div class="slick-rightt"><img src="img/arrrower.svg"/></div>
 </div>
 <!-- SLICK START -->
 <div class="slickslider iecho-slick1 relat z1 mb-64"> <div class="iecho-slick1-item relat no-slick-at-mobile">
-<p class="iecho-slick1-item-titler"><span>רב אזורים</span> שולחן ואקום מתכוונן
+<p class="iecho-slick1-item-titler"><span>שולחן ואקום</span> רב-אזורי מתכוונן
 </p>
 <img alt="שולחן ואקום רב אזורי iECHO" class="iecho-slick-img img-fluid" src="img/construct/vacuum.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
@@ -548,7 +548,7 @@
  </p></div>
 </div>
 <div class="iecho-slick1-item relat no-slick-at-mobile">
-<p class="iecho-slick1-item-titler"><span>מערכת</span> מכשיר בטיחות</p>
+<p class="iecho-slick1-item-titler"><span>מערכת</span> בטיחות</p>
 <img alt="התקן בטיחות iECHO" class="iecho-slick-img img-fluid" src="img/construct/safety-device.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
 <div class="iecho-slick-description-small">
@@ -571,8 +571,7 @@
 </div>
 </div>
 <div class="iecho-slick1-item relat no-slick-at-mobile">
-<p class="iecho-slick1-item-titler"><span>מסוע
- </span> מערכת </p>
+<p class="iecho-slick1-item-titler"><span>מערכת</span> מסוע </p>
 <img alt="מערכת מסועים iECHO" class="iecho-slick-img img-fluid" src="img/construct/c.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
 <div class="iecho-slick-description-small">
@@ -587,7 +586,7 @@
 </div>
 </div>
 <div class="iecho-slick1-item relat no-slick-at-mobile">
-<p class="iecho-slick1-item-titler"><span>שניים</span> פורטל בדגם TK4S
+<p class="iecho-slick1-item-titler"><span>שני</span> פורטלים בדגם TK4S
 </p>
 <img alt="שני פורטלים בדגם TK4S iECHO" class="iecho-slick-img img-fluid" src="img/construct/portals.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
@@ -604,7 +603,7 @@
  </p></div>
 </div>
 <div class="iecho-slick1-item relat no-slick-at-mobile">
-<p class="iecho-slick1-item-titler"><span>סע</span> פורטל</p>
+<p class="iecho-slick1-item-titler"><span>הנעת</span> פורטל</p>
 <img alt="כונן גאנטרי iECHO" class="iecho-slick-img img-fluid" src="img/construct/drive.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
 <div class="iecho-slick-description-small">
@@ -1030,7 +1029,7 @@
 <div class="container relat">
 <div class="materials-circle d-none d-md-block"><img src="img/SVG/materials-circle.svg"/></div>
 <div class="basic-black-materials-circle-simple-dot"></div>
-<h2 class="h2 d-inline-block text-white"><span>מעובד</span> <span>חומרים</span></h2>
+<h2 class="h2 d-inline-block text-white"><span>חומרים</span> <span>לעיבוד</span></h2>
 <div class="row text-white">
 <div class="col-6 col-lg-4 col-xl-3 materials-item">
 <p class="materials-item-big">טקסטיל</p>
@@ -1123,7 +1122,7 @@
 <!-- INSTRUMENTS start ----------------------------------------- -->
 <div class="INSTRUMENTS relat" id="instruments">
 <div class="container">
-<h2 class="h2-gray-version d-inline-block"> <span>כלים</span></h2>
+<h2 class="h2-gray-version d-inline-block"> <span>כלי עבודה</span></h2>
 <div class="row">
 <div class="col-12 col-xl-7" id="simple-tabs-top">
 <ul class="d-flex flex-wrap simple-tabs" data-tabgroup="first-tab-group">
@@ -1219,7 +1218,7 @@
 <div class="MILL relat mb-64">
 <div class="container relat">
 <div class="mill-simple-dot d-none d-lg-block"></div>
-<h2 class="h2-gray-version d-inline-block mb-lg-40"><span>אינסטרומנטלי</span> <span>מודולים</span> </h2>
+<h2 class="h2-gray-version d-inline-block mb-lg-40"><span>מודולים</span> <span>וכלי עבודה</span> </h2>
 <div class="row mt-lg-40 mt-xl-48">
 <div class="col-12 col-xl-3 d-flex module-item-outer">
 <div class="module-item p-24">
@@ -1293,7 +1292,7 @@
 <div class="SYSTEM pt-sm-80 pt-md-64 pt-lg-40" id="options">
 <div class="container relat">
 <div class="system-simple-dot"></div>
-<h2 class="h2-gray-version d-inline-block"><span>אפשרויות</span> <span>תחת שלך</span> <span>משימות</span></h2>
+<h2 class="h2-gray-version d-inline-block"><span>אפשרויות</span> <span>למשימות</span> <span>שלכם</span></h2>
 <!-- TABS------------------------------------------- -->
 <div class="container tabzzz d-flex">
 <dl class="responsive-tabs">
@@ -1342,7 +1341,7 @@
 <!-- iBrightCut   ----------------------------------------- -->
 <div class="iBrightCut pt-40 pb-80 pb-xl-120">
 <div class="container pt-sm-24 pt-xl-48 relat">
-<h2 class="h2-gray-version d-inline-block mb-lg-80 mb-xl-64"><span>תוכנה</span> <span>אבטחה</span></h2>
+<h2 class="h2-gray-version d-inline-block mb-lg-80 mb-xl-64"><span>תוכנת</span> <span>iBrightCut</span></h2>
 <!-- <div class="system-simple-dot"></div> -->
 </div>
 <div class="container relat mt-xl-36">
@@ -1397,7 +1396,7 @@
 <div class="i-video relat pt-xl-120" id="video">
 <div class="video-circle-simple-dot"></div>
 <div class="container relat">
-<h2 class="h2 d-inline-block text-white mb-lg-56 mb-xl-40"><span>עובד</span> <span>תהליך</span></h2>
+<h2 class="h2 d-inline-block text-white mb-lg-56 mb-xl-40"><span>תהליך</span> <span>עבודה</span></h2>
 <div class="row mt-xl-24 text-white z1 relat">
 <div class="col-12 col-lg-6 i-video-item">
 <p class="i-video-item-description">חיתוך מורכב iECHO SK2</p>
@@ -1796,7 +1795,7 @@ src="https://www.facebook.com/tr?id=172722577400621&ev=PageView&noscript=1"
 <div class="container">
 <div class="container-popper">
 <a href="index.php"><img src="img/logo.png" style="width: 150px; margin-bottom: 12px; "/></a>
-<p class="titler-mobiler fw700">חיתוך מתחמי וחיתוך פלוטרים iECHO </p>
+<p class="titler-mobiler fw700">מערכות חיתוך ופלוטרים של iECHO </p>
 <ul>
 <li class="small-mobile-menu-font"><a href="index.php">חברת iECHO</a></li>
 <li class="small-mobile-menu-font"><a href="iecho-bk_tk.php">חותכים אוניברסליים</a></li>
@@ -1805,11 +1804,11 @@ src="https://www.facebook.com/tr?id=172722577400621&ev=PageView&noscript=1"
 <li class="small-mobile-menu-font"><a href="iecho-pk.php">פלוטר חיתוך קומפקטי</a></li>
 </ul>
 <div class="contacts-mobile">
-<p class="fw500">חברה <a class="fw500" href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru" style="color: #0cb0fa!important;" target="_blank">"Smart-T" - </a> <br/>מפיץ בלעדי של iECHO ברוסיה ובבלרוס
+<p class="fw500">חברה <a class="fw500" href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru" style="color: #0cb0fa!important;" target="_blank">"Smart-T" - </a> <br/>הנציגות הרשמית של iECHO בישראל
 </p><p><a href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru" target="_blank">www.smart-t.ru</a><br/>
 </p><p><a href="tel:+972505911818">050-591-1818</a><br/>
 </p><p><a href="mailto:info@reklamis.co.il">info@reklamis.co.il</a>
-</p><p class="fw500">משרד מרכזי: מוסקבה, רחוב Sharikopodshipnikovskaya, 13, בניין 46 </p>
+</p><p class="fw500">משרד ראשי: ישראל</p>
 </div>
 </div>
 <div class="menu-close"><img alt="" src="img/social/cancel-menu.svg"/></div>

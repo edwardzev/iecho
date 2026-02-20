@@ -43,7 +43,7 @@
 <li><a class="menu-scroll" href="iecho-gls.php">חיתוך ריצוף<br/>ANRK</a>
 <div class="menu-img-droppp">
 <p class="mt-6 fw700 mb-8">iECHO GLSA/GLSC<br/>
-</p><p>מתחם חיתוך ופיזור עבור טקסטיל וחומרים רכים.<br/>
+</p><p>מערכת חיתוך ופריסה לטקסטיל ולחומרים רכים.<br/>
 <img class="lazzzy mt-12" data-src="img/menu-mini-img/glsc-mini.jpg"/>
 </p></div>
 </li>
@@ -183,7 +183,7 @@
 <div class="call-order d-none d-md-flex flex-column">
 <div class="schedule">
 <!--   <p class="">пн–пт  9:00–18:00</p>  -->
-<a class="order-button show1 popup-content-without-arrows header-top-button px-xl-20" href="#magnific-pop-up-contact-form">שאל שאלה</a>
+<a class="order-button show1 popup-content-without-arrows header-top-button px-xl-20" href="#magnific-pop-up-contact-form">השאירו פרטים</a>
 </div>
 </div>
 <div class="mobile-menu-switcher d-block d-xl-none ml-24"><img src="img/social/mobile-menu-switcher.svg"/> </div>
@@ -193,7 +193,7 @@
 <div class="bgblack">
 <div class="container pt-80 pt-sm-120">
 <h1 class="h1-iecho-not-main-page h1-gls f-xl-72 no-before text-lg-center w-100 text-white mt-xl-20">iECHO GLSA / GLSC <span class="definer orange-definer d-inline-block relat f-xl-40 px-12 py-4 mt-12 mb-lg-12">לחיתוך אוטומטי של ריצוף דחוס</span></h1>
-<p class="f24-18 text-lg-center text-white">מבטל גורם אנושי וטעויות חיתוך, <br class="d-none d-lg-block"/> להבטיח דיוק מושלם בעת חיתוך רב שכבות <br class="d-none d-lg-block"/> טקסטיל ולא ארוגים.</p>
+<p class="f24-18 text-lg-center text-white">מצמצם טעויות אנוש ותקלות חיתוך, <br class="d-none d-lg-block"/> ומבטיח דיוק גבוה בחיתוך רב-שכבתי <br class="d-none d-lg-block"/> של טקסטיל וחומרים לא-ארוגים.</p>
 <div class="container px-0 mt-24 mb-24 mb-xl-64 gls-topper relat"> <img class="img-fluid" src="img/gls/gls-top-image.jpg"/></div>
 <div class="row d-flex flex-column flex-lg-row justify-content-between f16" style="color: #e7e7e7;">
 <div class="column-card" style="background-color: #424242;"><span class="column-card-span">עובי ריצוף מקסימלי:<br/>75 מ"מ (GLSA) ו-90 מ"מ (GLSC)<br/>מהירות חיתוך מקסימלית:<br/>500 מ"מ לשנייה. (GLSA)<br/>1500 מ"מ לשנייה. (GLSC)</span></div>
@@ -221,7 +221,7 @@
 </div>
 <div class="col-12 col-xl-7 pl-lg-32">
 <h1 class="h1-iecho-not-main-page pl-16 pl-sm-0">iECHO GLSA </h1>
-<p class="h1-p-iecho-2"><span class="first-description-block">ANRK iECHO GLSA תעשייתי עם סכין מתנודדת במהירות גבוהה עם השחזה אוטומטית - חותכים כל טקסטיל וחומרים רכים באיכות גבוהה, דיוק ופרודוקטיביות. </span> <span class="first-description-block mt-12 d-block">זה עובד ביעילות במלוא קיבולת הן עם חיתוך המוני והן עם מודלים ניסיוניים בכל מורכבות.</span>
+<p class="h1-p-iecho-2"><span class="first-description-block">ANRK iECHO GLSA תעשייתי עם סכין מתנודדת במהירות גבוהה עם השחזה אוטומטית - חותכים כל טקסטיל וחומרים רכים באיכות גבוהה, דיוק ופרודוקטיביות. </span> <span class="first-description-block mt-12 d-block">המערכת עובדת ביעילות מלאה הן בייצור סדרתי והן בדגמים ניסיוניים בכל רמת מורכבות.</span>
 </p><div class="check_mark_block relat pl-4 pl-sm-20 pl-xl-0 mb-24 mt-24">
 <ul class="check_mark_block-ul pl-lg-16">
 <li>המערכת זמינה במלאי. הדגמה מעשית באולם הדגמה בשטח 900 מ״ר.</li>
@@ -236,7 +236,7 @@
 </div>
  -->
 <a class="top-form order-button2 order-button-inverted2 big-price-link show2 popup-content-without-arrows mt-24 mt-lg-0 mr-lg-12 d-flex" href="#magnific-pop-up-contact-form">גלה את המחיר</a>
-<a class="top-form order-button2 order-button-sub order-button-inverted2 big-price-link show3 popup-content-without-arrows mt-24 mt-lg-0 d-flex" href="#instalment-popup">רכישה <br class="d-none d-lg-block"/>  בתשלומים</a>
+<a class="top-form order-button2 order-button-sub order-button-inverted2 big-price-link show3 popup-content-without-arrows mt-24 mt-lg-0 d-flex" href="#instalment-popup">רכישה <br class="d-none d-lg-block"/> בתשלומים</a>
 </div>
 </div>
 </div>
@@ -293,7 +293,7 @@
 </div>
 <div class="row row-optional">
 <div class="col-12 mb-12">
-<p class="optional">אופציונלי אפשר להתקין</p>
+<p class="optional">אופציונלי ניתן להתקין</p>
 </div>
 <div class="col-12 col-lg-3 optional-white">מדריכים מתחת לחותך להתקנת 2 עד 3 מערכות פיתול להגברת הפרודוקטיביות.</div>
 <div class="col-12 col-lg-3 optional-white">מדריכים מתחת לחותך להתקנת 2 עד 3 התקני פיזור.</div>
@@ -484,7 +484,7 @@ GLSA-3225<br/>
 <div class="gls-advantages-simple-dot2 d-none d-md-block"></div>
 <div class="container d-flex flex-column flex-lg-row">
 <div class="h2-plus-add-description mb-xsplus-24 mb-lg-56">
-<h2 class="text-white mb-0 mb-md-48 d-inline-block"> <span>הטבות<span class="h2-add-description text-white z1 relat">טכנולוגיות חיתוך דיגיטליות ביחס לשיטות חיתוך מסורתיות</span></span></h2>
+<h2 class="text-white mb-0 mb-md-48 d-inline-block"> <span>יתרונות<span class="h2-add-description text-white z1 relat">טכנולוגיות חיתוך דיגיטליות לעומת שיטות חיתוך מסורתיות</span></span></h2>
 </div>
 <div class="row gls-rower text-white">
 <div class="col-12">
@@ -834,7 +834,7 @@ GLSA-3225<br/>
 <div class="GLS-VIDEO relat mb-12 mb-sm-40 mb-lg-56">
 <div class="gls-circle-simple-dot-2 d-none d-md-block"></div>
 <div class="container relat">
-<h2 class="h2 d-inline-block text-white mb-12 mb-sm-36 mb-md-56 mb-xl-40 mt-48 mt-xl-120"><span>עובד</span> <span>תהליך</span></h2>
+<h2 class="h2 d-inline-block text-white mb-12 mb-sm-36 mb-md-56 mb-xl-40 mt-48 mt-xl-120"><span>תהליך</span> <span>עבודה</span></h2>
 <div class="row mt-xl-24 text-white z1 relat">
 <div class="col-12 col-lg-6 i-video-item">
 <p class="i-video-item-description">מתחם הנחת וחיתוך iECHO GLSC-1820. צ'וסובי. מפעל לבגדי ילדים Crumb's (Iris LLC)</p>
@@ -1136,7 +1136,7 @@ src="https://www.facebook.com/tr?id=172722577400621&ev=PageView&noscript=1"
 <div class="container">
 <div class="container-popper">
 <a href="index.php"><img src="img/logo.png" style="width: 150px; margin-bottom: 12px; "/></a>
-<p class="titler-mobiler fw700">חיתוך מתחמי וחיתוך פלוטרים iECHO </p>
+<p class="titler-mobiler fw700">מערכות חיתוך ופלוטרים של iECHO </p>
 <ul>
 <li class="small-mobile-menu-font"><a href="index.php">חברת iECHO</a></li>
 <li class="small-mobile-menu-font"><a href="iecho-bk_tk.php">חותכים אוניברסליים</a></li>
@@ -1145,11 +1145,11 @@ src="https://www.facebook.com/tr?id=172722577400621&ev=PageView&noscript=1"
 <li class="small-mobile-menu-font"><a href="iecho-pk.php">פלוטר חיתוך קומפקטי</a></li>
 </ul>
 <div class="contacts-mobile">
-<p class="fw500">חברה <a class="fw500" href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru" style="color: #0cb0fa!important;" target="_blank">"Smart-T" - </a> <br/>מפיץ בלעדי של iECHO ברוסיה ובבלרוס
+<p class="fw500">חברה <a class="fw500" href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru" style="color: #0cb0fa!important;" target="_blank">"Smart-T" - </a> <br/>הנציגות הרשמית של iECHO בישראל
 </p><p><a href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru" target="_blank">www.smart-t.ru</a><br/>
 </p><p><a href="tel:+972505911818">050-591-1818</a><br/>
 </p><p><a href="mailto:info@reklamis.co.il">info@reklamis.co.il</a>
-</p><p class="fw500">משרד מרכזי: מוסקבה, רחוב Sharikopodshipnikovskaya, 13, בניין 46 </p>
+</p><p class="fw500">משרד ראשי: ישראל</p>
 </div>
 </div>
 <div class="menu-close"><img alt="" src="img/social/cancel-menu.svg"/></div>

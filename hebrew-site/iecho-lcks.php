@@ -41,7 +41,7 @@
 <li><a class="menu-scroll" href="iecho-gls.php">חיתוך ריצוף<br/>ANRK</a>
 <div class="menu-img-droppp">
 <p class="mt-6 fw700 mb-8">iECHO GLSA/GLSC<br/>
-</p><p>מתחם חיתוך ופיזור עבור טקסטיל וחומרים רכים.<br/>
+</p><p>מערכת חיתוך ופריסה לטקסטיל ולחומרים רכים.<br/>
 <img class="lazzzy mt-12" data-src="img/menu-mini-img/glsc-mini.jpg"/>
 </p></div>
 </li>
@@ -181,7 +181,7 @@
 <div class="call-order d-none d-md-flex flex-column">
 <div class="schedule">
 <!--   <p class="">пн–пт  9:00–18:00</p>  -->
-<a class="order-button show1 popup-content-without-arrows header-top-button px-xl-20" href="#magnific-pop-up-contact-form">שאל שאלה</a>
+<a class="order-button show1 popup-content-without-arrows header-top-button px-xl-20" href="#magnific-pop-up-contact-form">השאירו פרטים</a>
 </div>
 </div>
 <div class="mobile-menu-switcher d-block d-xl-none ml-24"><img src="img/social/mobile-menu-switcher.svg"/> </div>
@@ -208,7 +208,7 @@
 <div class="container relat">
 <div class="lcks-circle d-none d-xl-block"><img src="img/SVG/middle-circle.svg"/></div>
 <h2 class="h2-gray-version d-inline-block">
-<span>תחומי יישום  </span></h2>
+<span>תחומי יישום</span></h2>
 <div class="row d-flex justify-content-between">
 <div class="col lcks-application-item">
 <img src="img/lcks-application-icons/sofa.svg"/>
@@ -216,7 +216,7 @@
 </div>
 <div class="col lcks-application-item">
 <img src="img/lcks-application-icons/Car_seats.svg"/>
-<span class="text-left">רכב<br/>כורסאות</span>
+<span class="text-left">מושבי<br/>רכב</span>
 </div>
 <div class="col lcks-application-item">
 <img src="img/lcks-application-icons/clothes.svg"/>
@@ -228,7 +228,7 @@
 </div>
 <div class="col lcks-application-item">
 <img src="img/lcks-application-icons/hats.svg"/>
-<span class="text-left">ראשים<br/>כיסויי ראש</span>
+<span class="text-left">כובעים<br/>וכיסויי ראש</span>
 </div>
 <div class="col lcks-application-item">
 <img src="img/lcks-application-icons/bags.svg"/>
@@ -236,7 +236,7 @@
 </div>
 <div class="col lcks-application-item">
 <img src="img/lcks-application-icons/wallet.svg"/>
-<span class="text-left">מוצרי עור<br/>מוצרים</span>
+<span class="text-left">מוצרי<br/>עור</span>
 </div>
 </div>
 </div>
@@ -245,7 +245,7 @@
 <!-- lcks-features----------------------------------------------------------- -->
 <div class="lcks-features mb-0 mb-sm-24 mb-xl-0 mt-40 mr-sm-0">
 <div class="container">
-<h2 class="h2-gray-version d-inline-block mb-lg-56 mb-xl-72"> <span>תכונות של קומפלקס iECHO LCKS</span></h2>
+<h2 class="h2-gray-version d-inline-block mb-lg-56 mb-xl-72"> <span>תכונות מערכת iECHO LCKS</span></h2>
 <div class="row">
 <div class="col-12 col-lg-6">
 <ul class="basic-ul basic-ul-2 pl-sm-36 mb-48 mb-lg-0">
@@ -266,15 +266,15 @@
 <div class="col-12 col-lg-6 lcks-features-item">
 <div class="lcks-features-item-511">
 <p><span>כלי חיתוך</span></p>
- חותך iECHO LCKS מצויד בסכין מתנודדת בתדר גבוה מהדור החדש, שפותחה על ידי ECHO, בתדירות מהלכים של 25,000 מחזורים לדקה. התדירות הגבוהה ביותר של מהלך הסכין מאפשרת לך לחתוך עור במהירות גבוהה ובדיוק יוצא דופן.
+ חותך iECHO LCKS מצויד בסכין מתנודדת מהדור החדש, שפותחה על ידי iECHO, בתדירות של עד 25,000 מחזורים לדקה. התדירות הגבוהה ביותר של מהלך הסכין מאפשרת לך לחתוך עור במהירות גבוהה ובדיוק יוצא דופן.
 <img alt="iECHO LCKS כלי חיתוך" class="mt-24 img-fluid d-flex lazzzy" data-src="img/Cutting tool.jpg"/>
 </div>
 </div>
 <div class="col-12 col-lg-6 lcks-features-item d-flex justify-content-between flex-column relat">
 <div class="lcks-features-item-511">
-<p><span>נתונים מהותיים</span></p>
+<p><span>נתוני חומר</span></p>
 מערכת מיוחדת מאפשרת לקחת בחשבון את כל הפרמטרים החשובים של העור המעובד, הכוללים: שטח העור, היקף, אזורים עם פגמים, אי אחידות פני השטח וכו'. פגמים המצויים על יריעת העור מזוהים אוטומטית וניתן לסווג אותם לפי מידת המשמעות בהתאם להגדרות המשתמש.
-<img alt="iECHO LCKS - נתונים מהותיים" class="mt-24 img-fluid d-flex lazzzy" data-src="img/Material data.jpg"/>
+<img alt="iECHO LCKS - נתוני חומר" class="mt-24 img-fluid d-flex lazzzy" data-src="img/Material data.jpg"/>
 </div>
 </div>
 <div class="col-12 col-lg-6 col-xl-6 lcks-features-item d-flex justify-content-between flex-column relat">
@@ -458,7 +458,7 @@ src="https://www.facebook.com/tr?id=172722577400621&ev=PageView&noscript=1"
 <div class="container">
 <div class="container-popper">
 <a href="index.php"><img src="img/logo.png" style="width: 150px; margin-bottom: 12px; "/></a>
-<p class="titler-mobiler fw700">חיתוך מתחמי וחיתוך פלוטרים iECHO </p>
+<p class="titler-mobiler fw700">מערכות חיתוך ופלוטרים של iECHO </p>
 <ul>
 <li class="small-mobile-menu-font"><a href="index.php">חברת iECHO</a></li>
 <li class="small-mobile-menu-font"><a href="iecho-bk_tk.php">חותכים אוניברסליים</a></li>
@@ -467,11 +467,11 @@ src="https://www.facebook.com/tr?id=172722577400621&ev=PageView&noscript=1"
 <li class="small-mobile-menu-font"><a href="iecho-pk.php">פלוטר חיתוך קומפקטי</a></li>
 </ul>
 <div class="contacts-mobile">
-<p class="fw500">חברה <a class="fw500" href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru" style="color: #0cb0fa!important;" target="_blank">"Smart-T" - </a> <br/>מפיץ בלעדי של iECHO ברוסיה ובבלרוס
+<p class="fw500">חברה <a class="fw500" href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru" style="color: #0cb0fa!important;" target="_blank">"Smart-T" - </a> <br/>הנציגות הרשמית של iECHO בישראל
 </p><p><a href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru" target="_blank">www.smart-t.ru</a><br/>
 </p><p><a href="tel:+972505911818">050-591-1818</a><br/>
 </p><p><a href="mailto:info@reklamis.co.il">info@reklamis.co.il</a>
-</p><p class="fw500">משרד מרכזי: מוסקבה, רחוב Sharikopodshipnikovskaya, 13, בניין 46 </p>
+</p><p class="fw500">משרד ראשי: ישראל</p>
 </div>
 </div>
 <div class="menu-close"><img alt="" src="img/social/cancel-menu.svg"/></div>

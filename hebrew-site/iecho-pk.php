@@ -27,7 +27,7 @@
 <!-- <a href="#instruments">Инструменты</a> -->
 <!--   <a href="#options">Опции</a> -->
 <a href="#video">וידאו</a>
-<a href="#distributor">מפיץ</a>
+<a href="#distributor">נציגות</a>
 <a href="#demozal">אולם הדגמה</a>
 <a href="#pk-installations">התקנות</a>
 <a href="#contacts">אנשי קשר</a>
@@ -56,7 +56,7 @@
 <li><a class="menu-scroll" href="iecho-gls.php">חיתוך ריצוף<br/>ANRK</a>
 <div class="menu-img-droppp">
 <p class="mt-6 fw700 mb-8">iECHO GLSA/GLSC<br/>
-</p><p>מתחם חיתוך ופיזור עבור טקסטיל וחומרים רכים.<br/>
+</p><p>מערכת חיתוך ופריסה לטקסטיל ולחומרים רכים.<br/>
 <img class="lazzzy mt-12" data-src="img/menu-mini-img/glsc-mini.jpg"/>
 </p></div>
 </li>
@@ -196,7 +196,7 @@
 <div class="call-order d-none d-md-flex flex-column">
 <div class="schedule">
 <!--   <p class="">пн–пт  9:00–18:00</p>  -->
-<a class="order-button show1 popup-content-without-arrows header-top-button px-xl-20" href="#magnific-pop-up-contact-form">שאל שאלה</a>
+<a class="order-button show1 popup-content-without-arrows header-top-button px-xl-20" href="#magnific-pop-up-contact-form">השאירו פרטים</a>
 </div>
 </div>
 <div class="mobile-menu-switcher d-block d-xl-none ml-24"><img src="img/social/mobile-menu-switcher.svg"/> </div>
@@ -204,25 +204,25 @@
 </div>
 </div>
 <div class="container iecho-top-outer2 relat mb-0">
-<h1 class="h1-iecho-not-main-page">פלוטר חיתוך אוטומטי שטף iECHO PK / PK4</h1>
+<h1 class="h1-iecho-not-main-page">פלוטר חיתוך שטוח אוטומטי iECHO PK / PK4</h1>
 <div class="row row-gls-top mt-md-40 mt-lg-96 mb-0 mb-lg-96 d-flex">
 <div class="col-12 col-xl-5 col-xxl-6 text-center relat pk-img-outer">
 <div class="pk-color-back d-none d-xl-block"></div>
 <img class="img-fluid relat z3" src="img/iECHO-PK.png"/>
 </div>
 <div class="ideal z3">
-<span class="ideal-black">מושלם</span><br/>
-<span class="ideal-black">בחירה</span> <br/>
+<span class="ideal-black">בחירה</span><br/>
+<span class="ideal-black">מנצחת</span> <br/>
 <div class="ideal-yellow-outer">
 <span class="ideal-yellow">לבתי דפוס</span> <br/>
-<span class="ideal-yellow">והפקות פרסום</span>
+<span class="ideal-yellow">ולחברות פרסום</span>
 </div>
 </div>
 <div class="ml-lg-24">
 <p class="h1-p-iecho-2 align-self-start relat">
-<span class="first-description-block">iECHO PK הינה מערכת לחיתוך דמוי, חריץ, קימוט וחירור של חומרי יריעות בעובי של עד 10 מ"מ (סדרת PK) ועד 16 מ"מ (סדרת PK4). </span>
+<span class="first-description-block">iECHO PK היא מערכת לחיתוך צורני, חריצה, קיפול וחירור של חומרי יריעה בעובי של עד 10 מ"מ (סדרת PK) ועד 16 מ"מ (סדרת PK4). </span>
 <span class="d-block mt-16 mt-md-12">שטחי עבודה 600x400 - 1200x900 מ"מ.</span>
-<span class="d-block mt-16 mt-md-12">מסוע הובלה עם מהדק ואקום + מנגנון ואקום - מרים יריעות חומר מהערימה ומזין אותן לאזור החיתוך.</span>
+<span class="d-block mt-16 mt-md-12">מסוע הזנה עם ואקום מרים את היריעות מהערימה ומזין אותן אוטומטית לאזור החיתוך.</span>
 </p><div class="check_mark_block relat pl-4 pl-sm-20 pl-xl-0 mb-24 mt-24">
 <ul class="check_mark_block-ul pl-lg-16">
 <li>הפלוטרים זמינים במלאי. הדגמה מעשית באולם הדגמה בשטח 900 מ״ר.</li>
@@ -237,7 +237,7 @@
 </div>
  -->
 <a class="top-form order-button2 order-button-inverted2 big-price-link show2 popup-content-without-arrows mt-24 mt-lg-0 mr-lg-12 d-flex" href="#magnific-pop-up-contact-form">גלה את המחיר</a>
-<a class="top-form order-button2 order-button-sub order-button-inverted2 big-price-link show3 popup-content-without-arrows mt-24 mt-lg-0 d-flex" href="#instalment-popup">רכישה <br class="d-none d-lg-block"/>  בתשלומים</a>
+<a class="top-form order-button2 order-button-sub order-button-inverted2 big-price-link show3 popup-content-without-arrows mt-24 mt-lg-0 d-flex" href="#instalment-popup">רכישה <br class="d-none d-lg-block"/> בתשלומים</a>
 </div>
 </div>
 </div>
@@ -394,7 +394,7 @@
 </div>
 <!-- SLICK START -->
 <div class="slickslider iecho-slick1 relat z1 mb-64"> <div class="iecho-slick1-item relat no-slick-at-mobile">
-<p class="iecho-slick1-item-titler"><span>משופר</span> מערכת סכיני שבשבת
+<p class="iecho-slick1-item-titler"><span>מערכת</span> סכינים משופרת
 </p>
 <img alt="מערכת סכיני שבשבת iecho pk" class="iecho-slick-img img-fluid" src="img/pk-other/vane.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
@@ -411,7 +411,7 @@
  </div>
 </div>
 <div class="iecho-slick1-item relat no-slick-at-mobile">
-<p class="iecho-slick1-item-titler"><span>עוצמתי</span> מחשב עם מסך מגע (אופציונלי)</p>
+<p class="iecho-slick1-item-titler"><span>מחשב</span> עוצמתי עם מסך מגע (אופציונלי)</p>
 <img alt="מחשב מסך מגע iECHO PK" class="iecho-slick-img img-fluid" src="img/pk-other/comp.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
 <div class="iecho-slick-description-small">
@@ -420,8 +420,7 @@
   </div>
 </div>
 <div class="iecho-slick1-item relat no-slick-at-mobile">
-<p class="iecho-slick1-item-titler"><span>אור
- </span> ועגלה עמידה </p>
+<p class="iecho-slick1-item-titler"><span>כרכרה</span> קלה ועמידה </p>
 <img alt="כרכרה iECHO PK" class="iecho-slick-img img-fluid" src="img/pk-other/carriage.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
 <div class="iecho-slick-description-small">
@@ -430,7 +429,7 @@
  </div>
 </div>
 <div class="iecho-slick1-item relat no-slick-at-mobile">
-<p class="iecho-slick1-item-titler"><span>סופר מהיר</span> הנעה פניאומטית
+<p class="iecho-slick1-item-titler"><span>הנעה</span> פניאומטית מהירה במיוחד
 </p>
 <img alt="שני פורטלים בדגם TK4S iECHO" class="iecho-slick-img img-fluid" src="img/pk-other/actuator.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
@@ -439,21 +438,21 @@
   </div>
 </div>
 <div class="iecho-slick1-item relat no-slick-at-mobile">
-<p class="iecho-slick1-item-titler"><span>תוכנה</span>  מתן iBrightCut</p>
+<p class="iecho-slick1-item-titler"><span>תוכנת</span> iBrightCut</p>
 <img alt="כונן גאנטרי iECHO" class="iecho-slick-img img-fluid" src="img/pk-other/software.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
 <div class="iecho-slick-description-small">השוואת נתונים אוטומטית עם חיתוך, קמטים, קווים מנוקדים ללא הגדרות ידניות נוספות וחיתוך מיד לאחר ייבוא הקובץ. תואם באופן מלא עם תוכנת עיצוב אריזה.
  </div>
 </div>
 <div class="iecho-slick1-item relat no-slick-at-mobile">
-<p class="iecho-slick1-item-titler"><span>מערכת</span> ניפוח כף הרגל באוויר דחוס</p>
+<p class="iecho-slick1-item-titler"><span>מערכת</span> הפרדת גיליונות באוויר דחוס</p>
 <img alt="" class="iecho-slick-img img-fluid" src="img/pk-other/sys.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
 <div class="iecho-slick-description-small">מותקן במזין האוטומטי. מונע את היצמדותם של גיליונות זה לזה כשהם מוזנים לשולחן העבודה.
  </div>
 </div>
 <div class="iecho-slick1-item relat no-slick-at-mobile">
-<p class="iecho-slick1-item-titler"><span>מרשים</span> מבחר כלים</p>
+<p class="iecho-slick1-item-titler"><span>מבחר</span> כלים רחב</p>
 <img alt="iECHO PK Tools" class="iecho-slick-img img-fluid" src="img/pk-other/instr.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
 <div class="iecho-slick-description-small">2 סכיני נוצות, 2 סכינים משיקים, גלגלי קמטים, גלגלי ניקוב, סכין V-Cut (אופציונלי) לחיתוך חריץ בצורת V לכיפוף מסודר של חומרים עבים.
@@ -737,7 +736,7 @@
 <div class="container relat">
 <!--       <div class="materials-circle d-none d-md-block"><img src="img/SVG/materials-circle.svg"></div> -->
 <div class="basic-black-materials-circle-simple-dot"></div>
-<h2 class="h2 d-inline-block text-white"><span>מעובד</span> <span>חומרים</span></h2>
+<h2 class="h2 d-inline-block text-white"><span>חומרים</span> <span>לעיבוד</span></h2>
 <div class="row text-white">
 <div class="col-12 col-sm-6 col-lg-4 col-xl-3 materials-item">
 <p class="materials-item-big">לוח קצף</p>
@@ -797,7 +796,7 @@
 <div class="pk-VIDEO relat" id="video">
 <div class="gls-circle-simple-dot-2 d-none d-lg-block"></div>
 <div class="container relat">
-<h2 class="h2 d-inline-block text-white mb-lg-56 mb-xl-40"><span>עובד</span> <span>תהליך</span></h2>
+<h2 class="h2 d-inline-block text-white mb-lg-56 mb-xl-40"><span>תהליך</span> <span>עבודה</span></h2>
 <div class="row mt-xl-24 text-white z1 relat justify-content-center">
 <div class="col-12 i-video-item mt-12">
 <div class="embed-responsive embed-responsive-16by9">
@@ -834,7 +833,7 @@
 <!--VIDEO end------------------------------------------ -->
 <div class="container mt-64 mt-lg-120 mb-40 mb-sm-64 mb-xl-96 relat z1" id="distributor">
 <div class="row">
-<div class="col-12 col-lg-4 d-flex align-items-center order-lg-2 mb-40 mb-lg-0"><p class="distributor"> Smart-T היא המפיצה הבלעדית של הקושרים מסדרת iECHO PK ברוסיה <span class="d-block mt-12 mt-sm-24"> מפיץ מס' 1 ברוסיה על פי נתונים רשמיים של Hangzhou IECHO Science &amp; Technology Co., Ltd. לשנים 2022-23 </span> </p></div>
+<div class="col-12 col-lg-4 d-flex align-items-center order-lg-2 mb-40 mb-lg-0"><p class="distributor"> Smart-T היא המפיצה הבלעדית של הקושרים מסדרת iECHO PK ברוסיה <span class="d-block mt-12 mt-sm-24"> נציגות מס' 1 ברוסיה על פי נתונים רשמיים של Hangzhou IECHO Science &amp; Technology Co., Ltd. לשנים 2022-23 </span> </p></div>
 <div class="col-12 col-lg-4 offset-lg-2">
 <div class="distributor-outer relat relat z1"> <a class="image-popup relat z3" href="img/Exclusive_Distribution.jpg">
 <img alt="Smart-T היא המפיצה הבלעדית של הקושרים מסדרת iECHO PK ברוסיה" class="img-fluid lazzzy z3" data-src="img/Exclusive_Distribution.jpg"/>
@@ -1231,7 +1230,7 @@ src="https://www.facebook.com/tr?id=172722577400621&ev=PageView&noscript=1"
 <div class="container">
 <div class="container-popper">
 <a href="index.php"><img src="img/logo.png" style="width: 150px; margin-bottom: 12px; "/></a>
-<p class="titler-mobiler fw700">חיתוך מתחמי וחיתוך פלוטרים iECHO </p>
+<p class="titler-mobiler fw700">מערכות חיתוך ופלוטרים של iECHO </p>
 <ul>
 <li class="small-mobile-menu-font"><a href="index.php">חברת iECHO</a></li>
 <li class="small-mobile-menu-font"><a href="iecho-bk_tk.php">חותכים אוניברסליים</a></li>
@@ -1240,11 +1239,11 @@ src="https://www.facebook.com/tr?id=172722577400621&ev=PageView&noscript=1"
 <li class="small-mobile-menu-font"><a href="iecho-pk.php">פלוטר חיתוך קומפקטי</a></li>
 </ul>
 <div class="contacts-mobile">
-<p class="fw500">חברה <a class="fw500" href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru" style="color: #0cb0fa!important;" target="_blank">"Smart-T" - </a> <br/>מפיץ בלעדי של iECHO ברוסיה ובבלרוס
+<p class="fw500">חברה <a class="fw500" href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru" style="color: #0cb0fa!important;" target="_blank">"Smart-T" - </a> <br/>הנציגות הרשמית של iECHO בישראל
 </p><p><a href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru" target="_blank">www.smart-t.ru</a><br/>
 </p><p><a href="tel:+972505911818">050-591-1818</a><br/>
 </p><p><a href="mailto:info@reklamis.co.il">info@reklamis.co.il</a>
-</p><p class="fw500">משרד מרכזי: מוסקבה, רחוב Sharikopodshipnikovskaya, 13, בניין 46 </p>
+</p><p class="fw500">משרד ראשי: ישראל</p>
 </div>
 </div>
 <div class="menu-close"><img alt="" src="img/social/cancel-menu.svg"/></div>

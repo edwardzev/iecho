@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
-<title>iECHO. מתחמי חיתוך, ANRK ופלוטרים חיתוך לייצור תעשייתי </title>
+<title>iECHO. מתחמי חיתוך, ANRK ופלוטרי חיתוך לייצור תעשייתי </title>
 <meta content="כל הסדרות הזמינות: iECHO BK, BK3, BK4, TK4S, SK2, PK, PK4, GLSA, GLSC. כלים וחלקי חילוף. משלוח והתקנה. הַחכָּרָה." name="description"/>
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="iECHO, מתחם חיתוך iECHO, חותך iecho, פלוטר חיתוך iECHO" name="keywords"/>
@@ -106,7 +106,7 @@
 <li><a class="menu-scroll" href="iecho-gls.php">חיתוך ריצוף<br/>ANRK</a>
 <div class="menu-img-droppp">
 <p class="mt-6 fw700 mb-8">iECHO GLSA/GLSC<br/>
-</p><p>מתחם חיתוך ופיזור עבור טקסטיל וחומרים רכים.<br/>
+</p><p>מערכת חיתוך ופריסה לטקסטיל ולחומרים רכים.<br/>
 <img class="lazzzy mt-12" data-src="img/menu-mini-img/glsc-mini.jpg"/>
 </p></div>
 </li>
@@ -247,7 +247,7 @@
 <div class="call-order d-none d-md-flex flex-column">
 <div class="schedule">
 <!--   <p class="">пн–пт  9:00–18:00</p>  -->
-<a class="order-button show1 popup-content-without-arrows header-top-button px-xl-20" href="#magnific-pop-up-contact-form">שאל שאלה</a>
+<a class="order-button show1 popup-content-without-arrows header-top-button px-xl-20" href="#magnific-pop-up-contact-form">השאירו פרטים</a>
 </div>
 </div>
 <div class="mobile-menu-switcher d-block d-xl-none ml-24"><img src="img/social/mobile-menu-switcher.svg"/> </div>
@@ -258,7 +258,7 @@
 <div class="iecho-top-main-outer-outer relat z1">
 <div class="container iecho-top-main-outer relat d-flex flex-column flex-lg-row align-items-start align-items-sm-center">
 <h1 class="h1-iecho-main-page d-flex flex-column flex-md-row justify-content-center align-items-center"><span>iECHO</span>
-<span>מתחמי חיתוך, ANRK <br class="d-none d-lg-block"/>ופלוטרים חיתוך לאוטומציה של ייצור</span></h1>
+<span>מתחמי חיתוך, ANRK <br class="d-none d-lg-block"/>ופלוטרי חיתוך לאוטומציה של ייצור</span></h1>
 </div>
 <div class="container-main-page-products-top d-xl-flex justify-content-between relat z1">
 <div class="main-page-products-top-item d-flex flex-column align-items-center order-1 order-lg-2">
@@ -329,7 +329,7 @@
 <div class="container-fluid p-0 about-iecho-images d-flex flex-wrap flex-xl-nowrap justify-content-around justify-content-xl-between align-items-end">
 <div class="about-iecho-images-item relat"><img alt="" class="img-fluid lazzzy" data-src="img/iecho-assembly.jpg"/><div class="about-iecho-images-item-description">סדנת הרכבה iECHO</div></div>
 <div class="about-iecho-images-item ml-xl-16 mr-xl-16 relat"><img alt="" class="img-fluid lazzzy" data-src="img/iecho-assembly-2.jpg"/><div class="about-iecho-images-item-description">סדנת הרכבה iECHO</div></div>
-<div class="about-iecho-images-item relat"><img alt="" class="img-fluid lazzzy" data-src="img/iecho-plant.jpg"/><div class="about-iecho-images-item-description">צמח iECHO</div></div>
+<div class="about-iecho-images-item relat"><img alt="" class="img-fluid lazzzy" data-src="img/iecho-plant.jpg"/><div class="about-iecho-images-item-description">מפעל iECHO</div></div>
 </div>
 </div>
 <div class="iecho-application relat">
@@ -373,7 +373,7 @@
 </div>
 <div class="col-12 col-xl-5 offset-xl-1">
 <ul class="basic-ul-smart pl-sm-16 text-white relat z1">
-<li>*על פי נתונים רשמיים של Hangzhou IECHO Science &amp; Technology Co., Ltd לשנת 2022-23 חברת Smart-T תפסה בביטחון את המקום השלישי מבין כל המפיצים הגלובליים שלה במונחים של כמויות מכירות של מערכות חיתוך ופלוטרים חיתוך! </li>
+<li>*על פי נתונים רשמיים של Hangzhou IECHO Science &amp; Technology Co., Ltd לשנת 2022-23 חברת Smart-T תפסה בביטחון את המקום השלישי מבין כל המפיצים הגלובליים שלה במונחים של כמויות מכירות של מערכות חיתוך ופלוטרי חיתוך! </li>
 <!-- <li>Более 198 инсталляций iECHO за 2023 год </li> -->
 <li>מרכז ההפגנות והבדיקות הגדול ביותר באירופה: 900 מ״ר</li>
 <li>20 שנה בשוק. 11 משרדים אזוריים</li>
@@ -623,7 +623,7 @@ src="https://www.facebook.com/tr?id=172722577400621&ev=PageView&noscript=1"
 <div class="container">
 <div class="container-popper">
 <a href="index.php"><img src="img/logo.png" style="width: 150px; margin-bottom: 12px; "/></a>
-<p class="titler-mobiler fw700">חיתוך מתחמי וחיתוך פלוטרים iECHO </p>
+<p class="titler-mobiler fw700">מערכות חיתוך ופלוטרים של iECHO </p>
 <ul>
 <li class="small-mobile-menu-font"><a href="index.php">חברת iECHO</a></li>
 <li class="small-mobile-menu-font"><a href="iecho-bk_tk.php">חותכים אוניברסליים</a></li>
@@ -633,11 +633,11 @@ src="https://www.facebook.com/tr?id=172722577400621&ev=PageView&noscript=1"
 
 </ul>
 <div class="contacts-mobile">
-<p class="fw500">חברה <a class="fw500" href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru" style="color: #0cb0fa!important;" target="_blank">"Smart-T" - </a> <br/>מפיץ בלעדי של iECHO ברוסיה ובבלרוס
+<p class="fw500">חברה <a class="fw500" href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru" style="color: #0cb0fa!important;" target="_blank">"Smart-T" - </a> <br/>הנציגות הרשמית של iECHO בישראל
 </p><p><a href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru" target="_blank">www.smart-t.ru</a><br/>
 </p><p><a href="tel:+972505911818">050-591-1818</a><br/>
 </p><p><a href="mailto:info@reklamis.co.il">info@reklamis.co.il</a>
-</p><p class="fw500">משרד מרכזי: מוסקבה, רחוב Sharikopodshipnikovskaya, 13, בניין 46 </p>
+</p><p class="fw500">משרד ראשי: ישראל</p>
 </div>
 </div>
 <div class="menu-close"><img alt="" src="img/social/cancel-menu.svg"/></div>
