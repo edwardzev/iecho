@@ -418,6 +418,7 @@ src="https://www.facebook.com/tr?id=172722577400621&ev=PageView&noscript=1"
 <script src="libs/magnific_Pop-min.js"></script>
 <script src="libs/lazyYT-min.js"></script>
 <script src="js/scriptsiecho.min.js"></script>
+<script src="js/rtl-he.js?v=2"></script>
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript">
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
