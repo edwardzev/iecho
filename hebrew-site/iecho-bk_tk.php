@@ -128,9 +128,9 @@
 <div class="logo-with-menu d-flex align-items-center">
 <a href="index.php"><img class="menu-main-logo mr-4 mr-xsplus-16 mr-xl-64" src="img/logo.png"/></a>
 <ul class="justify-content-between menu-main-ul d-none d-xl-flex">
-<li><a class="menu-scroll" href="index.php">חברה<br/> iECHO</a></li>
+<li><a class="menu-scroll" href="index.php">iECHO<br/>חברה</a></li>
 <li class="li-divider"></li>
-<li><a class="menu-scroll" href="iecho-bk_tk.php">אוניברסלי<br/>חותכים</a>
+<li><a class="menu-scroll" href="iecho-bk_tk.php">חותכים<br/>אוניברסליים</a>
 <div class="menu-img-droppp">
 <p class="mt-6 fw700 mb-8">iECHO BK/TK4S/SK2 <br/>
 </p><p>לחיתוך בד, קרטון, פלסטיק, PVC.<br/>
@@ -139,7 +139,7 @@
 </p></div>
 </li>
 <li class="li-divider"></li>
-<li><a class="menu-scroll" href="iecho-gls.php">ANRK עבור<br/>חיתוך הריצוף</a>
+<li><a class="menu-scroll" href="iecho-gls.php">חיתוך ריצוף<br/>ANRK</a>
 <div class="menu-img-droppp">
 <p class="mt-6 fw700 mb-8">iECHO GLSA/GLSC<br/>
 </p><p>מתחם חיתוך ופיזור עבור טקסטיל וחומרים רכים.<br/>
@@ -156,7 +156,7 @@
 </li>
    <li class="li-divider"> 
 </li> -->
-<li><a class="menu-scroll lastli relat" href="iecho-pk.php">קומפקטי<br/> חיתוך פלוטרים</a>
+<li><a class="menu-scroll lastli relat" href="iecho-pk.php">פלוטרי חיתוך<br/>קומפקטיים</a>
 <div class="menu-img-droppp">
 <p class="mt-6 fw700 mb-8"> iECHO PK<br/>
 </p><p>חותך קרטון, ויניל וסרט - לאריזה, מדבקות וקופה.<br/>
@@ -165,18 +165,18 @@
 </p></div></li>
 </ul>
 <div class="iecho-contacts-mobile relat fw500 d-block d-lg-none">
-<a class="iecho-contacts-mobile-info" href="tel:+74956639111 ">+7 (495) 663-9111 </a><br/>
-<a class="iecho-contacts-mobile-info" href="mailto:info@smart-t.ru">info@smart-t.ru</a>
+<a class="iecho-contacts-mobile-info" href="tel:+972505911818">050-591-1818</a><br/>
+<a class="iecho-contacts-mobile-info" href="mailto:info@reklamis.co.il">info@reklamis.co.il</a>
 </div>
 </div>
 <div class="main-contacts-new relat align-self-center d-none d-lg-block ml-auto mr-24">
-<a class="" href="tel:+74956639111 " id="desktop-phone">+7 (495) 663-9111 </a>
+<a class="" href="tel:+972505911818" id="desktop-phone">050-591-1818</a>
 <div class="popup-contact">
 <div class="relat footer-offices contacts-mobile-cities-block text-white footer-item" id="contacts-info">
 <div class="d-flex footer-flexer justify-content-between">
 <p> מוסקבה
                         </p><div class="footer-flexer-phone">
-<p> <a href="tel:+74956639111">+7 (495) 663-9111</a>
+<p> <a href="tel:+972505911818">050-591-1818</a>
 </p></div>
 </div>
 <div class="d-flex footer-flexer justify-content-between">
@@ -277,7 +277,7 @@
 </div>
 </div>
 </div>
-<a class="emailer" href="mailto:info@smart-t.ru">info@smart-t.ru</a>
+<a class="emailer" href="mailto:info@reklamis.co.il">info@reklamis.co.il</a>
 </div>
 <div class="call-order d-none d-md-flex flex-column">
 <div class="schedule">
@@ -541,7 +541,7 @@
 <div class="slickslider iecho-slick1 relat z1 mb-64"> <div class="iecho-slick1-item relat no-slick-at-mobile">
 <p class="iecho-slick1-item-titler"><span>רב אזורים</span> שולחן ואקום מתכוונן
 </p>
-<img alt="שולחן ואקום רב אזורי iECHO" class="iecho-slick-img img-fluid" src="img\construct\vacuum.jpg"/>
+<img alt="שולחן ואקום רב אזורי iECHO" class="iecho-slick-img img-fluid" src="img/construct/vacuum.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
 <div class="iecho-slick-description-small">
   לכל הדגמים, למעט סדרת BK, יש שולחן ואקום רב אזורי.<p> אזור ההידוק מאפשר לא להסוות את אזור ההידוק שאינו בשימוש, ובכך להגדיל את יעילות ההידוק ולהפחית את עלויות האנרגיה.
@@ -549,7 +549,7 @@
 </div>
 <div class="iecho-slick1-item relat no-slick-at-mobile">
 <p class="iecho-slick1-item-titler"><span>מערכת</span> מכשיר בטיחות</p>
-<img alt="התקן בטיחות iECHO" class="iecho-slick-img img-fluid" src="img\construct\safety-device.jpg"/>
+<img alt="התקן בטיחות iECHO" class="iecho-slick-img img-fluid" src="img/construct/safety-device.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
 <div class="iecho-slick-description-small">
  פלוטרים מכל הסדרות מצוידים במערכת מיוחדת עם חיישן מגע, המבטיחה בטיחות מפעיל מלאה במהלך חיתוך מהיר. 
@@ -557,7 +557,7 @@
 </div>
 <div class="iecho-slick1-item relat no-slick-at-mobile">
 <p class="iecho-slick1-item-titler"><span>מערכת</span> קביעת עומק הכלי</p>
-<img alt="מערכת אתחול כלי אוטומטי מכאני AKI iECHO" class="iecho-slick-img img-fluid" src="img\construct\AKI.jpg"/>
+<img alt="מערכת אתחול כלי אוטומטי מכאני AKI iECHO" class="iecho-slick-img img-fluid" src="img/construct/AKI.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
 <div class="iecho-slick-description-small">
 ניתן לשלוט על עומק ההחדרה של כלי החיתוך בדיוק גבוה הודות למערכת אתחול הכלים האוטומטית עם חיישן מכני (AKI). 
@@ -573,7 +573,7 @@
 <div class="iecho-slick1-item relat no-slick-at-mobile">
 <p class="iecho-slick1-item-titler"><span>מסוע
  </span> מערכת </p>
-<img alt="מערכת מסועים iECHO" class="iecho-slick-img img-fluid" src="img\construct\c.jpg"/>
+<img alt="מערכת מסועים iECHO" class="iecho-slick-img img-fluid" src="img/construct/c.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
 <div class="iecho-slick-description-small">
  כל דגמי פלוטרי החיתוך יכולים להיות מצוידים בפונקציה חכמה לחיתוך רציף על מסוע.  
@@ -589,7 +589,7 @@
 <div class="iecho-slick1-item relat no-slick-at-mobile">
 <p class="iecho-slick1-item-titler"><span>שניים</span> פורטל בדגם TK4S
 </p>
-<img alt="שני פורטלים בדגם TK4S iECHO" class="iecho-slick-img img-fluid" src="img\construct\portals.jpg"/>
+<img alt="שני פורטלים בדגם TK4S iECHO" class="iecho-slick-img img-fluid" src="img/construct/portals.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
 <div class="iecho-slick-description-small">
 דגם ה-TK4S מספק את היכולת להתקין שני פורטלים בבת אחת, מה שמאפשר לבצע חיתוך על כל שטח השולחן. <p class="d-none d-sm-block">מערכת של שני מודולים הפועלים בו זמנית מאפשרת להאיץ משמעותית את תהליך החיתוך ולנהל בצורה היעילה ביותר את כל תהליך העבודה. 
@@ -597,7 +597,7 @@
 </div>
 <div class="iecho-slick1-item relat no-slick-at-mobile">
 <p class="iecho-slick1-item-titler"><span>מערכת</span> מיקום אופטי</p>
-<img alt="מערכת מיקום אופטית iECHO" class="iecho-slick-img img-fluid" src="img\construct\Система--оптического-позиционирования.jpg"/>
+<img alt="מערכת מיקום אופטית iECHO" class="iecho-slick-img img-fluid" src="img/construct/Система--оптического-позиционирования.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
 <div class="iecho-slick-description-small">
  כל הדגמים של מתחמי חיתוך iECHO מצוידים במערכת מיקום אוטומטית בעלת דיוק גבוה. מצלמת ה-CCD המובנית מבטיחה מיקום מדויק של הכלי ואפשרות לחיתוך קווי מתאר לפי סימני ייחוס. <p class="d-none d-sm-block">הודות לכך, אתה יכול למנוע שגיאות המלוות בדרך כלל פעולות ידניות ולקחת בחשבון את כל התכונות של התמונה החתוכה.
@@ -605,7 +605,7 @@
 </div>
 <div class="iecho-slick1-item relat no-slick-at-mobile">
 <p class="iecho-slick1-item-titler"><span>סע</span> פורטל</p>
-<img alt="כונן גאנטרי iECHO" class="iecho-slick-img img-fluid" src="img\construct\drive.jpg"/>
+<img alt="כונן גאנטרי iECHO" class="iecho-slick-img img-fluid" src="img/construct/drive.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
 <div class="iecho-slick-description-small">
  ב-TK4S, כונן הגאנטרי הוא עיצוב מתלים (הנעת הילוכים) המספק מהירות גבוהה, עמידות, חזרתיות ודינמיקה מצוינת בעת חיתוך חומרים צפופים בעומסי עבודה קיצוניים. <p class="d-none d-sm-block">לדגמים אחרים של חותכים יש הנעה של רצועת גאנטרי, המתאפיינת בפעולה שקטה, פעולה חלקה, היעדר רעידות טפיליות ורגישות נמוכה לעומסי יתר.
@@ -1806,8 +1806,8 @@ src="https://www.facebook.com/tr?id=172722577400621&ev=PageView&noscript=1"
 <div class="contacts-mobile">
 <p class="fw500">חברה <a class="fw500" href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru" style="color: #0cb0fa!important;" target="_blank">"Smart-T" - </a> <br/>מפיץ בלעדי של iECHO ברוסיה ובבלרוס
 </p><p><a href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru" target="_blank">www.smart-t.ru</a><br/>
-</p><p><a href="tel:+74956639111 ">+7 (495) 663-9111 </a><br/>
-</p><p><a href="mailto:info@smart-t.ru">info@smart-t.ru</a>
+</p><p><a href="tel:+972505911818">050-591-1818</a><br/>
+</p><p><a href="mailto:info@reklamis.co.il">info@reklamis.co.il</a>
 </p><p class="fw500">משרד מרכזי: מוסקבה, רחוב Sharikopodshipnikovskaya, 13, בניין 46 </p>
 </div>
 </div>
@@ -1816,7 +1816,7 @@ src="https://www.facebook.com/tr?id=172722577400621&ev=PageView&noscript=1"
 <div class="d-flex footer-flexer justify-content-between">
 <p> מוסקבה
                         </p><div class="footer-flexer-phone">
-<p> <a href="tel:+74956639111">+7 (495) 663-9111</a>
+<p> <a href="tel:+972505911818">050-591-1818</a>
 </p></div>
 </div>
 <div class="d-flex footer-flexer justify-content-between">

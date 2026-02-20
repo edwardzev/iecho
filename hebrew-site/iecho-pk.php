@@ -42,9 +42,9 @@
 <div class="logo-with-menu d-flex align-items-center">
 <a href="index.php"><img class="menu-main-logo mr-4 mr-xsplus-16 mr-xl-64" src="img/logo.png"/></a>
 <ul class="justify-content-between menu-main-ul d-none d-xl-flex">
-<li><a class="menu-scroll" href="index.php">חברה<br/> iECHO</a></li>
+<li><a class="menu-scroll" href="index.php">iECHO<br/>חברה</a></li>
 <li class="li-divider"></li>
-<li><a class="menu-scroll" href="iecho-bk_tk.php">אוניברסלי<br/>חותכים</a>
+<li><a class="menu-scroll" href="iecho-bk_tk.php">חותכים<br/>אוניברסליים</a>
 <div class="menu-img-droppp">
 <p class="mt-6 fw700 mb-8">iECHO BK/TK4S/SK2 <br/>
 </p><p>לחיתוך בד, קרטון, פלסטיק, PVC.<br/>
@@ -53,7 +53,7 @@
 </p></div>
 </li>
 <li class="li-divider"></li>
-<li><a class="menu-scroll" href="iecho-gls.php">ANRK עבור<br/>חיתוך הריצוף</a>
+<li><a class="menu-scroll" href="iecho-gls.php">חיתוך ריצוף<br/>ANRK</a>
 <div class="menu-img-droppp">
 <p class="mt-6 fw700 mb-8">iECHO GLSA/GLSC<br/>
 </p><p>מתחם חיתוך ופיזור עבור טקסטיל וחומרים רכים.<br/>
@@ -70,7 +70,7 @@
 </li>
    <li class="li-divider"> 
 </li> -->
-<li><a class="menu-scroll lastli relat" href="iecho-pk.php">קומפקטי<br/> חיתוך פלוטרים</a>
+<li><a class="menu-scroll lastli relat" href="iecho-pk.php">פלוטרי חיתוך<br/>קומפקטיים</a>
 <div class="menu-img-droppp">
 <p class="mt-6 fw700 mb-8"> iECHO PK<br/>
 </p><p>חותך קרטון, ויניל וסרט - לאריזה, מדבקות וקופה.<br/>
@@ -79,18 +79,18 @@
 </p></div></li>
 </ul>
 <div class="iecho-contacts-mobile relat fw500 d-block d-lg-none">
-<a class="iecho-contacts-mobile-info" href="tel:+74956639111 ">+7 (495) 663-9111 </a><br/>
-<a class="iecho-contacts-mobile-info" href="mailto:info@smart-t.ru">info@smart-t.ru</a>
+<a class="iecho-contacts-mobile-info" href="tel:+972505911818">050-591-1818</a><br/>
+<a class="iecho-contacts-mobile-info" href="mailto:info@reklamis.co.il">info@reklamis.co.il</a>
 </div>
 </div>
 <div class="main-contacts-new relat align-self-center d-none d-lg-block ml-auto mr-24">
-<a class="" href="tel:+74956639111 " id="desktop-phone">+7 (495) 663-9111 </a>
+<a class="" href="tel:+972505911818" id="desktop-phone">050-591-1818</a>
 <div class="popup-contact">
 <div class="relat footer-offices contacts-mobile-cities-block text-white footer-item" id="contacts-info">
 <div class="d-flex footer-flexer justify-content-between">
 <p> מוסקבה
                         </p><div class="footer-flexer-phone">
-<p> <a href="tel:+74956639111">+7 (495) 663-9111</a>
+<p> <a href="tel:+972505911818">050-591-1818</a>
 </p></div>
 </div>
 <div class="d-flex footer-flexer justify-content-between">
@@ -191,7 +191,7 @@
 </div>
 </div>
 </div>
-<a class="emailer" href="mailto:info@smart-t.ru">info@smart-t.ru</a>
+<a class="emailer" href="mailto:info@reklamis.co.il">info@reklamis.co.il</a>
 </div>
 <div class="call-order d-none d-md-flex flex-column">
 <div class="schedule">
@@ -363,7 +363,7 @@
 <p><span>מצלמת CCD בחדות גבוהה</span></p>
       מספק מיקום מדויק של חומרים שונים באופן אוטומטי, מונע בעיות שנגרמו מטעות אנוש. סורק סימנים ומבצע חיתוך קווי מתאר ללא שגיאות ללא התערבות מפעיל.
  </div>
-<img alt="מצלמת iECHO PK CCD" class="mt-24 img-fluid max-xl-552 lazzzy" data-src="img\pk-other\ccd_.jpg"/>
+<img alt="מצלמת iECHO PK CCD" class="mt-24 img-fluid max-xl-552 lazzzy" data-src="img/pk-other/ccd_.jpg"/>
 </div>
 <div class="col-12 pk-features-item d-flex justify-content-between flex-column relat">
 <div class="pk_circle d-none d-xl-block"></div>
@@ -396,7 +396,7 @@
 <div class="slickslider iecho-slick1 relat z1 mb-64"> <div class="iecho-slick1-item relat no-slick-at-mobile">
 <p class="iecho-slick1-item-titler"><span>משופר</span> מערכת סכיני שבשבת
 </p>
-<img alt="מערכת סכיני שבשבת iecho pk" class="iecho-slick-img img-fluid" src="img\pk-other\vane.jpg"/>
+<img alt="מערכת סכיני שבשבת iecho pk" class="iecho-slick-img img-fluid" src="img/pk-other/vane.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
 <div class="iecho-slick-description-small">
 העיצוב החדש של סכיני השבשבת iECHO PK מאפשר ייצוב מירבי של הגדרות כלי החיתוך, מה שמבטיח חיתוך מדויק במיוחד ללא חריגות של הפרמטרים שלו מההגדרות שצוינו.
@@ -404,7 +404,7 @@
 </div>
 <div class="iecho-slick1-item relat no-slick-at-mobile">
 <p class="iecho-slick1-item-titler"><span>מערכת</span> חיתוך באמצעות קוד QR</p>
-<img alt="מערכת חיתוך קוד QR של iECHO PK" class="iecho-slick-img img-fluid" src="img\pk-other\QR.jpg"/>
+<img alt="מערכת חיתוך קוד QR של iECHO PK" class="iecho-slick-img img-fluid" src="img/pk-other/QR.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
 <div class="iecho-slick-description-small">
 פונקציית סריקת קוד QR מספקת התחלה מהירה לפעולות העבודה. החומרים מעובדים באופן אוטומטי: עם השלמת המשימה הקודמת, המערכת, בהתבסס על נתונים המתקבלים מקוד QR הנקרא במצלמה מיוחדת, טוענת את קובץ החיתוך הבא.
@@ -412,7 +412,7 @@
 </div>
 <div class="iecho-slick1-item relat no-slick-at-mobile">
 <p class="iecho-slick1-item-titler"><span>עוצמתי</span> מחשב עם מסך מגע (אופציונלי)</p>
-<img alt="מחשב מסך מגע iECHO PK" class="iecho-slick-img img-fluid" src="img\pk-other\comp.jpg"/>
+<img alt="מחשב מסך מגע iECHO PK" class="iecho-slick-img img-fluid" src="img/pk-other/comp.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
 <div class="iecho-slick-description-small">
 את פלוטר iECHO PK ניתן לצייד במחשב מובנה עם מסך LCD נוח, המאפשר למפעיל להסתדר ללא מקלדת ועכבר. קלות שליטה מרבית בפוטר + חיסכון במקום. 
@@ -422,7 +422,7 @@
 <div class="iecho-slick1-item relat no-slick-at-mobile">
 <p class="iecho-slick1-item-titler"><span>אור
  </span> ועגלה עמידה </p>
-<img alt="כרכרה iECHO PK" class="iecho-slick-img img-fluid" src="img\pk-other\carriage.jpg"/>
+<img alt="כרכרה iECHO PK" class="iecho-slick-img img-fluid" src="img/pk-other/carriage.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
 <div class="iecho-slick-description-small">
  משפר באופן משמעותי את יכולת התמרון של המערכת כולה ומצמצם את זמן הנסיעה. פונקציית עצירת עגלה אוטומטית - אם מזוהה מכשול, העגלה נעצרת אוטומטית והפלוטר מושהה עד לביטולו.  
@@ -432,7 +432,7 @@
 <div class="iecho-slick1-item relat no-slick-at-mobile">
 <p class="iecho-slick1-item-titler"><span>סופר מהיר</span> הנעה פניאומטית
 </p>
-<img alt="שני פורטלים בדגם TK4S iECHO" class="iecho-slick-img img-fluid" src="img\pk-other\actuator.jpg"/>
+<img alt="שני פורטלים בדגם TK4S iECHO" class="iecho-slick-img img-fluid" src="img/pk-other/actuator.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
 <div class="iecho-slick-description-small">
 להרמת הסכין המתנודדת וגלגל הקמטים - מפחית משמעותית את זמן העיבוד.
@@ -440,21 +440,21 @@
 </div>
 <div class="iecho-slick1-item relat no-slick-at-mobile">
 <p class="iecho-slick1-item-titler"><span>תוכנה</span>  מתן iBrightCut</p>
-<img alt="כונן גאנטרי iECHO" class="iecho-slick-img img-fluid" src="img\pk-other\software.jpg"/>
+<img alt="כונן גאנטרי iECHO" class="iecho-slick-img img-fluid" src="img/pk-other/software.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
 <div class="iecho-slick-description-small">השוואת נתונים אוטומטית עם חיתוך, קמטים, קווים מנוקדים ללא הגדרות ידניות נוספות וחיתוך מיד לאחר ייבוא הקובץ. תואם באופן מלא עם תוכנת עיצוב אריזה.
  </div>
 </div>
 <div class="iecho-slick1-item relat no-slick-at-mobile">
 <p class="iecho-slick1-item-titler"><span>מערכת</span> ניפוח כף הרגל באוויר דחוס</p>
-<img alt="" class="iecho-slick-img img-fluid" src="img\pk-other\sys.jpg"/>
+<img alt="" class="iecho-slick-img img-fluid" src="img/pk-other/sys.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
 <div class="iecho-slick-description-small">מותקן במזין האוטומטי. מונע את היצמדותם של גיליונות זה לזה כשהם מוזנים לשולחן העבודה.
  </div>
 </div>
 <div class="iecho-slick1-item relat no-slick-at-mobile">
 <p class="iecho-slick1-item-titler"><span>מרשים</span> מבחר כלים</p>
-<img alt="iECHO PK Tools" class="iecho-slick-img img-fluid" src="img\pk-other\instr.jpg"/>
+<img alt="iECHO PK Tools" class="iecho-slick-img img-fluid" src="img/pk-other/instr.jpg"/>
 <div class="slide-count-wrap"><span class="current"></span></div>
 <div class="iecho-slick-description-small">2 סכיני נוצות, 2 סכינים משיקים, גלגלי קמטים, גלגלי ניקוב, סכין V-Cut (אופציונלי) לחיתוך חריץ בצורת V לכיפוף מסודר של חומרים עבים.
  </div>
@@ -1241,8 +1241,8 @@ src="https://www.facebook.com/tr?id=172722577400621&ev=PageView&noscript=1"
 <div class="contacts-mobile">
 <p class="fw500">חברה <a class="fw500" href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru" style="color: #0cb0fa!important;" target="_blank">"Smart-T" - </a> <br/>מפיץ בלעדי של iECHO ברוסיה ובבלרוס
 </p><p><a href="https://www.smart-t.ru/?utm_content=perehod_s_saita_iecho.ru" target="_blank">www.smart-t.ru</a><br/>
-</p><p><a href="tel:+74956639111 ">+7 (495) 663-9111 </a><br/>
-</p><p><a href="mailto:info@smart-t.ru">info@smart-t.ru</a>
+</p><p><a href="tel:+972505911818">050-591-1818</a><br/>
+</p><p><a href="mailto:info@reklamis.co.il">info@reklamis.co.il</a>
 </p><p class="fw500">משרד מרכזי: מוסקבה, רחוב Sharikopodshipnikovskaya, 13, בניין 46 </p>
 </div>
 </div>
@@ -1251,7 +1251,7 @@ src="https://www.facebook.com/tr?id=172722577400621&ev=PageView&noscript=1"
 <div class="d-flex footer-flexer justify-content-between">
 <p> מוסקבה
                         </p><div class="footer-flexer-phone">
-<p> <a href="tel:+74956639111">+7 (495) 663-9111</a>
+<p> <a href="tel:+972505911818">050-591-1818</a>
 </p></div>
 </div>
 <div class="d-flex footer-flexer justify-content-between">

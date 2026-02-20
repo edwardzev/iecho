@@ -143,6 +143,13 @@ html[lang="he"][dir="rtl"] .city-option {
   text-align: right;
 }
 
+/* Disable legacy phone hover popup by request */
+html[lang="he"][dir="rtl"] .popup-contact {
+  display: none !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+}
+
 /* Keep brand logos/graphics untouched */
 html[lang="he"][dir="rtl"] img,
 html[lang="he"][dir="rtl"] svg {
