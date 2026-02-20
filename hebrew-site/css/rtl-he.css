@@ -75,6 +75,30 @@ html[lang="he"][dir="rtl"] .s-dscr {
 }
 
 /* Lists and bullets */
+html[lang="he"][dir="rtl"] .basic-ul,
+html[lang="he"][dir="rtl"] .basic-ul-2,
+html[lang="he"][dir="rtl"] .basic-ul-big,
+html[lang="he"][dir="rtl"] .basic-ul-index,
+html[lang="he"][dir="rtl"] .basic-ul-smart,
+html[lang="he"][dir="rtl"] .basic-ul-pk,
+html[lang="he"][dir="rtl"] .check_mark_block-ul,
+html[lang="he"][dir="rtl"] .povtor-cities-ul {
+  direction: rtl;
+  text-align: right;
+  padding-right: 16px !important;
+  padding-left: 0 !important;
+}
+
+html[lang="he"][dir="rtl"] .basic-ul li,
+html[lang="he"][dir="rtl"] .basic-ul-2 li,
+html[lang="he"][dir="rtl"] .basic-ul-big li,
+html[lang="he"][dir="rtl"] .basic-ul-index li,
+html[lang="he"][dir="rtl"] .basic-ul-smart li,
+html[lang="he"][dir="rtl"] .basic-ul-pk li {
+  direction: rtl;
+  text-align: right;
+}
+
 html[lang="he"][dir="rtl"] .check_mark_block-ul li,
 html[lang="he"][dir="rtl"] .povtor-cities-ul li {
   padding-right: 16px;
@@ -86,6 +110,29 @@ html[lang="he"][dir="rtl"] .povtor-cities-ul li::before,
 html[lang="he"][dir="rtl"] .column-card-span::before {
   left: auto;
   right: -16px;
+}
+
+/* Demo-hall block: fix RTL marker and mixed bidi punctuation */
+html[lang="he"][dir="rtl"] .engineers,
+html[lang="he"][dir="rtl"] .engineers-subtext {
+  direction: rtl;
+  unicode-bidi: plaintext;
+}
+
+html[lang="he"][dir="rtl"] .engineers-line::before {
+  left: auto;
+  right: -30px;
+  border-left: 0;
+  border-right: 18px solid #fb6e29;
+}
+
+@media (max-width: 575.98px) {
+  html[lang="he"][dir="rtl"] .engineers-line::before {
+    left: auto;
+    right: -20px;
+    border-left: 0;
+    border-right: 12px solid #fb6e29;
+  }
 }
 
 /* Contact / popup alignment */

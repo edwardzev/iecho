@@ -225,7 +225,7 @@
 <span class="d-block mt-16 mt-md-12">מסוע הובלה עם מהדק ואקום + מנגנון ואקום - מרים יריעות חומר מהערימה ומזין אותן לאזור החיתוך.</span>
 </p><div class="check_mark_block relat pl-4 pl-sm-20 pl-xl-0 mb-24 mt-24">
 <ul class="check_mark_block-ul pl-lg-16">
-<li>פלוטרים זמינים. מבחן נהיגה בחדר הדגמה 900 מ'<sup>2</sup>.</li>
+<li>פלוטרים זמינים. מבחן נהיגה בחדר הדגמה 900 מ״ר.</li>
 <li>משלוח, התקנה והדרכה. תמיכה בשירות.</li>
 <li>תוכניות ליסינג</li>
 </ul>
@@ -889,160 +889,15 @@
 <!-- company-facts-right-side -->
 <div class="container mb-80 mb-md-120 mt-80" style="background-color: #333;">
 <div class="row">
-<div class="relat d-flex col-12 col-xl-5 col-xxl-4 relat align-items-center mb-0 p-24 pr-md-120 pr-lg-64 pl-lg-40 modules-right-block-outer-extendede-before ml-xxl-80"><p class="modules-right-block f18"> 11 נציגויות <br class="d-none d-xl-block"/>ברוסיה. משרדי נציגות בבלארוס, קזחסטן, אוזבקיסטן וקירגיזסטן <span class="d-block mt-12 mt-sm-24">אנו פותרים באופן מיידי את כל הבעיות הקשורות לתחזוקת שירות ואספקת חלקי חילוף.</span>
+<div class="relat d-flex col-12 relat align-items-center mb-0 p-24 pr-md-120 pr-lg-64 pl-lg-40 modules-right-block-outer-extendede-before ml-xxl-80"><p class="modules-right-block f18"> 11 נציגויות <br class="d-none d-xl-block"/>ברוסיה. משרדי נציגות בבלארוס, קזחסטן, אוזבקיסטן וקירגיזסטן <span class="d-block mt-12 mt-sm-24">אנו פותרים באופן מיידי את כל הבעיות הקשורות לתחזוקת שירות ואספקת חלקי חילוף.</span>
 </p>
 </div>
-<div class="col-12 col-xl-6 relat d-flex flex-wrap justify-content-center d-xl-block relat z2">
-<!-- КАРТА MAPPER START -->
-<div class="relat" id="mappper">
-<p class="mappper-description abs fw500 text-white">מפה אזורית<br/>נציגויות</p>
-<img alt="מפת נציגויות חברת Smart-T" height="420" src="img/smart-map.png" width="700"/>
-<div class="pin pin-main" data-xpos="88" data-ypos="147">
-<span class="close-map-tooltip">×</span>
-<p class="mapper-pin-title">מוסקבה</p>
-<ul>
-<li>st. Sharikopodshipnikovskaya, 13, בניין 46</li>
-<li><a href="tel:+74956639111">+7 495 663-9111</a></li>
-</ul>
 </div>
-<div class="pin" data-xpos="101" data-ypos="100">
-<span class="close-map-tooltip">×</span>
-<p class="mapper-pin-title">סנט פטרבורג</p>
-<ul>
-<li>st. Yakornaya, 15, ליטר א</li>
-<li><a href="tel:+78123313993">+7 (812) 331-3993</a></li>
-</ul>
-</div>
-<div class="pin" data-xpos="123" data-ypos="170">
-<span class="close-map-tooltip">×</span>
-<p class="mapper-pin-title">איבנובו</p>
-<ul>
-<li>st. Sosnovaya, 20A</li>
-<li><a href="tel:+79109956147">+7 (910) 995-61-47</a></li>
-</ul>
-</div>
-<div class="pin" data-xpos="47" data-ypos="127">
-<span class="close-map-tooltip">×</span>
-<p class="mapper-pin-title">מינסק</p>
-<ul>
-<li>st. Promyshlennaya, 6B, bdg. 1</li>
-<li><a href="tel:+3757407409242">+375 (740) 740 92 42</a></li>
-</ul>
-</div>
-<div class="pin" data-xpos="28" data-ypos="230">
-<span class="close-map-tooltip">×</span>
-<p class="mapper-pin-title">קרסנודר</p>
-<ul>
-<li>st. אורלסקאיה, 102/1</li>
-<li><a href="tel:+78612343189">+7 (861) 234-3189</a></li>
-</ul>
-</div>
-<div class="pin" data-xpos="38" data-ypos="260">
-<span class="close-map-tooltip">×</span>
-<p class="mapper-pin-title">ולדיקאבקז</p>
-<ul>
-<li>st. אוסטרובסקוגו, 35</li>
-<li><a href="tel:+79280652415">+7 (928) 065-2415</a></li>
-</ul>
-</div>
-<div class="pin" data-xpos="73" data-ypos="190">
-<span class="close-map-tooltip">×</span>
-<p class="mapper-pin-title">וורונז'</p>
-<ul>
-<li>st. Respublikanskaya, 74A</li>
-<li><a href="tel:+74732210030">+7 (473) 221-0030</a></li>
-</ul>
-</div>
-<div class="pin" data-xpos="132" data-ypos="208">
-<span class="close-map-tooltip">×</span>
-<p class="mapper-pin-title">קאזאן</p>
-<ul>
-<li>st. Daurskaya, 46 "A"</li>
-<li><a href="tel:+79270457387">+7 (927) 045-73-87</a></li>
-</ul>
-</div>
-<div class="pin" data-xpos="150" data-ypos="213">
-<span class="close-map-tooltip">×</span>
-<p class="mapper-pin-title">נברז'ניה צ'לני</p>
-<ul>
-<li>Raisa Belyaeva Ave., 1a, בניין 2</li>
-<li><a href="tel:+78552781055">+7 (8552) 78-1055</a></li>
-</ul>
-</div>
-<div class="pin" data-xpos="161" data-ypos="234">
-<span class="close-map-tooltip">×</span>
-<p class="mapper-pin-title">אופא</p>
-<ul>
-<li>st. סטפנה חלטורינה, 41</li>
-<li><a href="tel:+79270430807">+7 (927) 043-0807</a></li>
-</ul>
-</div>
-<div class="pin" data-xpos="187" data-ypos="224">
-<span class="close-map-tooltip">×</span>
-<p class="mapper-pin-title">יקטרינבורג</p>
-<ul>
-<li>st. סולנצ'ניה, 41</li>
-<li><a href="tel:+73432885901">+7 (343) 288-5901</a></li>
-</ul>
-</div>
-<div class="pin" data-xpos="211" data-ypos="294">
-<span class="close-map-tooltip">×</span>
-<p class="mapper-pin-title">אסטנה</p>
-<ul>
-<li>st. ז'ניס 75\2</li>
-<li><a href="tel:+77172652001">+7 (7172) 65-20-01</a></li>
-</ul>
-</div>
-<div class="pin" data-xpos="291" data-ypos="288">
-<span class="close-map-tooltip">×</span>
-<p class="mapper-pin-title">נובוסיבירסק</p>
-<ul>
-<li>st. פיסרבה, בן 60</li>
-<li><a href="tel:+73833636201">+7 (383) 36-36-201</a></li>
-</ul>
-</div>
-<div class="pin" data-xpos="343" data-ypos="279">
-<span class="close-map-tooltip">×</span>
-<p class="mapper-pin-title">קרסנויארסק</p>
-<ul>
-<li>st. 2 בריאנסקאיה, 20</li>
-<li><a href="tel:+73912180086">+7 (391) 218-00-86</a></li>
-</ul>
-</div>
-<div class="pin" data-xpos="226" data-ypos="373">
-<span class="close-map-tooltip">×</span>
-<p class="mapper-pin-title">אלמטי</p>
-<ul>
-<li>מחוז מיקרו אסטנה, 6</li>
-<li><a href="tel:+77273393369">+7 (727) 339-33-69</a></li>
-</ul>
-</div>
-<div class="pin" data-xpos="163" data-ypos="380">
-<span class="close-map-tooltip">×</span>
-<p class="mapper-pin-title">טשקנט</p>
-<ul>
-<li>מחוז אוכטפה, רח' Fazyltepa, 25A</li>
-<li><a href="tel:+998909664204">+998 90 966-42-04</a></li>
-</ul>
-</div>
-<div class="pin" data-xpos="206" data-ypos="389">
-<span class="close-map-tooltip">×</span>
-<p class="mapper-pin-title">בישקק</p>
-<ul>
-<li>st. Karasaeva 3</li>
-<li><a href="tel:+996703463084">+996 (703) 46-30-84</a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-<!-- КАРТА MAPPER END -->
 </div>
 <!-- блок инженеров  END -->
 <div class="container relat" id="demozal">
 <div class="engineers-circle-simple-dot-2 d-none d-xl-block"></div>
-<div class="engineers text-center text-white"><span class="engineers-line relat">אולם הדגמות</span> 900 מ'<sup>2</sup></div>
+<div class="engineers text-center text-white"><span class="engineers-line relat">אולם הדגמות</span> 900 מ״ר</div>
 <div class="engineers-subtext text-center mt-8 mb-24">אחד מחדרי ההדגמה הגדולים באירופה - יותר מ-50 ציוד.<br/>ציוד לייצור פרסום, טקסטיל, מזכרות ותוויות.<br/> </div>
 <div class="row pb-lg-64 pb-xl-120 mt-md-36 relat">
 <div class="col-12 col-md-6 mb-12 engineers-item">

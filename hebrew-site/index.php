@@ -375,7 +375,7 @@
 <ul class="basic-ul-smart pl-sm-16 text-white relat z1">
 <li>*על פי נתונים רשמיים של Hangzhou IECHO Science &amp; Technology Co., Ltd לשנת 2022-23 חברת Smart-T תפסה בביטחון את המקום השלישי מבין כל המפיצים הגלובליים שלה במונחים של כמויות מכירות של מערכות חיתוך ופלוטרים חיתוך! </li>
 <!-- <li>Более 198 инсталляций iECHO за 2023 год </li> -->
-<li>מרכז ההפגנות והבדיקות הגדול ביותר באירופה: 900 מ'<sup>2</sup></li>
+<li>מרכז ההפגנות והבדיקות הגדול ביותר באירופה: 900 מ״ר</li>
 <li>20 שנה בשוק. 11 משרדים אזוריים</li>
 <!-- <li>82 сертифицированных инженера в 22 городах России</li> -->
 </ul>
@@ -442,7 +442,7 @@
 <!-- блок инженеров  END -->
 <div class="container relat" id="demozal">
 <div class="engineers-circle-simple-dot-2 d-none d-xl-block"></div>
-<div class="engineers text-center text-white"><span class="engineers-line relat">אולם הדגמות</span> 900 מ'<sup>2</sup></div>
+<div class="engineers text-center text-white"><span class="engineers-line relat">אולם הדגמות</span> 900 מ״ר</div>
 <div class="engineers-subtext text-center mt-8 mb-24">אחד מחדרי ההדגמה הגדולים באירופה - יותר מ-50 ציוד.<br/>ציוד לייצור פרסום, טקסטיל, מזכרות ותוויות.<br/> </div>
 <div class="row pb-lg-64 pb-xl-120 mt-md-36 relat">
 <div class="col-12 col-md-6 mb-12 engineers-item">
