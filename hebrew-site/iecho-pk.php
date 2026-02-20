@@ -28,7 +28,7 @@
 <!--   <a href="#options">Опции</a> -->
 <a href="#video">וידאו</a>
 <a href="#distributor">מפיץ</a>
-<a href="#demozal">אולם הדגמות</a>
+<a href="#demozal">אולם הדגמה</a>
 <a href="#pk-installations">התקנות</a>
 <a href="#contacts">אנשי קשר</a>
 </div>
@@ -225,9 +225,9 @@
 <span class="d-block mt-16 mt-md-12">מסוע הובלה עם מהדק ואקום + מנגנון ואקום - מרים יריעות חומר מהערימה ומזין אותן לאזור החיתוך.</span>
 </p><div class="check_mark_block relat pl-4 pl-sm-20 pl-xl-0 mb-24 mt-24">
 <ul class="check_mark_block-ul pl-lg-16">
-<li>פלוטרים זמינים. מבחן נהיגה בחדר הדגמה 900 מ״ר.</li>
-<li>משלוח, התקנה והדרכה. תמיכה בשירות.</li>
-<li>תוכניות ליסינג</li>
+<li>הפלוטרים זמינים במלאי. הדגמה מעשית באולם הדגמה בשטח 900 מ״ר.</li>
+<li>אספקה, התקנה והדרכה. תמיכת שירות שוטפת.</li>
+<li>אפשרויות ליסינג</li>
 </ul>
 </div>
 <div class="d-flex flex-column flex-lg-row align-items-stretch mx-12 mx-sm-auto mt-32">
@@ -850,7 +850,7 @@
 <div class="container relat mb-56">
 <div class="engineers-circle-simple-dot-2 d-none d-xl-block"></div>
 <div class="engineers text-center text-white pt-24"><span class="engineers-line relat">94</span> מהנדס מוסמך<br/>ב-22 ערים ברוסיה</div>
-<div class="engineers-subtext text-center mt-8 mb-24">אנו מתקינים ציוד סוהר.<br/> אנו מכשירים את העובדים שלך לעבודה עם המתחמים. <br/>אנחנו עובדים בכל רחבי רוסיה.</div>
+<div class="engineers-subtext text-center mt-8 mb-24">אנו מתקינים את הציוד באתר הלקוח.<br/> אנו מכשירים את הצוות שלכם לעבודה עם המערכות. <br/>אנחנו פועלים בכל רחבי רוסיה.</div>
 <div class="mb-lg-64 mt-md-36 relat">
 <!-- ИНСТАЛЛЯЦИИ--------------------------------------------------- -->
 <div class="slickslider-engineer relat z1">
@@ -889,7 +889,7 @@
 <!-- company-facts-right-side -->
 <div class="container mb-80 mb-md-120 mt-80" style="background-color: #333;">
 <div class="row">
-<div class="relat d-flex col-12 relat align-items-center mb-0 p-24 pr-md-120 pr-lg-64 pl-lg-40 modules-right-block-outer-extendede-before ml-xxl-80"><p class="modules-right-block f18"> 11 נציגויות <br class="d-none d-xl-block"/>ברוסיה. משרדי נציגות בבלארוס, קזחסטן, אוזבקיסטן וקירגיזסטן <span class="d-block mt-12 mt-sm-24">אנו פותרים באופן מיידי את כל הבעיות הקשורות לתחזוקת שירות ואספקת חלקי חילוף.</span>
+<div class="relat d-flex col-12 relat align-items-center mb-0 p-24 pr-md-120 pr-lg-64 pl-lg-40 modules-right-block-outer-extendede-before ml-xxl-80"><p class="modules-right-block f18"> 11 נציגויות <br class="d-none d-xl-block"/>ברוסיה, לצד משרדים בבלארוס, קזחסטן, אוזבקיסטן וקירגיזסטן <span class="d-block mt-12 mt-sm-24">אנו מטפלים במהירות בכל נושא של שירות ואספקת חלקי חילוף.</span>
 </p>
 </div>
 </div>
@@ -897,8 +897,8 @@
 <!-- блок инженеров  END -->
 <div class="container relat" id="demozal">
 <div class="engineers-circle-simple-dot-2 d-none d-xl-block"></div>
-<div class="engineers text-center text-white"><span class="engineers-line relat">אולם הדגמות</span> 900 מ״ר</div>
-<div class="engineers-subtext text-center mt-8 mb-24">אחד מחדרי ההדגמה הגדולים באירופה - יותר מ-50 ציוד.<br/>ציוד לייצור פרסום, טקסטיל, מזכרות ותוויות.<br/> </div>
+<div class="engineers text-center text-white"><span class="engineers-line relat">אולם הדגמה</span> 900 מ״ר</div>
+<div class="engineers-subtext text-center mt-8 mb-24">אחד מאולמות ההדגמה הגדולים באירופה - עם יותר מ-50 מערכות ציוד.<br/>ציוד לתעשיות הפרסום, הטקסטיל, המזכרות והתוויות.<br/> </div>
 <div class="row pb-lg-64 pb-xl-120 mt-md-36 relat">
 <div class="col-12 col-md-6 mb-12 engineers-item">
 <img class="img-fluid lazzzy" data-src="img/demozal/101.jpg"/>

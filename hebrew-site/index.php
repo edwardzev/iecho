@@ -399,7 +399,7 @@
 <div class="container relat mb-56">
 <div class="engineers-circle-simple-dot-2 d-none d-xl-block"></div>
 <div class="engineers text-center text-white pt-24"><span class="engineers-line relat">94</span> מהנדס מוסמך<br/>ב-22 ערים ברוסיה</div>
-<div class="engineers-subtext text-center mt-8 mb-24">אנו מתקינים ציוד סוהר.<br/> אנו מכשירים את העובדים שלך לעבודה עם המתחמים. <br/>אנחנו עובדים בכל רחבי רוסיה.</div>
+<div class="engineers-subtext text-center mt-8 mb-24">אנו מתקינים את הציוד באתר הלקוח.<br/> אנו מכשירים את הצוות שלכם לעבודה עם המערכות. <br/>אנחנו פועלים בכל רחבי רוסיה.</div>
 <div class="mb-lg-64 mt-md-36 relat">
 <!-- ИНСТАЛЛЯЦИИ--------------------------------------------------- -->
 <div class="slickslider-engineer relat z1">
@@ -442,8 +442,8 @@
 <!-- блок инженеров  END -->
 <div class="container relat" id="demozal">
 <div class="engineers-circle-simple-dot-2 d-none d-xl-block"></div>
-<div class="engineers text-center text-white"><span class="engineers-line relat">אולם הדגמות</span> 900 מ״ר</div>
-<div class="engineers-subtext text-center mt-8 mb-24">אחד מחדרי ההדגמה הגדולים באירופה - יותר מ-50 ציוד.<br/>ציוד לייצור פרסום, טקסטיל, מזכרות ותוויות.<br/> </div>
+<div class="engineers text-center text-white"><span class="engineers-line relat">אולם הדגמה</span> 900 מ״ר</div>
+<div class="engineers-subtext text-center mt-8 mb-24">אחד מאולמות ההדגמה הגדולים באירופה - עם יותר מ-50 מערכות ציוד.<br/>ציוד לתעשיות הפרסום, הטקסטיל, המזכרות והתוויות.<br/> </div>
 <div class="row pb-lg-64 pb-xl-120 mt-md-36 relat">
 <div class="col-12 col-md-6 mb-12 engineers-item">
 <img class="img-fluid lazzzy" data-src="img/demozal/101.jpg"/>

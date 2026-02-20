@@ -114,7 +114,7 @@
 <a href="#instruments">כלים</a>
 <a href="#options">אפשרויות</a>
 <a href="#video">וידאו</a>
-<a href="#demozal">אולם הדגמות</a>
+<a href="#demozal">אולם הדגמה</a>
 <a href="#bk_tk-installations">התקנות</a>
 <a href="#contacts">אנשי קשר</a>
 </div>
@@ -299,7 +299,7 @@
 <ul class="check_mark_block-ul pl-xl-16">
 <li>באמצעות חיתוך, חריצים, כרסום, ניקוב, סימון, שרטוט.</li>
 <li>עובי חיתוך חומר עד 50 מ"מ • מהירות חיתוך עד 2 מ' לשנייה.</li>
-<li>עם משלוח, התקנה והדרכה • מבחן נהיגה • ליסינג.</li>
+<li>כולל אספקה, התקנה והדרכה • הדגמה מעשית • ליסינג.</li>
 </ul>
 </div>
 <img class="img-fluid relat d-block d-lg-none my-12" src="img/mat2.jpg"/>
@@ -1265,7 +1265,7 @@
 <!-- MODULES SLIDER -->
 <div class="container mt-64 mt-lg-80 mb-64 mb-sm-12 mb-lg-120 relat z1 modules-main-outer py-48 py-lg-0">
 <div class="row mb-lg-56">
-<div class="relat d-flex col-12 col-lg-4 align-items-center mb-0 p-24 pr-md-120 pr-lg-64 pl-lg-40 modules-right-block-outer ml-lg-56"><p class="modules-right-block"> בחדר ההדגמה שלנו תוכלו לבדוק כלי iECHO לחיתוך חומרים שמעניינים אתכם. <span class="d-block mt-12 mt-sm-24">נסיעת מבחן על מגוון רחב של חומרים גמישים ונוקשים, דקים ועבים ושימוש בקבצים שלך.
+<div class="relat d-flex col-12 col-lg-4 align-items-center mb-0 p-24 pr-md-120 pr-lg-64 pl-lg-40 modules-right-block-outer ml-lg-56"><p class="modules-right-block"> בחדר ההדגמה שלנו תוכלו לבדוק את כלי iECHO לחיתוך החומרים שמעניינים אתכם. <span class="d-block mt-12 mt-sm-24">הדגמה מעשית על מגוון רחב של חומרים גמישים ונוקשים, דקים ועבים, כולל עבודה עם הקבצים שלכם.
 </span>
 </p></div>
 <div class="col-12 col-lg-7 popup-gallery mb-24 mb-lg-0 d-sm-flex">
@@ -1463,7 +1463,7 @@
 <div class="container relat mb-56">
 <div class="engineers-circle-simple-dot-2 d-none d-xl-block"></div>
 <div class="engineers text-center text-white pt-24"><span class="engineers-line relat">94</span> מהנדס מוסמך<br/>ב-22 ערים ברוסיה</div>
-<div class="engineers-subtext text-center mt-8 mb-24">אנו מתקינים ציוד סוהר.<br/> אנו מכשירים את העובדים שלך לעבודה עם המתחמים. <br/>אנחנו עובדים בכל רחבי רוסיה.</div>
+<div class="engineers-subtext text-center mt-8 mb-24">אנו מתקינים את הציוד באתר הלקוח.<br/> אנו מכשירים את הצוות שלכם לעבודה עם המערכות. <br/>אנחנו פועלים בכל רחבי רוסיה.</div>
 <div class="mb-lg-64 mt-md-36 relat">
 <!-- ИНСТАЛЛЯЦИИ--------------------------------------------------- -->
 <div class="slickslider-engineer relat z1">
@@ -1502,7 +1502,7 @@
 <!-- company-facts-right-side -->
 <div class="container mb-80 mb-md-120 mt-80" style="background-color: #333;">
 <div class="row">
-<div class="relat d-flex col-12 relat align-items-center mb-0 p-24 pr-md-120 pr-lg-64 pl-lg-40 modules-right-block-outer-extendede-before ml-xxl-80"><p class="modules-right-block f18"> 11 נציגויות <br class="d-none d-xl-block"/>ברוסיה. משרדי נציגות בבלארוס, קזחסטן, אוזבקיסטן וקירגיזסטן <span class="d-block mt-12 mt-sm-24">אנו פותרים באופן מיידי את כל הבעיות הקשורות לתחזוקת שירות ואספקת חלקי חילוף.</span>
+<div class="relat d-flex col-12 relat align-items-center mb-0 p-24 pr-md-120 pr-lg-64 pl-lg-40 modules-right-block-outer-extendede-before ml-xxl-80"><p class="modules-right-block f18"> 11 נציגויות <br class="d-none d-xl-block"/>ברוסיה, לצד משרדים בבלארוס, קזחסטן, אוזבקיסטן וקירגיזסטן <span class="d-block mt-12 mt-sm-24">אנו מטפלים במהירות בכל נושא של שירות ואספקת חלקי חילוף.</span>
 </p>
 </div>
 </div>
@@ -1510,8 +1510,8 @@
 <!-- блок инженеров  END -->
 <div class="container relat" id="demozal">
 <div class="engineers-circle-simple-dot-2 d-none d-xl-block"></div>
-<div class="engineers text-center text-white"><span class="engineers-line relat">אולם הדגמות</span> 900 מ״ר</div>
-<div class="engineers-subtext text-center mt-8 mb-24">אחד מחדרי ההדגמה הגדולים באירופה - יותר מ-50 ציוד.<br/>ציוד לייצור פרסום, טקסטיל, מזכרות ותוויות.<br/> </div>
+<div class="engineers text-center text-white"><span class="engineers-line relat">אולם הדגמה</span> 900 מ״ר</div>
+<div class="engineers-subtext text-center mt-8 mb-24">אחד מאולמות ההדגמה הגדולים באירופה - עם יותר מ-50 מערכות ציוד.<br/>ציוד לתעשיות הפרסום, הטקסטיל, המזכרות והתוויות.<br/> </div>
 <div class="row pb-lg-64 pb-xl-120 mt-md-36 relat">
 <div class="col-12 col-md-6 mb-12 engineers-item">
 <img class="img-fluid lazzzy" data-src="img/demozal/101.jpg"/>
